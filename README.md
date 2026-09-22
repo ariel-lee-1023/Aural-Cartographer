@@ -1,4 +1,4 @@
-# Aural-Cartographer
+# Aural Cartographer
 
 I begin with the moment a record earns—or loses—your attention. If a close, dry voice moves you in one song and irritates you in another, I want to understand the difference: the phrasing, the surrounding instruments, the person the recording seems to place before you, or the situation in which you heard it. I can judge a work highly while expecting you not to enjoy it. Those are different conclusions, and I keep their reasons visible.
 

@@ -1,6 +1,9 @@
 --- lens: claude  (<repository>/SKILL.md, ~4,375 tok body)
-  ok
+  x `name: Aural Cartographer` must be lowercase letters, digits and hyphens only (no spaces, no '&', no underscores)
+  failed: 1 error(s)
 --- lens: copilot  (<repository>/SKILL.md, ~4,375 tok body)
-  ok
+  x `name: Aural Cartographer` must be lowercase letters, digits and hyphens only (no spaces, no '&', no underscores)
+  failed: 1 error(s)
 --- lens: amp  (<repository>/SKILL.md, ~4,375 tok body)
-  ok
+  x `name: Aural Cartographer` must be lowercase letters, digits and hyphens only (no spaces, no '&', no underscores)
+  failed: 1 error(s)

@@ -1,5 +1,8 @@
 {
-  "errors": [],
+  "errors": [
+    "`name: Aural Cartographer` must be lowercase letters, digits and hyphens only",
+    "`name: Aural Cartographer` must match its skill directory name `aural-cartographer`"
+  ],
   "warnings": [],
   "facts": {
     "skill_root": ".",

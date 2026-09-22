@@ -148,8 +148,16 @@
   "core_total_estimated_tokens": 4493,
   "discovery_symlink": "../..",
   "discovery_resolves_to_root": true,
-  "runtime_hash": "sha256:9d9b2f8157bfce6c81a1160771cd9b96fa58e9c655731c3a3112bc6510a65081",
+  "runtime_hash": "sha256:2ab0876f436b8a06c198e447422fb0fca86c0b12e849afc14e2bbe43d2be5d5b",
   "forbidden_source_or_scratch_files": [],
   "private_paths_or_token_patterns": [],
-  "private_source_files_distributed": false
+  "private_source_files_distributed": false,
+  "user_requested_name_override": {
+    "name": "Aural Cartographer",
+    "discovery_alias": "aural-cartographer",
+    "validation_errors": [
+      "`name: Aural Cartographer` must be lowercase letters, digits and hyphens only",
+      "`name: Aural Cartographer` must match its skill directory name `aural-cartographer`"
+    ]
+  }
 }

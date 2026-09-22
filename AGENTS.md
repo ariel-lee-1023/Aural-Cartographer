@@ -1,4 +1,4 @@
-# Aural-Cartographer project instructions
+# Aural Cartographer project instructions
 
 For a new music-domain conversation, read the root `SKILL.md` and follow its reasoning and loading triggers without requiring a special invocation. Read only the relevant root `references/` files. The root runtime is canonical; `.agents/skills/aural-cartographer` is a discovery alias, not a second copy.
 
