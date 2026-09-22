@@ -1,0 +1,193 @@
+{
+  "version": 2,
+  "defined_before_extraction": true,
+  "tasks": [
+    {
+      "id": "r4-dev-flow",
+      "partition": "development",
+      "group": "r4-dev-flow",
+      "kind": "apply",
+      "prompt": "A supplied transcription places stressed syllables every three sixteenths over a steady 4/4 backing; rhymes recur at beat 4 and then at beat 1 of the next bar, while a syntactic phrase continues across that barline. Explain the flow without hearing the recording.",
+      "criteria": {
+        "relations": "Separates backing meter, vocal grouping, rhyme and syntactic phrase; crossing a barline does not itself change meter",
+        "effect": "Offers qualified consequences such as continuation or shifted closure, not automatic excellence",
+        "evidence": "Does not infer exact timbre, microtiming or persona from notation alone"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "r4-dev-beat",
+      "partition": "development",
+      "group": "r4-dev-beat",
+      "kind": "apply",
+      "prompt": "Session notes identify a two-bar source passage chopped into three fragments, reordered over new drums with one fragment omitted before the hook. Explain the producer\u2019s composition and what still needs verification.",
+      "criteria": {
+        "construction": "Explains selection, chopping, sequencing and new rhythmic/timbral/formal function",
+        "layers": "Separates source recording, transformed beat, arrangement and final mix",
+        "provenance": "Treats source identity as supported by notes and does not invent precise processing or legal status"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "provenance"
+      ]
+    },
+    {
+      "id": "r4-dev-rnb",
+      "partition": "development",
+      "group": "r4-dev-rnb",
+      "kind": "apply",
+      "prompt": "A described late-1960s recording combines a gospel-shaped solo/response exchange, blues inflections, a repeated bass figure and a contrasting bridge. Explain its R&B connections without defining the whole genre by one trait.",
+      "criteria": {
+        "grammar": "Relates vocal, rhythmic, harmonic/formal dimensions and historically adjacent traditions",
+        "category": "Separates musical lineage from industry genre identity",
+        "limit": "Does not infer exact pitches or a fixed R&B checklist from the description"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "limit"
+      ]
+    },
+    {
+      "id": "r4-dev-nosample",
+      "partition": "development",
+      "group": "r4-dev-nosample",
+      "kind": "inapplicable",
+      "prompt": "A new hip-hop beat uses only newly played synthesizers and programmed drums. Does Schloss prove it is not authentic hip-hop?",
+      "criteria": {
+        "scope": "Bounds Schloss to sample-based practice and studied communities",
+        "judgment": "Separates local producer norms, genre membership and aesthetic success"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "judgment"
+      ]
+    },
+    {
+      "id": "r4-dev-dispute",
+      "partition": "development",
+      "group": "r4-dev-dispute",
+      "kind": "disagreement",
+      "prompt": "One producer values a loop because it preserves the found recording; another values chopping because it reveals transformation. Which is objectively superior?",
+      "criteria": {
+        "disagreement": "Preserves differing producer judgments about looping and chopping rather than a universal complexity ladder",
+        "criterion": "Explains what each choice accomplishes in context; technical intricacy, value and liking remain separate"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "criterion"
+      ]
+    },
+    {
+      "id": "r4-dev-lyrics",
+      "partition": "development",
+      "group": "r4-dev-lyrics",
+      "kind": "unsupported",
+      "prompt": "Here are printed lyrics with line breaks but no audio or rhythmic transcription. Tell me where the rapper delays the beat, accents syllables and places rhymes in the meter.",
+      "criteria": {
+        "boundary": "Can discuss textual rhyme but refuses exact performed timing or metric placement from line breaks",
+        "next": "Names reliable audio/transcription or supplied rhythmic evidence needed"
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "next"
+      ]
+    },
+    {
+      "id": "r4-final-flow",
+      "partition": "final",
+      "group": "r4-final-flow",
+      "kind": "apply",
+      "prompt": "Supplied rhythmic evidence shows equal syllable counts in two verses: A reinforces four-beat phrase boundaries; B groups onsets across those boundaries, shifts rhyme closure and leaves a rest before the return. Explain why the flows differ and whether B must be better.",
+      "criteria": {
+        "relation": "Compares phrasing, rhyme, grouping and silence relative to the backing",
+        "density": "Does not conflate equal density with identical flow or displacement with better music",
+        "limits": "Does not invent heard delivery/persona or measured listener liking"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "limits"
+      ]
+    },
+    {
+      "id": "r4-final-beat",
+      "partition": "final",
+      "group": "r4-final-beat",
+      "kind": "apply",
+      "prompt": "Verified production notes say a producer kept a source loop intact, filtered its bass, added a newly played bass line, and drops the loop under an MC pickup. Explain composition, arrangement and recording without calling it mere copying.",
+      "criteria": {
+        "practice": "Explains selection, contextual transformation, layering and silence as consequential decisions",
+        "separation": "Separates source continuity, new musical function and finished sonic presentation",
+        "qualification": "Does not assume all hip-hop uses samples or guess the filter setting"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "qualification"
+      ]
+    },
+    {
+      "id": "r4-final-rnb",
+      "partition": "final",
+      "group": "r4-final-rnb",
+      "kind": "apply",
+      "prompt": "Two described 1990s tracks share gospel-derived vocal ornament; one has a static funk ostinato, the other a pop-oriented sectional harmonic plan. Map their R&B relationships without ranking racial or stylistic purity.",
+      "criteria": {
+        "relations": "Explains distinct historical mixtures across rhythm, voice, harmony and form",
+        "history": "Does not equate shared feature with fixed identity or linear progress",
+        "boundary": "Treats Ripani\u2019s blues-system argument as attributed and historically bounded"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "boundary"
+      ]
+    },
+    {
+      "id": "r4-final-contemporary",
+      "partition": "final",
+      "group": "r4-final-contemporary",
+      "kind": "inapplicable",
+      "prompt": "Use Ripani alone to classify a 2025 alternative-R&B release and explain its production history.",
+      "criteria": {
+        "scope": "States 1999 historical endpoint and insufficiency for present classification/history",
+        "use": "Offers historically informed questions and additional contemporary evidence needed without fabricating findings"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "use"
+      ]
+    },
+    {
+      "id": "r4-final-dispute",
+      "partition": "final",
+      "group": "r4-final-dispute",
+      "kind": "disagreement",
+      "prompt": "Ripani interprets changing blues-system presence as central to R&B history, while Brackett/Lena show that categories depend on markets, identities and institutions. Must one account replace the other?",
+      "criteria": {
+        "levels": "Keeps musical grammar/lineage distinct from category/community histories",
+        "tension": "Preserves limits of chart selection and Ripani\u2019s interpretive claims rather than treating one as universal proof"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "tension"
+      ]
+    },
+    {
+      "id": "r4-final-source",
+      "partition": "final",
+      "group": "r4-final-source",
+      "kind": "unsupported",
+      "prompt": "A short audio description says this beat resembles an old soul record. Name the exact sample, prove influence and predict that the listener will love it.",
+      "criteria": {
+        "provenance": "Resemblance is a hypothesis, not verified sample identity or influence",
+        "liking": "Separates technical, historical and aesthetic claims from individual liking",
+        "next": "Identifies appropriate audio comparison, credits or producer documentation and listener evidence"
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "next"
+      ]
+    }
+  ]
+}

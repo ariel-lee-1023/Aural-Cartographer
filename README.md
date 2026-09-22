@@ -10,6 +10,8 @@ When a band seems to catch fire, I ask what each player made possible for the ot
 
 When an orchestra seems to grow without changing its harmony, I follow the redistribution: which registers widen, which families fuse or separate, which lines gain weight or become obscured. That transformation may create the arrival. I then ask how the players realized the writing and how the recording presents it, because those are different explanations of what reaches the listener.
 
+When a rapper seems to glide across a beat, I separate the backing’s pulse from the voice’s accents, rhymes and phrase boundaries. When a producer repeats a fragment, I ask what its selection, new joins and placement make possible. When a record suggests R&B, I follow a particular historical combination of voice, rhythm, harmony, form and production. None of those descriptions settles whether the work succeeds, how important it is, or whether you will want to hear it again.
+
 I work with the evidence available. If I have no access to the audio, I can use an attributed analysis or your account, but I will not invent what I heard. My purpose is to help you understand recordings, their histories and your changing judgments—not to turn every question into a prediction of your next favorite song.
 
 ## What this repository provides
@@ -25,16 +27,16 @@ A directly usable Agent Skill, with six connected lines of work:
 | Structural analysis | Repertoire-sensitive accounts of harmony, counterpoint, rhythm, formal function and post-tonal organization |
 | Performing practice | Accounts of prepared resources, live invention, ensemble response, groove and orchestral realization |
 
-The core connects **twenty-five source works** in one expert. The original four roles remain; structural analysis and performing practice support them. Round three adds Berliner, Monson, Danielsen and Del Mar to the twenty-one existing references. Taruskin's five-volume omnibus remains one on-demand historical layer. This is a knowledge skill, not an audio-analysis engine, streaming integration or automatically persistent listener profile.
+The core connects **twenty-eight source works** in one expert. The original four roles remain; structural analysis and performing practice support them. Round three added Berliner, Monson, Danielsen and Del Mar. Round four adds Ohriner on rap flow, Schloss on sample-based beatmaking and Ripani on R&B’s changing musical language through 1999, addressing the idiom-specific asymmetry identified by the user. Taruskin's five-volume omnibus remains one on-demand historical layer. This is a knowledge skill, not an audio-analysis engine, streaming integration or automatically persistent listener profile.
 
-The **foundational corpus is complete for this purpose**. Future books should address a specific failure exposed by repeated real listening cases, rather than expand the collection by default. This is a scope decision, not a claim of universal musical expertise.
+The prior foundational-corpus scope decision remains a limit on expansion by default. This round is an explicit user-directed correction of a specific hip-hop/R&B gap. Further books should address repeated real listening failures or explicit user direction; twenty-eight sources do not imply universal musical expertise.
 
 ## Layout
 
 ```text
 Aural-Cartographer/
 ├── SKILL.md
-├── references/                   # 25 source-specific runtime references
+├── references/                   # 28 source-specific runtime references
 ├── AGENTS.md
 ├── README.md
 ├── LICENSE
@@ -70,6 +72,10 @@ Example requests:
 - “The bass figure repeats but the groove feels more active. Compare accentual layers, timing, arrangement and recorded presentation without inventing measurements.”
 - “This orchestral arrival changes little harmonically. Explain what register, doubling, blend and balance could contribute, and distinguish score evidence from this performance.”
 
+- “Using this supplied rhythmic transcription, explain how the rapper’s accents, rhymes and phrasing relate to the backing. Separate exact evidence from interpretation.”
+- “These verified session notes describe a chopped sample. Explain its selection, transformation, sequence and new function, then separate the beat from the finished recording.”
+- “Explain the particular R&B relations in this dated recording across voice, rhythm, harmony, form and production. Distinguish lineage from genre labeling.”
+
 The host loads the core first and normally opens one to three references when their depth is needed, with more available for cross-source questions. It should answer the musical question rather than display the internal routing process. No audio access or connected account is assumed.
 
 Personal listening records belong in a private location chosen by the listener, outside this published repository. The skill offers a compact record format but cannot promise cross-session memory unless the host actually saves and retrieves it.
@@ -103,12 +109,17 @@ Personal listening records belong in a private location chosen by the listener, 
 | Ingrid Monson | *Saying Something: Jazz Improvisation and Interaction* | 1996 | [Reference](references/reference-monson-ensemble-interaction.md) |
 | Anne Danielsen | *Presence and Pleasure: The Funk Grooves of James Brown and Parliament* | 2006 | [Reference](references/reference-danielsen-funk-groove.md) |
 | Norman Del Mar | *Anatomy of the Orchestra* | First published 1981; revised paperback 1983 | [Reference](references/reference-del-mar-orchestral-realization.md) |
+| Mitchell Ohriner | *Flow: The Rhythmic Voice in Rap Music* | 2019 | [Reference](references/reference-ohriner-rap-flow.md) |
+| Joseph G. Schloss | *Making Beats: The Art of Sample-Based Hip-Hop* | 2014 edition with new afterword; originally 2004 | [Reference](references/reference-schloss-sample-based-beatmaking.md) |
+| Richard J. Ripani | *The New Blue Music: Changes in Rhythm & Blues, 1950–1999* | 2006, first edition | [Reference](references/reference-ripani-rnb-historical-grammar.md) |
 
 The critic's main analytical line joins Frith, Moore and Zak. Hennion, DeNora and Huron inform different parts of listener research. Brackett, Lena, Wald and Katz support historically grounded curation. Wilson scrutinizes the critic's exclusions; *Spotify Teardown* scrutinizes discovery's platform assumptions. Their disagreements remain visible.
 
 Laitz, Caplin and Straus provide different structural tools; Cook governs method choice. Rosen and Meyer connect musical relations to aesthetic interpretation, with Meyer explicitly compared to Huron. Taruskin and Ross extend the historical map alongside Brackett and Wald. Composition, arrangement, performance and recorded construction remain distinct throughout.
 
 Berliner and Monson connect prepared vocabulary and individual choices to ensemble response. Danielsen deepens the existing Moore/Frith/Huron rhythm material: patterned organization, performed parts and recorded groove remain distinct. Expectation accounts illuminate anticipation without replacing embodied experience. Del Mar connects instrumental realization to Rosen's formal and expressive questions and to Moore/Zak's account of recorded presentation. Laitz/Caplin/Straus can specify structural constraints without claiming to reconstruct the entire improvisational process.
+
+Ohriner + Danielsen separate vocal flow from backing groove; Ohriner + Moore/Frith connect rhythmic organization to vocal sound, persona and performance. Schloss + Katz separate technological possibility from situated compositional practice; Schloss + Zak/Moore distinguish source, beat, arrangement and finished track. Ripani + Brackett/Lena separate musical lineage from genre category; Ripani + Danielsen + Moore/Zak examine rhythm, harmony, voice and production together. These pairings are project syntheses, not claims that the authors proposed one unified theory.
 
 ## Coverage and limits
 
@@ -118,11 +129,13 @@ Recorded popular music remains the foundation, extended into Western art-music s
 
 The third-round material is selective too. Jazz is not reduced to chord-scale substitution; groove is not scored by the amount of timing deviation; instrumental facts are retained for their consequences for register, function, blend, contrast, doubling, density and balance. Del Mar is not a complete scoring course, and his source-era conventions need historical qualification. No exact instrumentation, voicing, timing or causal interaction is inferred from an unsupported secondary description.
 
+Round four does not infer exact flow from printed lyrics, identify samples from resemblance alone, or equate hip-hop with sampling. Schloss’s producer norms are situated and contested; his 2014 afterword revises important source-medium conventions. Ripani’s 125-hit sample and measurement definitions bound his results, and his historical authority stops at **1999**. Contemporary R&B needs additional evidence. Technical intricacy, aesthetic success, historical importance and predicted listener liking remain separate.
+
 ## Build and verification
 
-Built and expanded on 2026-09-22. Round one used eleven Markdown conversions and one PDF; round two adds eight Markdown works and the supplied *Classical Style* PDF. Its listed Markdown file was absent, so the scanned PDF was recovered with OCR. Local sibling PDFs supplied front-matter, prose and selected notation checks; they are verification copies of the same works, not additional sources. Bounded source excerpts informed the distillation; original files and intermediate extraction text are not included. Round three uses the four requested PDFs; Del Mar required local OCR of all 529 pages before bounded reading. Selected printed pages were visually checked, including the groove example, interactional recovery and orchestral qualifications. The [manifest](fidelity-ledger/source-manifest.json) records editions, source hashes, structure counts and estimated sizes without private absolute paths.
+Built and expanded on 2026-09-22. Round one used eleven Markdown conversions and one PDF; round two adds eight Markdown works and the supplied *Classical Style* PDF. Its listed Markdown file was absent, so the scanned PDF was recovered with OCR. Local sibling PDFs supplied front-matter, prose and selected notation checks; they are verification copies of the same works, not additional sources. Bounded source excerpts informed the distillation; original files and intermediate extraction text are not included. Round three uses the four requested PDFs; Del Mar required local OCR of all 529 pages before bounded reading. Selected printed pages were visually checked, including the groove example, interactional recovery and orchestral qualifications. Round four used the supplied Ohriner Markdown and two searchable PDFs, with three selected PDF page inspections. Its three references use bounded source reading; none implies fresh listening. The [manifest](fidelity-ledger/source-manifest.json) records editions, source hashes, structure counts and estimated sizes without private absolute paths.
 
-Structural validation, separate core/reference instruction scans and link/symlink checks are recorded with actual outputs in [validation records](fidelity-ledger/validation.json). [Editorial evaluation](fidelity-ledger/evaluation.md) explains the decisions reviewed and their limits. Independent fresh-context baseline/core/core-plus-references behavioral comparison has **not been run**; no claim of measured improvement over a general model is made. The frozen development/final [scenario suite](fidelity-ledger/acceptance-suite.json) retains the sixteen scenarios from rounds one and two and adds twelve for round three. It is available for a future controlled run. Original evidence is archived under `fidelity-ledger/round-1/`; round-two records and its prior root-ledger snapshot remain under `fidelity-ledger/round-2/`. Third-round coverage, reading and preservation records are under `fidelity-ledger/round-3/`. Artifact continuity is checked; behavioral regression remains unknown.
+Structural validation, separate core/reference instruction scans and link/symlink checks are recorded with actual outputs in [validation records](fidelity-ledger/validation.json). [Editorial evaluation](fidelity-ledger/evaluation.md) explains the decisions reviewed and their limits. Independent fresh-context baseline/core/core-plus-references behavioral comparison has **not been run**; no claim of measured improvement over a general model is made. The frozen development/final [scenario suite](fidelity-ledger/acceptance-suite.json) retains all twenty-eight scenarios from rounds one through three and adds twelve for round four (forty total). It is available for a future controlled run. Original evidence is archived under `fidelity-ledger/round-1/`; round-two records and its prior root-ledger snapshot remain under `fidelity-ledger/round-2/`. Third-round records remain under `fidelity-ledger/round-3/`; fourth-round coverage, reading and preservation records are under `fidelity-ledger/round-4/`, including the prior root-ledger snapshot. All 25 pre-existing references and 28 scenario objects are preserved exactly. The established root-skill/one-reference-per-book architecture was followed. Artifact continuity is checked; behavioral regression remains unknown.
 
 ## License
 

@@ -1,9 +1,3 @@
-# Round four update
-
-Current extension: [round-four source and coverage ledger](round-4/source-and-coverage-ledger.md). Three sources were added to the existing 25. Prior source references and scenario objects are preserved; the previous root ledger is archived in round-4/root-snapshot.
-
-The retained earlier record follows.
-
 # Source and coverage ledger
 
 Aural-Cartographer contains 25 canonical source references. Round three preserves all 21 prior references and adds four works addressing improvisation, ensemble interaction, funk groove and orchestral realization. Taruskin's five-volume omnibus counts as one source work. The foundational corpus is complete for the user's stated purpose; future additions require repeated case-grounded failures.

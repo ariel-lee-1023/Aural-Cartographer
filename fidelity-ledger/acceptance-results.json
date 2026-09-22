@@ -1,8 +1,8 @@
 {
   "status": "unrun",
-  "reason": "No evaluation endpoint/model configured or controlled independent prediction/grading run executed. Editorial and mechanical checks are separate. Prior rounds also unrun; behavioral regression unknown.",
-  "suite_sha256": "203faea2c90cea0e995181f85bbd620d3e7287a6abfbef8630d0e427fb2048b3",
-  "runtime_hash": "sha256:14b154e03f416db0d47797c7075ae5ceb23630e7c55b9bfb291b7195d4499b86",
+  "reason": "No controlled independent baseline/core/core-plus-references prediction or grading run executed; no user-selected evaluation endpoint/model configured. Editorial/mechanical review is separate.",
+  "suite_hash": "sha256:d85bd8f4f5afbf3d6571401bfe642d812c8dbc12a76c0f8c867306d8fbc3b13b",
+  "content_hash": "sha256:68132db988a2602d99bd727966e98c59279e77e9736072d6479893d969c5b621",
   "scores": null,
   "reference_gain": null,
   "core_gain": null,

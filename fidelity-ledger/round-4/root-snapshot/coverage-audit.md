@@ -1,9 +1,3 @@
-# Round four update
-
-Current extension: [round-four coverage audit](round-4/coverage-audit.md). Three sources were added to the existing 25. Prior source references and scenario objects are preserved; the previous root ledger is archived in round-4/root-snapshot.
-
-The retained earlier record follows.
-
 # Coverage audits across rounds
 
 - [Round-one audit](round-1/coverage-audit.md)

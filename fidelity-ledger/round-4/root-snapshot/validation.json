@@ -5,16 +5,9 @@
     "skill_root": ".",
     "discovery_entry": ".agents/skills/aural-cartographer",
     "layout": "published-repo",
-    "license": {
-      "spdx_id": "MIT",
-      "standard_text": true,
-      "copyright_notices": [
-        "Copyright (c) 2026 Ariel Lee"
-      ]
-    },
-    "master_body_tokens": 4479,
-    "master_budget": 6100,
-    "master_capabilities": 8,
+    "master_body_tokens": 4449,
+    "master_budget": 5525,
+    "master_capabilities": 7,
     "references": {
       "reference-berliner-improvisational-practice.md": {
         "tokens": 3711,
@@ -152,22 +145,6 @@
         "sections": 11,
         "budget": 8275
       },
-      "reference-ohriner-rap-flow.md": {
-        "tokens": 3890,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 8,
-        "budget": 7543
-      },
-      "reference-ripani-rnb-historical-grammar.md": {
-        "tokens": 4559,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 8,
-        "budget": 7543
-      },
       "reference-rosen-classical-style.md": {
         "tokens": 2931,
         "cap": 14000,
@@ -191,14 +168,6 @@
         "type": "text",
         "sections": 15,
         "budget": 9109
-      },
-      "reference-schloss-sample-based-beatmaking.md": {
-        "tokens": 4135,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 8,
-        "budget": 7543
       },
       "reference-straus-post-tonal-analysis.md": {
         "tokens": 3368,
@@ -241,6 +210,13 @@
         "budget": 7269
       }
     },
-    "books": 28
+    "books": 25,
+    "license": {
+      "spdx_id": "MIT",
+      "standard_text": true,
+      "copyright_notices": [
+        "Copyright (c) 2026 Ariel Lee"
+      ]
+    }
   }
 }

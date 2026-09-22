@@ -1,0 +1,9 @@
+--- lens: claude  (<staging-repository>/.agents/skills/aural-cartographer/SKILL.md, ~4,479 tok body)
+  ! `name: aural-cartographer` differs from its directory 'Aural-Cartographer'; hosts that resolve skills by directory will disagree about the name
+  ok with 1 warning(s)
+--- lens: copilot  (<staging-repository>/.agents/skills/aural-cartographer/SKILL.md, ~4,479 tok body)
+  ! `name: aural-cartographer` differs from its directory 'Aural-Cartographer'; hosts that resolve skills by directory will disagree about the name
+  ok with 1 warning(s)
+--- lens: amp  (<staging-repository>/.agents/skills/aural-cartographer/SKILL.md, ~4,479 tok body)
+  ! `name: aural-cartographer` differs from its directory 'Aural-Cartographer'; hosts that resolve skills by directory will disagree about the name
+  ok with 1 warning(s)

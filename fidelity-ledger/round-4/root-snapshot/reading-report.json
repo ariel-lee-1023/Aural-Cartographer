@@ -1,0 +1,234 @@
+{
+  "lena": {
+    "unique_lines": 71,
+    "repeated_lines": 0,
+    "input_tokens": 6150,
+    "unresolved": [],
+    "coverage_fraction": 0.027572815533980582,
+    "budget_alert": false
+  },
+  "katz": {
+    "unique_lines": 106,
+    "repeated_lines": 2,
+    "input_tokens": 6782,
+    "unresolved": [],
+    "coverage_fraction": 0.030346407099914114,
+    "budget_alert": false
+  },
+  "brackett": {
+    "unique_lines": 84,
+    "repeated_lines": 0,
+    "input_tokens": 6258,
+    "unresolved": [],
+    "coverage_fraction": 0.01405152224824356,
+    "budget_alert": false
+  },
+  "wald": {
+    "unique_lines": 383,
+    "repeated_lines": 0,
+    "input_tokens": 6483,
+    "unresolved": [],
+    "coverage_fraction": 0.02316859234166112,
+    "budget_alert": false
+  },
+  "wilson": {
+    "unique_lines": 86,
+    "repeated_lines": 0,
+    "input_tokens": 3925,
+    "unresolved": [],
+    "coverage_fraction": 0.046637744034707156,
+    "budget_alert": false
+  },
+  "denora": {
+    "unique_lines": 66,
+    "repeated_lines": 0,
+    "input_tokens": 4250,
+    "unresolved": [],
+    "coverage_fraction": 0.02745424292845258,
+    "budget_alert": false
+  },
+  "moore": {
+    "unique_lines": 96,
+    "repeated_lines": 0,
+    "input_tokens": 7663,
+    "unresolved": [],
+    "coverage_fraction": 0.019397858153162254,
+    "budget_alert": false
+  },
+  "spotify": {
+    "unique_lines": 78,
+    "repeated_lines": 0,
+    "input_tokens": 5625,
+    "unresolved": [],
+    "coverage_fraction": 0.03367875647668394,
+    "budget_alert": false
+  },
+  "huron": {
+    "unique_lines": 142,
+    "repeated_lines": 0,
+    "input_tokens": 6636,
+    "unresolved": [],
+    "coverage_fraction": 0.02174245904149441,
+    "budget_alert": false
+  },
+  "hennion": {
+    "unique_lines": 91,
+    "repeated_lines": 0,
+    "input_tokens": 5338,
+    "unresolved": [],
+    "coverage_fraction": 0.02506196640044065,
+    "budget_alert": false
+  },
+  "zak": {
+    "unique_lines": 44,
+    "repeated_lines": 0,
+    "input_tokens": 3874,
+    "unresolved": [],
+    "coverage_fraction": 0.012154696132596685,
+    "budget_alert": false
+  },
+  "frith": {
+    "unique_lines": 911,
+    "repeated_lines": 0,
+    "input_tokens": 11611,
+    "unresolved": [],
+    "coverage_fraction": 0.05537320690493557,
+    "budget_alert": false
+  },
+  "caplin": {
+    "unique_lines": 616,
+    "repeated_lines": 80,
+    "input_tokens": 10252,
+    "unresolved": [],
+    "coverage_fraction": 0.0442496947058401,
+    "budget_alert": false
+  },
+  "laitz": {
+    "unique_lines": 920,
+    "repeated_lines": 52,
+    "input_tokens": 10585,
+    "unresolved": [],
+    "coverage_fraction": 0.03468818339491743,
+    "budget_alert": false
+  },
+  "meyer": {
+    "unique_lines": 267,
+    "repeated_lines": 0,
+    "input_tokens": 5373,
+    "unresolved": [],
+    "coverage_fraction": 0.02198616600790514,
+    "budget_alert": false
+  },
+  "romantic": {
+    "unique_lines": 322,
+    "repeated_lines": 0,
+    "input_tokens": 9318,
+    "unresolved": [],
+    "coverage_fraction": 0.03366088229144888,
+    "budget_alert": false
+  },
+  "straus": {
+    "unique_lines": 547,
+    "repeated_lines": 5,
+    "input_tokens": 10269,
+    "unresolved": [],
+    "coverage_fraction": 0.07289445628997868,
+    "budget_alert": false
+  },
+  "cook": {
+    "unique_lines": 364,
+    "repeated_lines": 14,
+    "input_tokens": 9607,
+    "unresolved": [],
+    "coverage_fraction": 0.04330755502676978,
+    "budget_alert": false
+  },
+  "taruskin": {
+    "unique_lines": 447,
+    "repeated_lines": 0,
+    "input_tokens": 15378,
+    "unresolved": [],
+    "coverage_fraction": 0.004660133444537114,
+    "budget_alert": false
+  },
+  "ross": {
+    "unique_lines": 95,
+    "repeated_lines": 2,
+    "input_tokens": 6260,
+    "unresolved": [],
+    "coverage_fraction": 0.02542826552462527,
+    "budget_alert": false
+  },
+  "classical": {
+    "unique_lines": 1092,
+    "repeated_lines": 3,
+    "input_tokens": 11516,
+    "unresolved": [],
+    "coverage_fraction": 0.04050745604273314,
+    "budget_alert": false
+  },
+  "cook-pdf": {
+    "unique_lines": 158,
+    "repeated_lines": 0,
+    "input_tokens": 1447,
+    "unresolved": [],
+    "coverage_fraction": 0.010024108615657912,
+    "budget_alert": false
+  },
+  "romantic-pdf": {
+    "unique_lines": 170,
+    "repeated_lines": 0,
+    "input_tokens": 1796,
+    "unresolved": [],
+    "coverage_fraction": 0.006608357628765792,
+    "budget_alert": false
+  },
+  "meyer-pdf": {
+    "unique_lines": 430,
+    "repeated_lines": 29,
+    "input_tokens": 6641,
+    "unresolved": [],
+    "coverage_fraction": 0.03355442840421381,
+    "budget_alert": false
+  },
+  "caplin-pdf": {
+    "unique_lines": 93,
+    "repeated_lines": 0,
+    "input_tokens": 2015,
+    "unresolved": [],
+    "coverage_fraction": 0.0079317697228145,
+    "budget_alert": false
+  },
+  "berliner": {
+    "unique_lines": 1604,
+    "repeated_lines": 104,
+    "input_tokens": 31098,
+    "unresolved": [],
+    "coverage_fraction": 0.06395024320229646,
+    "budget_alert": false
+  },
+  "monson": {
+    "unique_lines": 1088,
+    "repeated_lines": 1,
+    "input_tokens": 13272,
+    "unresolved": [],
+    "coverage_fraction": 0.09090909090909091,
+    "budget_alert": false
+  },
+  "danielsen": {
+    "unique_lines": 1477,
+    "repeated_lines": 12,
+    "input_tokens": 19041,
+    "unresolved": [],
+    "coverage_fraction": 0.13102102368491084,
+    "budget_alert": false
+  },
+  "delmar": {
+    "unique_lines": 1685,
+    "repeated_lines": 0,
+    "input_tokens": 13914,
+    "unresolved": [],
+    "coverage_fraction": 0.06343887654832273,
+    "budget_alert": false
+  }
+}
