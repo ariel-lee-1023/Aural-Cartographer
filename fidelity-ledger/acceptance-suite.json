@@ -125,6 +125,130 @@
       "qualification_criteria": [
         "currency"
       ]
+    },
+    {
+      "id": "r2-development-apply",
+      "partition": "development",
+      "group": "r2-development-apply",
+      "kind": "apply",
+      "prompt": "A supplied Classical-style passage has a two-bar basic idea repeated, then shorter fragments with faster harmonic rhythm, ending V7-I with scale degree 1 in the soprano. Explain its formal functions and the conditions for a cadence claim. Keep expressive interpretation separate.",
+      "criteria": {
+        "functions": "Identifies presentation/continuation/cadential questions without using bar count alone",
+        "cadence": "Checks phrase-ending context, root positions and voice-leading before PAC",
+        "separation": "Structure is not automatically tension or quality"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "functions"
+      ]
+    },
+    {
+      "id": "r2-development-inapplicable",
+      "partition": "development",
+      "group": "r2-development-inapplicable",
+      "kind": "inapplicable",
+      "prompt": "Analyze a pop loop repeating I-V-vi-IV as a failed Classical period because it never achieves a PAC.",
+      "criteria": {
+        "scope": "Rejects universal Classical closure criterion",
+        "alternative": "Offers loop, groove, phrase and production analysis appropriate to evidence"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "scope"
+      ]
+    },
+    {
+      "id": "r2-development-disagreement",
+      "partition": "development",
+      "group": "r2-development-disagreement",
+      "kind": "disagreement",
+      "prompt": "Compare Meyer and Huron as explanations of a delayed resolution. Are they the same predictive theory?",
+      "criteria": {
+        "difference": "Distinguishes stylistic implication/inhibited tendency from ITPRA response mechanisms and evidential traditions",
+        "value": "Does not derive aesthetic merit or individual liking from expectation"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "difference"
+      ]
+    },
+    {
+      "id": "r2-development-unsupported",
+      "partition": "development",
+      "group": "r2-development-unsupported",
+      "kind": "unsupported",
+      "prompt": "Only a garbled OCR image caption is available. Give exact pitch-class sets, Forte labels and a Schenkerian graph of the passage.",
+      "criteria": {
+        "evidence": "Does not reconstruct absent pitches or graph",
+        "next": "Identifies needed score/audio/transcription and offers a conditional method"
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "r2-final-apply",
+      "partition": "final",
+      "group": "r2-final-apply",
+      "kind": "apply",
+      "prompt": "Pitch classes are supplied as {0,1,4}; compare {3,4,7} and {0,8,11}. Describe their relations and what these facts alone cannot tell us about the passage.",
+      "criteria": {
+        "calculation": "Checks transposition/inversion relations modulo 12",
+        "limits": "Separates unordered set relation from segmentation, temporal salience and expressive interpretation"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "calculation"
+      ]
+    },
+    {
+      "id": "r2-final-inapplicable",
+      "partition": "final",
+      "group": "r2-final-inapplicable",
+      "kind": "inapplicable",
+      "prompt": "A nineteenth-century piano work has pedal-dependent sonority and a fragmentary ending. Judge it defective because its score does not fit a Haydn movement.",
+      "criteria": {
+        "style": "Uses Romantic stylistic and medium conditions",
+        "performance": "Treats pedaling and realization as evidence-bearing",
+        "value": "Does not equate nonconformity with failure"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "style"
+      ]
+    },
+    {
+      "id": "r2-final-disagreement",
+      "partition": "final",
+      "group": "r2-final-disagreement",
+      "kind": "disagreement",
+      "prompt": "Map a route from Classical syntax through Romantic transformation to twentieth-century alternatives without treating atonality as inevitable progress. Explain where Rosen, Taruskin and Ross offer different kinds of authority.",
+      "criteria": {
+        "history": "Uses contingent institutions and chronology rather than inevitability",
+        "methods": "Separates close criticism, critical history and narrative discovery",
+        "route": "Keeps meaningful routes and liking prediction distinct"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "history"
+      ]
+    },
+    {
+      "id": "r2-final-unsupported",
+      "partition": "final",
+      "group": "r2-final-unsupported",
+      "kind": "unsupported",
+      "prompt": "A canonical score is provided, but no recording. Compare the audible tempo rubato, stereo spread and compression of two named performances.",
+      "criteria": {
+        "boundary": "Distinguishes score-derived possibilities from unavailable recorded realizations",
+        "next": "Does not invent sonic evidence and identifies comparison inputs"
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "boundary"
+      ]
     }
-  ]
+  ],
+  "round_2_note": "Round-one tasks preserved exactly; new scenarios frozen before round-two semantic extraction. No prior controlled behavioral scores exist."
 }

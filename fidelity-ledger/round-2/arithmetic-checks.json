@@ -1,0 +1,33 @@
+{
+  "status": "pass",
+  "scope": "Exact numeric assertions only; not a listener/analysis benchmark",
+  "results": {
+    "T3": [
+      3,
+      4,
+      7
+    ],
+    "I0": [
+      0,
+      8,
+      11
+    ],
+    "0146_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "0137_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "Z_pair_T_or_I_equivalent": false
+  }
+}

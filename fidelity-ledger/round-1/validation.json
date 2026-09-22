@@ -5,9 +5,9 @@
     "skill_root": ".",
     "discovery_entry": ".agents/skills/aural-cartographer",
     "layout": "published-repo",
-    "master_body_tokens": 4375,
-    "master_budget": 5225,
-    "master_capabilities": 7,
+    "master_body_tokens": 3796,
+    "master_budget": 4200,
+    "master_capabilities": 6,
     "references": {
       "reference-brackett-genre-categories.md": {
         "tokens": 2200,
@@ -16,22 +16,6 @@
         "type": "text",
         "sections": 9,
         "budget": 7800
-      },
-      "reference-caplin-formal-functions.md": {
-        "tokens": 3236,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 17,
-        "budget": 9485
-      },
-      "reference-cook-analytical-methods.md": {
-        "tokens": 2803,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 10,
-        "budget": 8043
       },
       "reference-denora-music-in-use.md": {
         "tokens": 2048,
@@ -81,14 +65,6 @@
         "sections": 8,
         "budget": 7543
       },
-      "reference-laitz-tonal-analysis.md": {
-        "tokens": 3325,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 32,
-        "budget": 11785
-      },
       "reference-lena-genre-communities.md": {
         "tokens": 2007,
         "cap": 14000,
@@ -97,14 +73,6 @@
         "sections": 5,
         "budget": 6654
       },
-      "reference-meyer-emotion-and-meaning.md": {
-        "tokens": 3240,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 8,
-        "budget": 7543
-      },
       "reference-moore-song-means.md": {
         "tokens": 2811,
         "cap": 14000,
@@ -112,46 +80,6 @@
         "type": "text",
         "sections": 11,
         "budget": 8275
-      },
-      "reference-rosen-classical-style.md": {
-        "tokens": 2931,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 7,
-        "budget": 7269
-      },
-      "reference-rosen-romantic-generation.md": {
-        "tokens": 3343,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 12,
-        "budget": 8496
-      },
-      "reference-ross-twentieth-century-routes.md": {
-        "tokens": 2593,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 15,
-        "budget": 9109
-      },
-      "reference-straus-post-tonal-analysis.md": {
-        "tokens": 3368,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 6,
-        "budget": 6974
-      },
-      "reference-taruskin-western-music-history.md": {
-        "tokens": 3656,
-        "cap": 8500,
-        "depth": "reference",
-        "type": "text",
-        "sections": 5,
-        "budget": 4122
       },
       "reference-wald-alternative-pop-history.md": {
         "tokens": 2386,
@@ -178,6 +106,6 @@
         "budget": 7269
       }
     },
-    "books": 21
+    "books": 12
   }
 }

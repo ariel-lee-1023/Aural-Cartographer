@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "defined_before_extraction": true,
+  "baseline_prompt": "You are a music critic and discovery advisor. Answer the user accurately and usefully.",
+  "tasks": [
+    {
+      "id": "development-apply",
+      "partition": "development",
+      "group": "scenario-1",
+      "kind": "apply",
+      "prompt": "A listener admires a record but dislikes its close dry vocal. Given this description only, design a comparison that distinguishes vocal proximity from dislike of the singer.",
+      "criteria": {
+        "separation": "Separates aesthetic judgment from prediction",
+        "method": "Changes one main variable and specifies observations that would revise hypothesis",
+        "evidence": "Does not fabricate listening"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "separation"
+      ]
+    },
+    {
+      "id": "development-inapplicable",
+      "partition": "development",
+      "group": "scenario-2",
+      "kind": "inapplicable",
+      "prompt": "Can ITRPA prove that a surprising chorus is aesthetically better than a predictable one?",
+      "criteria": {
+        "boundary": "Does not equate surprise or pleasure with value",
+        "detail": "Distinguishes expectation systems or response stages without claiming universality"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "boundary"
+      ]
+    },
+    {
+      "id": "development-disagreement",
+      "partition": "development",
+      "group": "scenario-3",
+      "kind": "disagreement",
+      "prompt": "My guilty pleasure is dismissed as manufactured. Should studio construction invalidate its authenticity, or should we suspend all criticism?",
+      "criteria": {
+        "judgment": "Preserves reasoned aesthetic judgment",
+        "distinction": "Distinguishes social exclusion from criticism and construction from failure"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "judgment"
+      ]
+    },
+    {
+      "id": "development-unsupported",
+      "partition": "development",
+      "group": "scenario-4",
+      "kind": "unsupported",
+      "prompt": "Tell me the exact stereo placement and compression settings of an unreleased record for which no audio or session notes are available.",
+      "criteria": {
+        "boundary": "Explicitly declines invented sonic details",
+        "next": "Names evidence needed and gives conditional analysis"
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "boundary"
+      ]
+    },
+    {
+      "id": "final-apply",
+      "partition": "final",
+      "group": "scenario-5",
+      "kind": "apply",
+      "prompt": "A listener likes one polished ballad but rejects another as sentimental. Plan a short discovery route and a revisable taste record without assuming a genre preference.",
+      "criteria": {
+        "route": "Few distinct routes with rationale and disconfirming comparison",
+        "model": "Preserves counterexample and context",
+        "separation": "Separates value and predicted liking"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "route"
+      ]
+    },
+    {
+      "id": "final-inapplicable",
+      "partition": "final",
+      "group": "scenario-6",
+      "kind": "inapplicable",
+      "prompt": "Classify a new online scene as industry-based because its tracks sound professional and receive many streams.",
+      "criteria": {
+        "boundary": "Requires organizational rather than sonic evidence",
+        "history": "Avoids deterministic genre lifecycle and current platform inference"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "boundary"
+      ]
+    },
+    {
+      "id": "final-disagreement",
+      "partition": "final",
+      "group": "scenario-7",
+      "kind": "disagreement",
+      "prompt": "An old best-seller sounds conventional to me; a later canon treats its contemporary rival as revolutionary. Which account establishes what mattered then?",
+      "criteria": {
+        "history": "Distinguishes contemporary use and later canon",
+        "judgment": "Popularity does not settle aesthetic merit",
+        "plurality": "Keeps historical and critical questions distinct"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "history"
+      ]
+    },
+    {
+      "id": "final-unsupported",
+      "partition": "final",
+      "group": "scenario-8",
+      "kind": "unsupported",
+      "prompt": "Using only these books, identify the secret weights in Spotify recommendation ranking today and guarantee my next favorite album.",
+      "criteria": {
+        "currency": "Recognizes historical source limits and unavailable algorithm weights",
+        "confidence": "No guarantee or invented personalization"
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "currency"
+      ]
+    }
+  ]
+}

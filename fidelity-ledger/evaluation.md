@@ -1,24 +1,39 @@
-# Evaluation status and editorial review
+# Evaluation and regression status
 
-## What actually ran
+## Evidence actually produced
 
-The authoring agent inspected source excerpts and reviewed the completed candidate. Structural validation, content scans, reference routing, packaging, links, symlink resolution, source count and repository checks were run locally; their exact outputs are stored separately. This is editorial and mechanical evidence, not independent model evaluation.
+The authoring agent read bounded source excerpts, recovered damaged front matter/prose, visually inspected four selected PDF pages and reviewed the new references and integrated core. Mechanical checks cover published layout, routing, required sections, relative links, symlink, source/reference counts, budgets, instruction scans, original-reference hashes and preservation of the original scenario objects. Exact outputs are retained alongside this report.
 
-A version 2 suite was saved before semantic extraction, derived from the user brief. It includes separate development and final scenario groups for application, inapplicability, disagreement and unsupported questions. Its construction necessarily exposed the scenario text to the authoring agent; no claim is made that this agent is a blind holdout evaluator.
+This is an editorial review and mechanical validation. Independent fresh-context baseline/core/core-plus-references predictions, separate grading, ablations and measured reference gains are **unrun**. No controlled evaluation endpoint/model was configured or executed. Scores and gains remain null. Neither clean structure nor this review demonstrates improved model performance.
 
-Fresh-context baseline/core/core_references prediction and separate grading were **not run**. No user-selected evaluation endpoint/model was configured, and no independent controlled model execution was used. There are no baseline scores, claimed reference gains or fabricated responses. Final scenarios have not been run through the optional runner. A future evaluation should preserve the suite and use independent prediction contexts and grading as documented by the authoring tool.
+## Frozen scenarios and regression limits
 
-## Development-oriented editorial checks
+The eight original scenario objects remain unchanged; eight new scenarios were added before semantic extraction, with separate development and final groups. New tasks cover formal-function application, inapplicable tonal norms, Meyer/Huron disagreement, corrupted-notation restraint, exact post-tonal relations, Romantic endings, non-teleological history and score-versus-performance evidence. The suite was constructed by the authoring agent, so no claim is made that it is a blind holdout for that agent. No final-scenario model runs were performed.
 
-| Case | Candidate behavior reviewed | Evidence and practical limit |
+The prior results were also unrun. Accordingly, behavioral regression relative to round one is **unknown**, not passed. Byte preservation of old references and exact scenario preservation establish continuity of artifacts, not equivalence of behavior after core changes.
+
+## Development-oriented editorial findings
+
+| Review question | Candidate guidance | Limit |
 |---|---|---|
-| Admired record, disliked close vocal | Separate judgment/liking; compare proximity, delivery, persona and context; specify a rival | Core taste table and Moore Persona section. No actual audio trial conducted. |
-| Surprise treated as proof of quality | Correct method name to ITPRA; separate responses and mechanism/value | Huron ITPRA and aesthetic caveat; source caveat sampled. No empirical revalidation. |
-| “Manufactured” guilty pleasure | Retain criticism while examining authenticity and status | Zak track construction, Moore authentication, Wilson and dissenting essays. No assumption that empathy requires liking. |
-| Unreleased record without audio or session notes | State evidence boundary and request/identify needed evidence; no invented settings | Core evidence section and Zak cause/effect distinction. This is a textual audit of guidance, not an observed model response. |
+| Can a Classical repeated idea plus fragmentation support a sentence reading? | Caplin requires tonic prolongation, functional continuation and checked cadence; grouping alone is insufficient. | No host response or score-analysis trial was graded. |
+| Does a repeating pop progression fail for lacking Classical closure? | Core and Laitz/Caplin restrict scope; Moore/Zak preserve groove, arrangement and production. | No particular track was auditioned. |
+| Do Meyer and Huron make the same prediction/value claim? | Separate source frameworks and an explicit comparison table; neither determines value or individual taste. | Their empirical proposals were not revalidated. |
+| Can unreadable OCR justify exact pitch or row labels? | Evidence rules require legible notation or a conditional answer. | Four spot checks do not validate all converted scores. |
+| Did formal analysis displace the four existing roles? | Role paragraph, recorded critique, library fields, taste table, discovery routes and self-critical valuation remain; original references are unchanged. | This is editorial continuity, not a behavioral benchmark. |
 
-Additional semantic checks: English corpus-derived default is immediately after the title; a Chinese-language prompt alone keeps the default, an explicit request for Chinese switches within scope. AGENTS agrees. README introduces this particular critic's reasoning in first person without invented listening experience. All twelve sources have load triggers. Personal logs are outside the published runtime. Historical Spotify observations do not answer current hidden-weight questions.
+## Mathematical and source checks
 
-## Known limitations
+A standalone arithmetic check verifies the project T3/I0 examples and the two Z-related tetrachords' interval vectors and non-equivalence under all twelve T and I operations. This checks exact numerical assertions only. Straus's fourth-edition normal-form convention was verified visually; it was not silently replaced by a software default. Laitz's tonicization/modulation condition, Caplin's HC restriction and Rosen's broader recapitulation terminology were checked in source context.
 
-Source sampling is selective. Long conversions have OCR artifacts, and source-line coverage is an inspection approximation. Detailed notation, all empirical results, complete discographies, Wilson's full contributor collection and many historical examples are outside the distilled scope. The books do not supply a complete taste model, prove the proposed comparison workflow effective, or validate recommendation accuracy. The central deliverable is a usable and inspectable knowledge skill with those boundaries intact.
+## Packaging qualifications
+
+The metatool validator infers technical type from fenced code rather than the displayed Type metadata. These music-theory references use prose and mathematical notation, so its report classifies them as text and applies the stricter text caps. The manifest and manual budget checks retain the intended technical classification for Laitz, Caplin, Straus and Cook. All pass both applicable ceilings; the tool itself was not modified.
+
+The host lint's repository-directory naming warning reflects the existing `Aural-Cartographer` repository name; frontmatter and the `.agents/skills/aural-cartographer` discovery alias agree. Published-layout validation is the relevant architecture check.
+
+The README introduces this expert through record criticism, taste contrasts and the new structural questions. Default English, explicit language overrides, evidence boundaries and private-log handling agree across the README, core and AGENTS. Raw source data, credentials and personal listener records are excluded.
+
+## Remaining limits
+
+The source review is selective, especially in the five-volume Taruskin corpus and the historical surveys. Many chapters are represented as research routes rather than complete factual coverage. Notation, recordings, disputed particulars and contemporary empirical claims require appropriate evidence. The library supplies inspectable methods and qualifications; it does not by itself provide audio perception, persistent storage or demonstrated recommendation accuracy.
