@@ -56,7 +56,7 @@ cd Aural-Cartographer
 
 The displayed expert name is **Aural Cartographer**; its machine-readable slug is `aural-cartographer`. The project discovery alias points to the root skill. Hosts that do not preserve symlinks can load the root `SKILL.md` directly, with `references/` beside it. For a personal installation, copy or link the complete root skill/reference tree into the host's configured skills location under `aural-cartographer`; do not copy only `SKILL.md` and leave its links broken. Read `AGENTS.md` for project behavior.
 
-The default response language is **English**, matching the substantive supplied corpus. An explicit request such as “请用中文回答这次分析” overrides it for that scope.
+The default response language is **English**, matching the substantive supplied corpus. An explicit request such as “Please answer this analysis in Chinese.” overrides it for that scope.
 
 Example requests:
 
