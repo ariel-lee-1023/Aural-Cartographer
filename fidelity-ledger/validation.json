@@ -1,0 +1,111 @@
+{
+  "errors": [],
+  "warnings": [],
+  "facts": {
+    "skill_root": ".",
+    "discovery_entry": ".agents/skills/aural-cartographer",
+    "layout": "published-repo",
+    "master_body_tokens": 3796,
+    "master_budget": 4200,
+    "master_capabilities": 6,
+    "references": {
+      "reference-brackett-genre-categories.md": {
+        "tokens": 2200,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 9,
+        "budget": 7800
+      },
+      "reference-denora-music-in-use.md": {
+        "tokens": 2048,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 6,
+        "budget": 6974
+      },
+      "reference-eriksson-streaming-mediation.md": {
+        "tokens": 2252,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 4,
+        "budget": 6300
+      },
+      "reference-frith-popular-valuation.md": {
+        "tokens": 2660,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 13,
+        "budget": 8708
+      },
+      "reference-hennion-mediation-and-taste.md": {
+        "tokens": 2359,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 9,
+        "budget": 7800
+      },
+      "reference-huron-musical-expectation.md": {
+        "tokens": 2837,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 17,
+        "budget": 9485
+      },
+      "reference-katz-phonograph-effects.md": {
+        "tokens": 2183,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 8,
+        "budget": 7543
+      },
+      "reference-lena-genre-communities.md": {
+        "tokens": 2007,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 5,
+        "budget": 6654
+      },
+      "reference-moore-song-means.md": {
+        "tokens": 2811,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 11,
+        "budget": 8275
+      },
+      "reference-wald-alternative-pop-history.md": {
+        "tokens": 2386,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 18,
+        "budget": 9664
+      },
+      "reference-wilson-taste-and-criticism.md": {
+        "tokens": 2139,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 27,
+        "budget": 11094
+      },
+      "reference-zak-record-poetics.md": {
+        "tokens": 2285,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 7,
+        "budget": 7269
+      }
+    },
+    "books": 12
+  }
+}

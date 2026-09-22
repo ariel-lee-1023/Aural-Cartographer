@@ -1,0 +1,26 @@
+{
+  "relative_links_checked": 42,
+  "broken_links": [],
+  "references": 12,
+  "required_sections": {
+    "reference-brackett-genre-categories.md": true,
+    "reference-denora-music-in-use.md": true,
+    "reference-eriksson-streaming-mediation.md": true,
+    "reference-frith-popular-valuation.md": true,
+    "reference-hennion-mediation-and-taste.md": true,
+    "reference-huron-musical-expectation.md": true,
+    "reference-katz-phonograph-effects.md": true,
+    "reference-lena-genre-communities.md": true,
+    "reference-moore-song-means.md": true,
+    "reference-wald-alternative-pop-history.md": true,
+    "reference-wilson-taste-and-criticism.md": true,
+    "reference-zak-record-poetics.md": true
+  },
+  "symlink_target": "../..",
+  "symlink_resolves_to_root": true,
+  "raw_source_or_audio_files": [],
+  "private_absolute_path_findings": [],
+  "runtime_hash": "sha256:167c9d08499f2e5f5e5df317c428196663a7b29ebb71af37b4189f86d341ee32",
+  "generic_host_lint_exit": 0,
+  "generic_host_lint_warning": "Repository directory capitalization differs from skill slug after symlink resolution; alias matches slug and published-repo validation passes."
+}

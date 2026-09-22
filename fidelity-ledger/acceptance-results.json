@@ -1,0 +1,8 @@
+{
+  "status": "unrun",
+  "reason": "No user-selected controlled evaluation endpoint/model configured. No baseline/core/core_references model runs or independent grading performed.",
+  "suite_sha256": "e37fbf9a9b01c5ecfcbd71fc73eb4ca345e798a9251d97ae052a925624f178d2",
+  "scores": null,
+  "reference_gain": null,
+  "runtime_hash": "sha256:167c9d08499f2e5f5e5df317c428196663a7b29ebb71af37b4189f86d341ee32"
+}

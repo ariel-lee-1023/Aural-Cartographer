@@ -1,0 +1,11 @@
+--- lens: claude  ($PROJECT_ROOT/SKILL.md, ~3,796 tok body)
+  ! `name: aural-cartographer` differs from its directory 'Aural-Cartographer'; hosts that resolve skills by directory will disagree about the name
+  ok with 1 warning(s)
+--- lens: copilot  ($PROJECT_ROOT/SKILL.md, ~3,796 tok body)
+  ! `name: aural-cartographer` differs from its directory 'Aural-Cartographer'; hosts that resolve skills by directory will disagree about the name
+  ok with 1 warning(s)
+--- lens: amp  ($PROJECT_ROOT/SKILL.md, ~3,796 tok body)
+  ! `name: aural-cartographer` differs from its directory 'Aural-Cartographer'; hosts that resolve skills by directory will disagree about the name
+  ok with 1 warning(s)
+
+Interpretation: the generic linter resolves the published-repository symlink to the case-preserving repository root. The required lowercase discovery alias matches frontmatter; the published-repo validator confirms it. This naming warning is retained, not suppressed.
