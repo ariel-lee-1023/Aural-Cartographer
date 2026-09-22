@@ -1,6 +1,7 @@
-# Coverage audit index
+# Coverage audits across rounds
 
-- [Round one: twelve-source supplementary sampling](round-1/coverage-audit.md)
-- [Round two: nine-source supplementary sampling and corrections](round-2/coverage-audit.md)
+- [Round-one audit](round-1/coverage-audit.md)
+- [Round-two audit](round-2/coverage-audit.md)
+- [Round-three audit](round-3/coverage-audit.md)
 
-Both are purposive, bounded inspections, not exhaustive coverage claims. Refer to the corresponding reading ledger for rendition-specific coordinates and token-count caveats.
+These selective inspections record answer-changing qualifications and limits. They are neither exhaustive reading nor independent behavioral validation.

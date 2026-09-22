@@ -6,11 +6,15 @@ I build a map from those distinctions. One route might lead to an earlier record
 
 When a passage feels tense, expansive or strange, I ask what changed: the bass and inner voices, a delayed cadence, the size of the phrases, a pitch-class relation, the performer’s timing or the recording’s space. I explain how those relations unfold before asking what they express and whether they serve the work. A pop loop need not behave like a Classical period; a Romantic fragment need not close like a Haydn theme. I carry formal knowledge into record criticism and bring the realities of performance, mediation and taste back to the score.
 
+When a band seems to catch fire, I ask what each player made possible for the others. A familiar phrase may invite an answer; a bassist who stays steady may give a displaced drum figure its force. I distinguish what the players brought to the performance from what emerged between them. A groove lives in the relation among pulse, accents, timing and layers, and in how a listener enters that repetition. I do not measure its success by how far the notes stray from a grid.
+
+When an orchestra seems to grow without changing its harmony, I follow the redistribution: which registers widen, which families fuse or separate, which lines gain weight or become obscured. That transformation may create the arrival. I then ask how the players realized the writing and how the recording presents it, because those are different explanations of what reaches the listener.
+
 I work with the evidence available. If I have no access to the audio, I can use an attributed analysis or your account, but I will not invent what I heard. My purpose is to help you understand recordings, their histories and your changing judgments—not to turn every question into a prediction of your next favorite song.
 
 ## What this repository provides
 
-A directly usable Agent Skill, with five connected lines of work:
+A directly usable Agent Skill, with six connected lines of work:
 
 | Line of work | Typical result |
 |---|---|
@@ -19,15 +23,18 @@ A directly usable Agent Skill, with five connected lines of work:
 | Discovery | A short route for deepening, historical inquiry, structural analogy or disconfirmation |
 | Taste research | A revisable hypothesis with context, rivals, exceptions and a next comparison |
 | Structural analysis | Repertoire-sensitive accounts of harmony, counterpoint, rhythm, formal function and post-tonal organization |
+| Performing practice | Accounts of prepared resources, live invention, ensemble response, groove and orchestral realization |
 
-The core now connects twenty-one source works in one expert, retaining the original four roles and all twelve first-round references. Nine additions extend structural analysis and Western art-music history. Each source work has one canonical reference; Taruskin’s five-volume omnibus remains one on-demand historical layer. This is a knowledge skill, not a streaming integration, audio-analysis engine, database application or automatically persistent listener profile.
+The core connects **twenty-five source works** in one expert. The original four roles remain; structural analysis and performing practice support them. Round three adds Berliner, Monson, Danielsen and Del Mar to the twenty-one existing references. Taruskin's five-volume omnibus remains one on-demand historical layer. This is a knowledge skill, not an audio-analysis engine, streaming integration or automatically persistent listener profile.
+
+The **foundational corpus is complete for this purpose**. Future books should address a specific failure exposed by repeated real listening cases, rather than expand the collection by default. This is a scope decision, not a claim of universal musical expertise.
 
 ## Layout
 
 ```text
 Aural-Cartographer/
 ├── SKILL.md
-├── references/                   # 21 source-specific runtime references
+├── references/                   # 25 source-specific runtime references
 ├── AGENTS.md
 ├── README.md
 ├── LICENSE
@@ -45,7 +52,7 @@ git clone https://github.com/ariel-lee-1023/Aural-Cartographer.git
 cd Aural-Cartographer
 ```
 
-The project discovery alias points to the root skill. Hosts that do not preserve symlinks can load the root `SKILL.md` directly, with `references/` beside it. For a personal installation, copy or link the complete root skill/reference tree into the host's configured skills location under `aural-cartographer`; do not copy only `SKILL.md` and leave its links broken. Read `AGENTS.md` for project behavior.
+The displayed expert name is **Aural Cartographer**; its machine-readable slug is `aural-cartographer`. The project discovery alias points to the root skill. Hosts that do not preserve symlinks can load the root `SKILL.md` directly, with `references/` beside it. For a personal installation, copy or link the complete root skill/reference tree into the host's configured skills location under `aural-cartographer`; do not copy only `SKILL.md` and leave its links broken. Read `AGENTS.md` for project behavior.
 
 The default response language is **English**, matching the substantive supplied corpus. An explicit request such as “请用中文回答这次分析” overrides it for that scope.
 
@@ -59,8 +66,11 @@ Example requests:
 - “Here is a legible passage. Separate the notes and formal functions from your expressive interpretation and aesthetic judgment.”
 - “Compare what Meyer and Huron explain about this delayed resolution, including what neither can tell you about my taste.”
 - “Build a route from this pop texture into twentieth-century art music. Distinguish documented lineage from useful analogy.”
+- “Given these rehearsal observations, what was available to each jazz player, how did they respond, and what became possible?”
+- “The bass figure repeats but the groove feels more active. Compare accentual layers, timing, arrangement and recorded presentation without inventing measurements.”
+- “This orchestral arrival changes little harmonically. Explain what register, doubling, blend and balance could contribute, and distinguish score evidence from this performance.”
 
-The host loads the core first and normally opens one to three references when their depth is needed. It should answer the musical question rather than display the internal routing process. No audio access or connected account is assumed.
+The host loads the core first and normally opens one to three references when their depth is needed, with more available for cross-source questions. It should answer the musical question rather than display the internal routing process. No audio access or connected account is assumed.
 
 Personal listening records belong in a private location chosen by the listener, outside this published repository. The skill offers a compact record format but cannot promise cross-session memory unless the host actually saves and retrieves it.
 
@@ -89,22 +99,30 @@ Personal listening records belong in a private location chosen by the listener, 
 | Leonard B. Meyer | *Emotion and Meaning in Music* | 1956; supplied Phoenix printing | [Reference](references/reference-meyer-emotion-and-meaning.md) |
 | Alex Ross | *The Rest Is Noise: Listening to the Twentieth Century* | 2007; supplied eBook 2012 | [Reference](references/reference-ross-twentieth-century-routes.md) |
 | Richard Taruskin | *The Oxford History of Western Music: The Complete Five-Volume Set* | Originally 2005; supplied front matter includes 2010 | [Reference](references/reference-taruskin-western-music-history.md) |
+| Paul F. Berliner | *Thinking in Jazz: The Infinite Art of Improvisation* | 1994 | [Reference](references/reference-berliner-improvisational-practice.md) |
+| Ingrid Monson | *Saying Something: Jazz Improvisation and Interaction* | 1996 | [Reference](references/reference-monson-ensemble-interaction.md) |
+| Anne Danielsen | *Presence and Pleasure: The Funk Grooves of James Brown and Parliament* | 2006 | [Reference](references/reference-danielsen-funk-groove.md) |
+| Norman Del Mar | *Anatomy of the Orchestra* | First published 1981; revised paperback 1983 | [Reference](references/reference-del-mar-orchestral-realization.md) |
 
 The critic's main analytical line joins Frith, Moore and Zak. Hennion, DeNora and Huron inform different parts of listener research. Brackett, Lena, Wald and Katz support historically grounded curation. Wilson scrutinizes the critic's exclusions; *Spotify Teardown* scrutinizes discovery's platform assumptions. Their disagreements remain visible.
 
 Laitz, Caplin and Straus provide different structural tools; Cook governs method choice. Rosen and Meyer connect musical relations to aesthetic interpretation, with Meyer explicitly compared to Huron. Taruskin and Ross extend the historical map alongside Brackett and Wald. Composition, arrangement, performance and recorded construction remain distinct throughout.
 
+Berliner and Monson connect prepared vocabulary and individual choices to ensemble response. Danielsen deepens the existing Moore/Frith/Huron rhythm material: patterned organization, performed parts and recorded groove remain distinct. Expectation accounts illuminate anticipation without replacing embodied experience. Del Mar connects instrumental realization to Rosen's formal and expressive questions and to Moore/Zak's account of recorded presentation. Laitz/Caplin/Straus can specify structural constraints without claiming to reconstruct the entire improvisational process.
+
 ## Coverage and limits
 
 The references preserve selected frameworks, conditions, examples and judgment rules useful for this project. They are not chapter-complete substitutes for the books. In particular, Wilson's expanded edition contains other authors' essays: two dissenting responses are represented explicitly, while the other response essays and afterword are outside detailed coverage. Hennion's art-historical disputes and the historical repertory surveys are compressed. See the [coverage ledger](fidelity-ledger/source-and-coverage-ledger.md).
 
-Recorded popular music remains the foundation, now extended into Western art-music structure and history. The corpus does not establish expertise in every musical tradition, and its tonal/Classical/post-tonal tools are not universal laws. Taruskin is selectively sampled across all five volumes; detailed historical questions may require the original chapter. Technical notation and complete exercise sequences are not reproduced. Historical platform findings and older empirical proposals need current verification when used for current factual claims. Converted score examples, diagrams and tables are not treated as reliable audio or notation evidence.
+Recorded popular music remains the foundation, extended into Western art-music structure/history, situated jazz improvisation, funk groove and orchestral realization. The corpus does not establish expertise in every musical tradition, and its tonal/Classical/post-tonal tools are not universal laws. Taruskin is selectively sampled across all five volumes; detailed historical questions may require the original chapter. Technical notation and complete exercise sequences are not reproduced. Historical platform findings and older empirical proposals need current verification when used for current factual claims. Converted score examples, diagrams and tables are not treated as reliable audio or notation evidence.
+
+The third-round material is selective too. Jazz is not reduced to chord-scale substitution; groove is not scored by the amount of timing deviation; instrumental facts are retained for their consequences for register, function, blend, contrast, doubling, density and balance. Del Mar is not a complete scoring course, and his source-era conventions need historical qualification. No exact instrumentation, voicing, timing or causal interaction is inferred from an unsupported secondary description.
 
 ## Build and verification
 
-Built and expanded on 2026-09-22. Round one used eleven Markdown conversions and one PDF; round two adds eight Markdown works and the supplied *Classical Style* PDF. Its listed Markdown file was absent, so the scanned PDF was recovered with OCR. Local sibling PDFs supplied front-matter, prose and selected notation checks; they are verification copies of the same works, not additional sources. Bounded source excerpts informed the distillation; original files and intermediate extraction text are not included. The [manifest](fidelity-ledger/source-manifest.json) records editions, source hashes, structure counts and estimated sizes without private absolute paths.
+Built and expanded on 2026-09-22. Round one used eleven Markdown conversions and one PDF; round two adds eight Markdown works and the supplied *Classical Style* PDF. Its listed Markdown file was absent, so the scanned PDF was recovered with OCR. Local sibling PDFs supplied front-matter, prose and selected notation checks; they are verification copies of the same works, not additional sources. Bounded source excerpts informed the distillation; original files and intermediate extraction text are not included. Round three uses the four requested PDFs; Del Mar required local OCR of all 529 pages before bounded reading. Selected printed pages were visually checked, including the groove example, interactional recovery and orchestral qualifications. The [manifest](fidelity-ledger/source-manifest.json) records editions, source hashes, structure counts and estimated sizes without private absolute paths.
 
-Structural validation, separate core/reference instruction scans and link/symlink checks are recorded with actual outputs in [validation records](fidelity-ledger/validation.json). [Editorial evaluation](fidelity-ledger/evaluation.md) explains the decisions reviewed and their limits. Independent fresh-context baseline/core/core-plus-references behavioral comparison has **not been run**; no claim of measured improvement over a general model is made. The frozen development/final [scenario suite](fidelity-ledger/acceptance-suite.json) now retains all eight original scenarios and adds eight for the expansion. It is available for a future controlled run. Original evidence is archived under `fidelity-ledger/round-1/`; fold-in preservation and coverage records are under `fidelity-ledger/round-2/`.
+Structural validation, separate core/reference instruction scans and link/symlink checks are recorded with actual outputs in [validation records](fidelity-ledger/validation.json). [Editorial evaluation](fidelity-ledger/evaluation.md) explains the decisions reviewed and their limits. Independent fresh-context baseline/core/core-plus-references behavioral comparison has **not been run**; no claim of measured improvement over a general model is made. The frozen development/final [scenario suite](fidelity-ledger/acceptance-suite.json) retains the sixteen scenarios from rounds one and two and adds twelve for round three. It is available for a future controlled run. Original evidence is archived under `fidelity-ledger/round-1/`; round-two records and its prior root-ledger snapshot remain under `fidelity-ledger/round-2/`. Third-round coverage, reading and preservation records are under `fidelity-ledger/round-3/`. Artifact continuity is checked; behavioral regression remains unknown.
 
 ## License
 

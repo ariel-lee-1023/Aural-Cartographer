@@ -1,22 +1,17 @@
 {
-  "errors": [],
+  "errors": [
+    "`name: Aural Cartographer` must be lowercase letters, digits and hyphens only",
+    "`name: Aural Cartographer` must match its skill directory name `aural-cartographer`"
+  ],
   "warnings": [],
   "facts": {
     "skill_root": ".",
     "discovery_entry": ".agents/skills/aural-cartographer",
     "layout": "published-repo",
-    "master_body_tokens": 4449,
-    "master_budget": 5525,
+    "master_body_tokens": 4375,
+    "master_budget": 5225,
     "master_capabilities": 7,
     "references": {
-      "reference-berliner-improvisational-practice.md": {
-        "tokens": 3711,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 16,
-        "budget": 9300
-      },
       "reference-brackett-genre-categories.md": {
         "tokens": 2200,
         "cap": 14000,
@@ -40,22 +35,6 @@
         "type": "text",
         "sections": 10,
         "budget": 8043
-      },
-      "reference-danielsen-funk-groove.md": {
-        "tokens": 3631,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 11,
-        "budget": 8275
-      },
-      "reference-del-mar-orchestral-realization.md": {
-        "tokens": 3649,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 6,
-        "budget": 6974
       },
       "reference-denora-music-in-use.md": {
         "tokens": 2048,
@@ -128,14 +107,6 @@
         "type": "text",
         "sections": 8,
         "budget": 7543
-      },
-      "reference-monson-ensemble-interaction.md": {
-        "tokens": 3293,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 6,
-        "budget": 6974
       },
       "reference-moore-song-means.md": {
         "tokens": 2811,
@@ -210,6 +181,6 @@
         "budget": 7269
       }
     },
-    "books": 25
+    "books": 21
   }
 }

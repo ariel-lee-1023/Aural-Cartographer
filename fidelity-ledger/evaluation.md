@@ -1,39 +1,33 @@
-# Evaluation and regression status
+# Evaluation and regression status after round three
 
-## Evidence actually produced
+## Evidence produced
 
-The authoring agent read bounded source excerpts, recovered damaged front matter/prose, visually inspected four selected PDF pages and reviewed the new references and integrated core. Mechanical checks cover published layout, routing, required sections, relative links, symlink, source/reference counts, budgets, instruction scans, original-reference hashes and preservation of the original scenario objects. Exact outputs are retained alongside this report.
+Four PDF-derived references were authored from bounded readings. Del Mar's 529-page scan was recovered locally; six selected page images were inspected across Danielsen, Monson and Del Mar. Actual mechanical outputs cover layout, source/reference counts, routing, token caps, separate core/reference instruction scans, host lint, relative links, discovery symlink, old-reference hashes and preservation of all 16 prior scenario objects. See package-checks.json and the round-three records.
 
-This is an editorial review and mechanical validation. Independent fresh-context baseline/core/core-plus-references predictions, separate grading, ablations and measured reference gains are **unrun**. No controlled evaluation endpoint/model was configured or executed. Scores and gains remain null. Neither clean structure nor this review demonstrates improved model performance.
+These are editorial and mechanical checks. No user-selected evaluation endpoint/model is configured, and no independent fresh-context baseline/core/core-plus-references prediction or grading run was executed. Scores, ablations, core gain and reference gain remain unmeasured. Behavioral acceptance is **unrun**; regression relative to the prior rounds is **unknown**. Prior results were also unrun. The archive preserves them rather than substituting new claims.
 
-## Frozen scenarios and regression limits
+## Frozen scenarios
 
-The eight original scenario objects remain unchanged; eight new scenarios were added before semantic extraction, with separate development and final groups. New tasks cover formal-function application, inapplicable tonal norms, Meyer/Huron disagreement, corrupted-notation restraint, exact post-tonal relations, Romantic endings, non-teleological history and score-versus-performance evidence. The suite was constructed by the authoring agent, so no claim is made that it is a blind holdout for that agent. No final-scenario model runs were performed.
+The existing 16 scenario objects are unchanged. Twelve third-round scenarios were frozen before semantic extraction: six development and six final, spanning application, inapplicability, disagreement and unsupported claims. They test resource/contribution/response, stable support, microtiming overgeneralization, rhythmic expectation versus groove, orchestral arrival, missing evidence, recovery, recording contrasts, chord-scale reduction and taste continuity. The author constructed the scenarios, so they are not a blind holdout for this author. No final model predictions were generated.
 
-The prior results were also unrun. Accordingly, behavioral regression relative to round one is **unknown**, not passed. Byte preservation of old references and exact scenario preservation establish continuity of artifacts, not equivalence of behavior after core changes.
+## Development-oriented editorial checks
 
-## Development-oriented editorial findings
-
-| Review question | Candidate guidance | Limit |
+| Question | Candidate reasoning reviewed | Evidential limit |
 |---|---|---|
-| Can a Classical repeated idea plus fragmentation support a sentence reading? | Caplin requires tonic prolongation, functional continuation and checked cadence; grouping alone is insufficient. | No host response or score-analysis trial was graded. |
-| Does a repeating pop progression fail for lacking Classical closure? | Core and Laitz/Caplin restrict scope; Moore/Zak preserve groove, arrangement and production. | No particular track was auditioned. |
-| Do Meyer and Huron make the same prediction/value claim? | Separate source frameworks and an explicit comparison table; neither determines value or individual taste. | Their empirical proposals were not revalidated. |
-| Can unreadable OCR justify exact pitch or row labels? | Evidence rules require legible notation or a conditional answer. | Four spot checks do not validate all converted scores. |
-| Did formal analysis displace the four existing roles? | Role paragraph, recorded critique, library fields, taste table, discovery routes and self-critical valuation remain; original references are unchanged. | This is editorial continuity, not a behavioral benchmark. |
+| What makes jazz situated invention? | The core traces resources, contribution, response and changed possibility. Berliner supplies preparation and saves; Monson supplies distributed roles and repair. | No actual host prediction was scored. |
+| Can holding the pattern count as interaction? | Stable support can maintain the condition for another musician's displacement; silence can open space. A common arrangement can also explain coordination. | No unknown performance is reconstructed from a description. |
+| Does greater deviation make a better groove? | Danielsen's reference distinguishes sounding gesture from virtual figure and asks which pulse, accents and layers are related. Her support for participatory discrepancies remains attributed and bounded. | No timing measurement or causal perceptual experiment performed. |
+| Does expectation theory exhaust groove? | Meyer/Huron remain distinct from Danielsen's temporal and embodied interpretation. Accurate prediction, aesthetic achievement and individual pleasure stay separate. | This is synthesis, not an author-validated unified theory. |
+| Can stable harmony accompany an orchestral arrival? | Trace changed register, family, reinforcement, separation, density and balance, then explain a possible formal consequence. | Exact notes/instruments require score/audio; no spectral measurement implied. |
+| Can the same writing sound different? | Del Mar supplies performer decisions about blend, attack, mutes and resonance; Moore/Zak preserve recording mediation. | No particular unexamined recording is diagnosed. |
+| Were existing roles and boundaries retained? | Criticism, genealogy, discovery and taste investigation remain, with repertoire-sensitive structure, source attribution and privacy boundaries. | Byte preservation of references does not prove behavioral equivalence after core edits. |
+| Does the introduction identify this expert? | README voice shows a listener encounter, ensemble response and orchestral redistribution before bibliography and process. | Editorial judgment; no pronoun or name-count proxy used. |
+| Does language behavior remain consistent? | Corpus English default; a Chinese question alone keeps English, an explicit Chinese-output request changes it. Host guidance agrees. | Semantic instruction review, not executed model trials. |
 
-## Mathematical and source checks
+## Scope decision
 
-A standalone arithmetic check verifies the project T3/I0 examples and the two Z-related tetrachords' interval vectors and non-equivalence under all twelve T and I operations. This checks exact numerical assertions only. Straus's fourth-edition normal-form convention was verified visually; it was not silently replaced by a software default. Laitz's tonicization/modulation condition, Caplin's HC restriction and Rosen's broader recapitulation terminology were checked in source context.
+The foundational corpus is complete for the user's stated purpose, not empirically certified or universal. New sources require recurring real listening cases with a specific failed explanation. The existing destination architecture was followed; no second runtime copy, per-book skill folders or unrelated authoring-tool changes were introduced.
 
-## Packaging qualifications
+## Host lint qualification
 
-The metatool validator infers technical type from fenced code rather than the displayed Type metadata. These music-theory references use prose and mathematical notation, so its report classifies them as text and applies the stricter text caps. The manifest and manual budget checks retain the intended technical classification for Laitz, Caplin, Straus and Cook. All pass both applicable ceilings; the tool itself was not modified.
-
-The user subsequently requested the literal name `Aural Cartographer` in SKILL.md and README.md. The frontmatter name and document headings now follow that spelling; repository paths and the existing discovery alias remain unchanged. The validators enforce lowercase hyphenated names and therefore report naming errors for this explicit user override. These errors are retained in the validation outputs; compatibility with hosts requiring slug-form names is not claimed. All non-naming checks remain unchanged.
-
-The README introduces this expert through record criticism, taste contrasts and the new structural questions. Default English, explicit language overrides, evidence boundaries and private-log handling agree across the README, core and AGENTS. Raw source data, credentials and personal listener records are excluded.
-
-## Remaining limits
-
-The source review is selective, especially in the five-volume Taruskin corpus and the historical surveys. Many chapters are represented as research routes rather than complete factual coverage. Notation, recordings, disputed particulars and contemporary empirical claims require appropriate evidence. The library supplies inspectable methods and qualifications; it does not by itself provide audio perception, persistent storage or demonstrated recommendation accuracy.
+The generic host linter resolves the discovery symlink and then compares the lowercase slug against the capitalized repository basename. It emits that same directory-name warning for its three host lenses. The dedicated published-repository validator understands this layout and reports no errors or warnings: the discovery entry is named aural-cartographer, matches frontmatter, and resolves to the single canonical root. The warning is retained in host-lint.txt rather than hidden. Install under the lowercase slug as documented if the host uses a personal skill directory.

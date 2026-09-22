@@ -1,0 +1,528 @@
+{
+  "sources": {
+    "berliner": {
+      "lines": 25082,
+      "output_budget": 9300
+    },
+    "monson": {
+      "lines": 11968,
+      "output_budget": 6974
+    },
+    "danielsen": {
+      "lines": 11273,
+      "output_budget": 8275
+    },
+    "delmar": {
+      "lines": 26561,
+      "output_budget": 6974
+    }
+  },
+  "reads": [
+    {
+      "source": "berliner",
+      "start": 1,
+      "end": 155,
+      "tokens": 1119,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 1,
+      "end": 200,
+      "tokens": 761,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 1,
+      "end": 200,
+      "tokens": 1179,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 205,
+      "end": 320,
+      "tokens": 813,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 2910,
+      "end": 3000,
+      "tokens": 1795,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 3750,
+      "end": 3820,
+      "tokens": 800,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 4230,
+      "end": 4340,
+      "tokens": 2175,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 7135,
+      "end": 7290,
+      "tokens": 3122,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 7550,
+      "end": 7665,
+      "tokens": 2286,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 7780,
+      "end": 7930,
+      "tokens": 3142,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 7135,
+      "end": 7238,
+      "tokens": 2081,
+      "reason": "verification",
+      "question": "Clarify inner-dialogue and motivic-development claims after prior output truncation.",
+      "resolution": "Retained identity-preserving variation, constraints as support and the non-compulsory status of motivic development; no exact notation inferred."
+    },
+    {
+      "source": "berliner",
+      "start": 8185,
+      "end": 8250,
+      "tokens": 1213,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 8870,
+      "end": 8978,
+      "tokens": 2077,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 3611,
+      "end": 3680,
+      "tokens": 1351,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 5447,
+      "end": 5505,
+      "tokens": 1133,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 6300,
+      "end": 6350,
+      "tokens": 975,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 12704,
+      "end": 12770,
+      "tokens": 1292,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 13610,
+      "end": 13665,
+      "tokens": 1114,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 1220,
+      "end": 1290,
+      "tokens": 1050,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 1428,
+      "end": 1508,
+      "tokens": 1012,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 3335,
+      "end": 3445,
+      "tokens": 1652,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 3930,
+      "end": 4025,
+      "tokens": 1398,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 4025,
+      "end": 4055,
+      "tokens": 448,
+      "reason": "verification",
+      "question": "Complete the active-listening paragraph across a one-line slice boundary.",
+      "resolution": "The continuation distinguishes fulfilling harmonic structure from listening and responding to other players; only the boundary line is repeated."
+    },
+    {
+      "source": "monson",
+      "start": 4540,
+      "end": 4625,
+      "tokens": 1263,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 6028,
+      "end": 6125,
+      "tokens": 1462,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 8640,
+      "end": 8720,
+      "tokens": 1174,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 6370,
+      "end": 6430,
+      "tokens": 889,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 7705,
+      "end": 7760,
+      "tokens": 305,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 8235,
+      "end": 8270,
+      "tokens": 606,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "monson",
+      "start": 8940,
+      "end": 9020,
+      "tokens": 1252,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 2105,
+      "end": 2205,
+      "tokens": 1580,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 2260,
+      "end": 2350,
+      "tokens": 1413,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 3000,
+      "end": 3130,
+      "tokens": 2112,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 3286,
+      "end": 3420,
+      "tokens": 1639,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 4740,
+      "end": 4790,
+      "tokens": 721,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 5510,
+      "end": 5600,
+      "tokens": 1355,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 5915,
+      "end": 5995,
+      "tokens": 1204,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 6325,
+      "end": 6410,
+      "tokens": 1398,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 1,
+      "end": 365,
+      "tokens": 2000,
+      "reason": "front matter/TOC structural probe before registration; conservative emitted-token estimate"
+    },
+    {
+      "source": "danielsen",
+      "start": 5660,
+      "end": 5740,
+      "tokens": 1355,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 9040,
+      "end": 9075,
+      "tokens": 172,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 8110,
+      "end": 8150,
+      "tokens": 672,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 730,
+      "end": 785,
+      "tokens": 675,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 2170,
+      "end": 2238,
+      "tokens": 684,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 2600,
+      "end": 2693,
+      "tokens": 682,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 7630,
+      "end": 7685,
+      "tokens": 631,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 8055,
+      "end": 8122,
+      "tokens": 519,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 8190,
+      "end": 8255,
+      "tokens": 534,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 5750,
+      "end": 5840,
+      "tokens": 1460,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 9070,
+      "end": 9105,
+      "tokens": 297,
+      "reason": "verification",
+      "question": "Check chapter numbering and structure against detached OCR table-of-contents entries.",
+      "resolution": "Danielsen has eleven numbered chapters; the final TOC page was visually verified. Overlap is metadata verification."
+    },
+    {
+      "source": "danielsen",
+      "start": 315,
+      "end": 348,
+      "tokens": 289,
+      "reason": "verification",
+      "question": "Check chapter numbering and structure against detached OCR table-of-contents entries.",
+      "resolution": "Danielsen has eleven numbered chapters; the final TOC page was visually verified. Overlap is metadata verification."
+    },
+    {
+      "source": "delmar",
+      "start": 1366,
+      "end": 1405,
+      "tokens": 495,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 5571,
+      "end": 5620,
+      "tokens": 597,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 9870,
+      "end": 9905,
+      "tokens": 508,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 9950,
+      "end": 10045,
+      "tokens": 1131,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 11848,
+      "end": 11888,
+      "tokens": 236,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 12575,
+      "end": 12640,
+      "tokens": 757,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 16608,
+      "end": 16642,
+      "tokens": 415,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 18490,
+      "end": 18532,
+      "tokens": 474,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 20720,
+      "end": 20765,
+      "tokens": 560,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 21445,
+      "end": 21485,
+      "tokens": 418,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 14100,
+      "end": 14150,
+      "tokens": 1007,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 15085,
+      "end": 15135,
+      "tokens": 1041,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 14980,
+      "end": 15070,
+      "tokens": 651,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 11265,
+      "end": 11330,
+      "tokens": 797,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 1643,
+      "end": 1695,
+      "tokens": 1033,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 10589,
+      "end": 10660,
+      "tokens": 1410,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "berliner",
+      "start": 11478,
+      "end": 11525,
+      "tokens": 932,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 7085,
+      "end": 7130,
+      "tokens": 749,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "danielsen",
+      "start": 7900,
+      "end": 7940,
+      "tokens": 633,
+      "reason": "targeted source reading"
+    },
+    {
+      "source": "delmar",
+      "start": 366,
+      "end": 625,
+      "tokens": 1150,
+      "reason": "TOC structural probe emitted separately; conservative token estimate"
+    }
+  ],
+  "note": "Source-local lines refer to source renditions hashed in manifest. Cleaned slice tokens are script-density estimates; some tool outputs were truncated, so their recorded counts and span coverage are upper bounds on material visible to the author. Structural rg probes are navigation, not exhaustive reading. Visual checks recorded separately. No full semantic reading claimed."
+}

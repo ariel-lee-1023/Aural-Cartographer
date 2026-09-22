@@ -1,16 +1,12 @@
 {
-  "relative_links_checked": 87,
+  "relative_links_checked": 68,
   "broken_links": [],
-  "archive_link_base": "Historical root snapshot Markdown resolves relative links from original fidelity-ledger base",
-  "references": 25,
-  "source_works": 25,
+  "references": 21,
+  "source_works": 21,
   "required_sections": {
-    "reference-berliner-improvisational-practice.md": true,
     "reference-brackett-genre-categories.md": true,
     "reference-caplin-formal-functions.md": true,
     "reference-cook-analytical-methods.md": true,
-    "reference-danielsen-funk-groove.md": true,
-    "reference-del-mar-orchestral-realization.md": true,
     "reference-denora-music-in-use.md": true,
     "reference-eriksson-streaming-mediation.md": true,
     "reference-frith-popular-valuation.md": true,
@@ -20,7 +16,6 @@
     "reference-laitz-tonal-analysis.md": true,
     "reference-lena-genre-communities.md": true,
     "reference-meyer-emotion-and-meaning.md": true,
-    "reference-monson-ensemble-interaction.md": true,
     "reference-moore-song-means.md": true,
     "reference-rosen-classical-style.md": true,
     "reference-rosen-romantic-generation.md": true,
@@ -31,30 +26,21 @@
     "reference-wilson-taste-and-criticism.md": true,
     "reference-zak-record-poetics.md": true
   },
-  "prior_21_references_unchanged": {
-    "reference-rosen-classical-style.md": true,
+  "original_references_unchanged": {
     "reference-frith-popular-valuation.md": true,
-    "reference-rosen-romantic-generation.md": true,
     "reference-eriksson-streaming-mediation.md": true,
-    "reference-cook-analytical-methods.md": true,
     "reference-brackett-genre-categories.md": true,
     "reference-wald-alternative-pop-history.md": true,
     "reference-wilson-taste-and-criticism.md": true,
     "reference-denora-music-in-use.md": true,
     "reference-lena-genre-communities.md": true,
-    "reference-taruskin-western-music-history.md": true,
     "reference-huron-musical-expectation.md": true,
     "reference-katz-phonograph-effects.md": true,
-    "reference-meyer-emotion-and-meaning.md": true,
     "reference-zak-record-poetics.md": true,
-    "reference-caplin-formal-functions.md": true,
-    "reference-ross-twentieth-century-routes.md": true,
-    "reference-laitz-tonal-analysis.md": true,
     "reference-hennion-mediation-and-taste.md": true,
-    "reference-moore-song-means.md": true,
-    "reference-straus-post-tonal-analysis.md": true
+    "reference-moore-song-means.md": true
   },
-  "prior_16_scenarios_preserved": {
+  "original_scenarios_preserved": {
     "development-apply": true,
     "development-inapplicable": true,
     "development-disagreement": true,
@@ -62,77 +48,116 @@
     "final-apply": true,
     "final-inapplicable": true,
     "final-disagreement": true,
-    "final-unsupported": true,
-    "r2-development-apply": true,
-    "r2-development-inapplicable": true,
-    "r2-development-disagreement": true,
-    "r2-development-unsupported": true,
-    "r2-final-apply": true,
-    "r2-final-inapplicable": true,
-    "r2-final-disagreement": true,
-    "r2-final-unsupported": true
+    "final-unsupported": true
   },
-  "total_scenarios": 28,
-  "archived_root_files_byte_preserved": {
+  "total_scenarios": 16,
+  "archived_json_byte_preservation": {
     "source-manifest.json": true,
-    "source-and-coverage-ledger.md": true,
     "reading-ledger.json": true,
     "package-checks.json": true,
     "reference-scan.json": true,
     "acceptance-suite.json": true,
     "core-scan.json": true,
     "validation.json": true,
-    "host-lint.txt": true,
     "acceptance-results.json": true,
-    "reading-report.json": true,
-    "coverage-audit.md": true,
-    "evaluation.md": true
+    "reading-report.json": true
   },
-  "new_reference_budgets": {
-    "berliner": {
+  "manual_new_reference_budgets": {
+    "laitz": {
+      "type": "technical",
+      "depth": "study",
+      "tokens": 3325,
+      "budget": 16076,
+      "cap": 19500,
+      "within_cap": true,
+      "manifest_tokens_match": true
+    },
+    "caplin": {
+      "type": "technical",
+      "depth": "study",
+      "tokens": 3236,
+      "budget": 12740,
+      "cap": 19500,
+      "within_cap": true,
+      "manifest_tokens_match": true
+    },
+    "classical": {
       "type": "text",
       "depth": "study",
-      "tokens": 3711,
-      "budget": 9300,
+      "tokens": 2931,
+      "budget": 7269,
       "cap": 14000,
       "within_cap": true,
       "manifest_tokens_match": true
     },
-    "monson": {
+    "romantic": {
       "type": "text",
       "depth": "study",
-      "tokens": 3293,
-      "budget": 6974,
+      "tokens": 3343,
+      "budget": 8496,
       "cap": 14000,
       "within_cap": true,
       "manifest_tokens_match": true
     },
-    "danielsen": {
+    "straus": {
+      "type": "technical",
+      "depth": "study",
+      "tokens": 3368,
+      "budget": 9100,
+      "cap": 19500,
+      "within_cap": true,
+      "manifest_tokens_match": true
+    },
+    "cook": {
+      "type": "technical",
+      "depth": "study",
+      "tokens": 2803,
+      "budget": 10650,
+      "cap": 19500,
+      "within_cap": true,
+      "manifest_tokens_match": true
+    },
+    "meyer": {
       "type": "text",
       "depth": "study",
-      "tokens": 3631,
-      "budget": 8275,
+      "tokens": 3240,
+      "budget": 7543,
       "cap": 14000,
       "within_cap": true,
       "manifest_tokens_match": true
     },
-    "delmar": {
+    "ross": {
       "type": "text",
       "depth": "study",
-      "tokens": 3649,
-      "budget": 6974,
+      "tokens": 2593,
+      "budget": 9109,
       "cap": 14000,
+      "within_cap": true,
+      "manifest_tokens_match": true
+    },
+    "taruskin": {
+      "type": "text",
+      "depth": "reference",
+      "tokens": 3656,
+      "budget": 4122,
+      "cap": 8500,
       "within_cap": true,
       "manifest_tokens_match": true
     }
   },
-  "core_total_estimated_tokens": 4571,
-  "core_body_estimated_tokens": 4449,
+  "core_total_estimated_tokens": 4493,
   "discovery_symlink": "../..",
   "discovery_resolves_to_root": true,
-  "runtime_hash": "sha256:14b154e03f416db0d47797c7075ae5ceb23630e7c55b9bfb291b7195d4499b86",
+  "runtime_hash": "sha256:2ab0876f436b8a06c198e447422fb0fca86c0b12e849afc14e2bbe43d2be5d5b",
   "forbidden_source_or_scratch_files": [],
   "private_paths_or_token_patterns": [],
-  "behavioral_acceptance": "unrun",
-  "behavioral_regression": "unknown"
+  "private_source_files_distributed": false,
+  "user_requested_name_override": {
+    "name": "Aural Cartographer",
+    "discovery_alias": "aural-cartographer",
+    "validation_errors": [
+      "`name: Aural Cartographer` must be lowercase letters, digits and hyphens only",
+      "`name: Aural Cartographer` must match its skill directory name `aural-cartographer`"
+    ]
+  }
 }

@@ -1,0 +1,21 @@
+{
+  "status": "pass",
+  "scope": "Static task definition checks only; no behavioral execution",
+  "tasks": 28,
+  "partitions": {
+    "development": [
+      "apply",
+      "disagreement",
+      "inapplicable",
+      "unsupported"
+    ],
+    "final": [
+      "apply",
+      "disagreement",
+      "inapplicable",
+      "unsupported"
+    ]
+  },
+  "scenario_groups_do_not_cross_partitions": true,
+  "reference_dependent_tasks_in_each_partition": true
+}

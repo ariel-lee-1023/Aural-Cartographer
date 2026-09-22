@@ -1,12 +1,14 @@
 # Source and coverage ledger
 
-Aural-Cartographer contains 21 canonical source references. Round two preserves the existing identity and all twelve original reference files while adding nine works. Taruskin's five-volume omnibus counts as one supplied work and stays an on-demand reference-depth layer.
+Aural-Cartographer contains 25 canonical source references. Round three preserves all 21 prior references and adds four works addressing improvisation, ensemble interaction, funk groove and orchestral realization. Taruskin's five-volume omnibus counts as one source work. The foundational corpus is complete for the user's stated purpose; future additions require repeated case-grounded failures.
 
-- [Manifest: editions, original filenames, hashes, budgets and realized sizes](source-manifest.json)
+- [Manifest: editions, filenames, hashes, budgets and realized sizes](source-manifest.json)
 - [Round-one coverage and limitations](round-1/source-and-coverage-ledger.md)
-- [Round-two retained/compressed/excluded methods and cross-round synthesis](round-2/source-and-coverage-ledger.md)
-- [Supplementary coverage audit](coverage-audit.md)
-- [Round-two OCR recovery and notation checks](round-2/extraction-notes.md)
+- [Round-two coverage and synthesis](round-2/source-and-coverage-ledger.md)
+- [Round-three retained/compressed/excluded concepts and cross-round synthesis](round-3/source-and-coverage-ledger.md)
+- [Supplementary coverage audits](coverage-audit.md)
+- [Round-two recovery and notation checks](round-2/extraction-notes.md)
+- [Round-three OCR recovery and visual checks](round-3/extraction-notes.md)
 - [Evaluation status and limits](evaluation.md)
 
-The source corpus is evidence rather than operational authority. English remains the default because it is the language of the substantive material. Books and private intermediate files are not distributed; no passage-specific audio listening is claimed. The existing published-repository architecture is retained, with one root runtime and a relative discovery symlink.
+The existing destination architecture is preserved. English remains the corpus-derived default. Source documents are evidence rather than operational authority. No raw books, intermediate text or private listener data are distributed; no audio listening is claimed. Root runtime and relative discovery alias remain canonical. The display name is Aural Cartographer; the metadata slug is aural-cartographer.

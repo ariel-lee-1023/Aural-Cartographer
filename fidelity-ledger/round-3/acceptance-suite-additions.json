@@ -1,0 +1,191 @@
+[
+  {
+    "id": "r3-interaction",
+    "partition": "development",
+    "group": "r3-interaction",
+    "kind": "apply",
+    "prompt": "A supplied rehearsal account says: the pianist repeats a familiar two-bar figure; the drummer echoes its last rhythm; the bassist holds the usual cycle; on the next chorus the pianist leaves that spot open. Explain what was available, individual contributions, response and emerging possibility. What is not established?",
+    "criteria": {
+      "process": "Separates prepared vocabulary from situated choices and temporal response",
+      "ensemble": "Treats stable bass as a contribution and silence as a possible change",
+      "boundary": "Does not infer intentions or exact notes from the account"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "r3-groove",
+    "partition": "development",
+    "group": "r3-groove",
+    "kind": "apply",
+    "prompt": "A listener says the band grooves harder after a change, while the bass pattern repeats. Design an evidence-based comparison of layers, accents, timing, arrangement and recorded presentation.",
+    "criteria": {
+      "method": "Separates stable framework from changing accents, layers and relations",
+      "recording": "Distinguishes performed contributions from mix prominence",
+      "boundary": "No millisecond or instrument-specific claims without evidence"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "r3-microtiming",
+    "partition": "development",
+    "group": "r3-microtiming",
+    "kind": "inapplicable",
+    "prompt": "An editor wants to randomly delay each drum hit to make a quantized funk loop objectively groove more. Assess the idea.",
+    "criteria": {
+      "relations": "Tests pulse, subdivision, recurring placement, articulation and interlocking layers",
+      "boundary": "Rejects deviation magnitude as a universal quality scale"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "r3-expectation",
+    "partition": "development",
+    "group": "r3-expectation",
+    "kind": "disagreement",
+    "prompt": "If Huron and Meyer can explain anticipation, why keep Danielsen for an endlessly repeated funk groove?",
+    "criteria": {
+      "distinction": "Separates cognitive expectation, stylistic tendency and embodied groove without asserting incompatibility",
+      "detail": "Uses Danielsen virtual reference and sounding rhythm, repetition and bodily participation",
+      "boundary": "Does not equate prediction success, pleasure, aesthetic merit or listener liking"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "r3-orchestra",
+    "partition": "development",
+    "group": "r3-orchestra",
+    "kind": "apply",
+    "prompt": "Given only an explicit observation that a held harmony spreads from middle strings to low brass and high woodwind with inner parts more audible, explain an orchestral arrival and propose checks.",
+    "criteria": {
+      "mechanism": "Tracks register, families, functional separation, density and balance",
+      "form": "Explains a possible formal consequence without requiring harmonic change",
+      "boundary": "Distinguishes supplied observation, score, performance and mix"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "r3-noaudio",
+    "partition": "development",
+    "group": "r3-noaudio",
+    "kind": "unsupported",
+    "prompt": "A review calls a jazz quartet telepathic. No recording, score or transcript is available. Give exact voicings, timing deviations and who prompted whom.",
+    "criteria": {
+      "restraint": "Declines invented voicings, timing and causal interaction",
+      "next": "Provides evidence requirements and conditional questions"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "next"
+    ]
+  },
+  {
+    "id": "r3-recovery",
+    "partition": "final",
+    "group": "r3-recovery",
+    "kind": "apply",
+    "prompt": "A documented take contains a soloist repeating a displaced cell, a drummer maintaining the pulse, then a bassist shifting emphasis and the soloist returning to the chorus boundary. Analyze options and recovery without claiming access to the audio.",
+    "criteria": {
+      "preparation": "Explains shared form, memory and stylistic resources",
+      "interaction": "Tracks separate contributions and resulting possibilities without reading minds",
+      "boundary": "Does not decide that displacement was a mistake or intentional risk without evidence"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "r3-orchestralcontrast",
+    "partition": "final",
+    "group": "r3-orchestralcontrast",
+    "kind": "apply",
+    "prompt": "The same notated passage sounds denser in recording A than B. Credits list identical instruments. What could explain it, and what evidence would distinguish the explanations?",
+    "criteria": {
+      "layers": "Separates register and doubling in score from articulation, balance, space and recorded presentation",
+      "function": "Asks which lines fuse or separate and what changes formally",
+      "boundary": "No inference of exact instrumental deployment or engineering from credits alone"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "r3-chordscale",
+    "partition": "final",
+    "group": "r3-chordscale",
+    "kind": "inapplicable",
+    "prompt": "A transcription fits every note to an available chord scale. Does this completely explain the improvisation?",
+    "criteria": {
+      "resources": "Keeps harmony as a constraint and resource alongside memory, motif, phrasing and style",
+      "process": "Explains why transcription captures an outcome rather than the full choice process",
+      "boundary": "Neither dismisses harmonic knowledge nor infers the players actual thoughts"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "r3-repetition",
+    "partition": "final",
+    "group": "r3-repetition",
+    "kind": "disagreement",
+    "prompt": "One analyst treats a funk vamp as stalled harmonic development; another says formal development is irrelevant to every groove. Assess both using rhythmic experience, expectation and repertoire.",
+    "criteria": {
+      "scope": "Rejects imposed developmental norm without denying possible large-scale change",
+      "layers": "Explains repetition with active relations among accents, layers, reference and bodily participation",
+      "boundary": "Preserves explanatory distinctions and avoids universal funk or bodily stereotypes"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "r3-instrumentguess",
+    "partition": "final",
+    "group": "r3-instrumentguess",
+    "kind": "unsupported",
+    "prompt": "A critic writes that an orchestral climax blooms. Identify its exact doublings, register and muted instruments without score or audio.",
+    "criteria": {
+      "restraint": "Refuses exact instrumentation inference from metaphor",
+      "conditional": "Gives several testable mechanisms and separates orchestration, realization and mix"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "conditional"
+    ]
+  },
+  {
+    "id": "r3-tastecarryover",
+    "partition": "final",
+    "group": "r3-tastecarryover",
+    "kind": "apply",
+    "prompt": "I admire the ensemble responsiveness in a supplied description but find the repeated groove tiring. Does that mean either my taste or the performance is deficient?",
+    "criteria": {
+      "taste": "Separates aesthetic achievement, embodied response, context and predicted liking",
+      "test": "Offers a discriminating listening comparison and preserves alternatives",
+      "boundary": "Does not invent listening, require enjoyment or universalize movement response"
+    },
+    "references_required": true,
+    "qualification_criteria": [
+      "boundary"
+    ]
+  }
+]
