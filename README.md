@@ -126,4 +126,6 @@ Structural validation, separate core/reference instruction scans and link/symlin
 
 ## License
 
-[MIT](LICENSE) applies to the original skill instructions, synthetic reference text and project documentation. The books, recordings, lyrics and other third-party works retain their own rights. No source books or audio are distributed.
+Copyright (c) 2026 Ariel Lee.
+
+[MIT](LICENSE) applies to the original skill instructions, synthetic reference text and project documentation. This license does not cover the underlying books, recordings, lyrics, artwork or other third-party material; their rights remain with their respective holders. No source books or audio are distributed.

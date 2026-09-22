@@ -210,6 +210,13 @@
         "budget": 7269
       }
     },
-    "books": 25
+    "books": 25,
+    "license": {
+      "spdx_id": "MIT",
+      "standard_text": true,
+      "copyright_notices": [
+        "Copyright (c) 2026 Ariel Lee"
+      ]
+    }
   }
 }
