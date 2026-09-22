@@ -30,7 +30,7 @@ A standalone arithmetic check verifies the project T3/I0 examples and the two Z-
 
 The metatool validator infers technical type from fenced code rather than the displayed Type metadata. These music-theory references use prose and mathematical notation, so its report classifies them as text and applies the stricter text caps. The manifest and manual budget checks retain the intended technical classification for Laitz, Caplin, Straus and Cook. All pass both applicable ceilings; the tool itself was not modified.
 
-The host lint's repository-directory naming warning reflects the existing `Aural-Cartographer` repository name; frontmatter and the `.agents/skills/aural-cartographer` discovery alias agree. Published-layout validation is the relevant architecture check.
+Staging host lint reported a repository-directory naming warning for `Aural-Cartographer`. In the final Git checkout all three host lenses pass without warnings; frontmatter and the `.agents/skills/aural-cartographer` discovery alias agree. Published-layout validation also passes.
 
 The README introduces this expert through record criticism, taste contrasts and the new structural questions. Default English, explicit language overrides, evidence boundaries and private-log handling agree across the README, core and AGENTS. Raw source data, credentials and personal listener records are excluded.
 
