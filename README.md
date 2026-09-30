@@ -14,7 +14,42 @@ When a rapper seems to glide across a beat, I separate the backing’s pulse fro
 
 I work with the evidence available. If I have no access to the audio, I can use an attributed analysis or your account, but I will not invent what I heard. My purpose is to help you understand recordings, their histories and your changing judgments—not to turn every question into a prediction of your next favorite song.
 
-## What this repository provides
+**Recording → evidence → musical relations → judgment → next encounter.**
+
+[Workflow](#how-it-works) · [Use cases](#use-it-for) · [Install](#installation) · [Examples](#example-requests) · [Repository map](#repository-layout) · [Sources](#sources-and-their-responsibilities) · [Validation](#coverage-and-validation)
+
+## How it works
+
+```mermaid
+flowchart TD
+    accTitle: Reasoning and delivery workflow
+    accDescr: The task and evidence guide domain reasoning, the output and review.
+    input["Recording, passage or listening notes"]
+    frame["Identify version, listening context and available evidence"]
+    reason["Separate structure, performance, history and taste"]
+    choice{"What does this question need?"}
+    primary["Critical account or comparison"]
+    alternative["Discovery route or revisable taste hypothesis"]
+    review["Check evidence, alternatives and listener response"]
+    input --> frame --> reason --> choice
+    choice --> primary
+    choice --> alternative
+    primary --> review
+    alternative --> review
+    review -.->|Revisit when evidence changes| reason
+    classDef focus fill:#e0f2fe,stroke:#0369a1,color:#0c4a6e
+    classDef output fill:#dcfce7,stroke:#15803d,color:#14532d
+    classDef decision fill:#fef3c7,stroke:#b45309,color:#78350f
+    class frame,reason focus
+    class primary,alternative output
+    class choice,review decision
+```
+
+Recording → evidence → musical relations → judgment → next encounter. The diagram summarizes the reasoning route; the question and available evidence determine which branches are useful.
+
+## Use it for
+
+### What this repository provides
 
 A directly usable Agent Skill, with six connected lines of work:
 
@@ -31,21 +66,9 @@ The core connects **twenty-eight source works** in one expert. The original four
 
 The prior foundational-corpus scope decision remains a limit on expansion by default. This round is an explicit user-directed correction of a specific hip-hop/R&B gap. Further books should address repeated real listening failures or explicit user direction; twenty-eight sources do not imply universal musical expertise.
 
-## Layout
+## Installation
 
-```text
-Aural-Cartographer/
-├── SKILL.md
-├── references/                   # 28 source-specific runtime references
-├── AGENTS.md
-├── README.md
-├── LICENSE
-├── .gitignore
-├── .agents/skills/aural-cartographer -> ../..
-└── fidelity-ledger/              # maintainer evidence; not loaded for music answers
-```
-
-## Installation and use
+### Installation and use
 
 Clone the actual repository and open it in an Agent Skills-compatible host:
 
@@ -58,7 +81,7 @@ The displayed expert name is **Aural Cartographer**; its machine-readable slug i
 
 The default response language is **English**, matching the substantive supplied corpus. An explicit request such as “Please answer this analysis in Chinese.” overrides it for that scope.
 
-Example requests:
+## Example requests
 
 - “I admire this album but rarely want to replay it. Help me separate its achievement from my liking. Here are the passages I notice…”
 - “Compare these two specified recordings of the same song using my listening notes. Mark what you cannot establish without audio.”
@@ -80,7 +103,80 @@ The host loads the core first and normally opens one to three references when th
 
 Personal listening records belong in a private location chosen by the listener, outside this published repository. The skill offers a compact record format but cannot promise cross-session memory unless the host actually saves and retrieves it.
 
-## Sources
+## Repository layout
+
+```mermaid
+flowchart LR
+    accTitle: Repository structure and runtime loading
+    accDescr: The canonical core routes to references, while supporting files and maintenance records have separate roles.
+    root["Aural-Cartographer/"]
+    root --> core["SKILL.md<br/>Reasoning core and loading triggers"]
+    core -->|Loads relevant depth| refs["references/<br/>Runtime reference library"]
+    root --> support0["AGENTS.md<br/>Project guidance"]
+    root --> support1["fidelity-ledger/<br/>Provenance and evaluation"]
+    root --> support2["LICENSE<br/>License"]
+    root --> alias0[".agents/skills/aural-cartographer"]
+    alias0 -.->|Discovery alias| root
+    classDef runtime fill:#e0f2fe,stroke:#0369a1,color:#0c4a6e
+    classDef support fill:#f1f5f9,stroke:#64748b,color:#334155
+    class core,refs runtime
+    class support0,support1,support2 support
+```
+
+[Expert core](SKILL.md) · [Reference library](references/) · [Project guidance](AGENTS.md) · [Provenance and evaluation](fidelity-ledger/) · [License](LICENSE).
+
+The map reflects the repository’s existing architecture. Runtime references and human-facing maintenance or learning records have different loading roles.
+
+```text
+Aural-Cartographer/
+├── SKILL.md
+├── references/                   # 28 source-specific runtime references
+├── AGENTS.md
+├── README.md
+├── LICENSE
+├── .gitignore
+├── .agents/skills/aural-cartographer -> ../..
+└── fidelity-ledger/              # maintainer evidence; not loaded for music answers
+```
+
+## Sources and their responsibilities
+
+```mermaid
+flowchart LR
+    accTitle: Sources and their primary responsibilities
+    accDescr: Task responsibilities connect the expert to its source material; groupings do not imply author agreement.
+    core["Expert core and task router"]
+    core --> g0["Criticism and recorded meaning"]
+    g0 --> s0_0["Frith · Performing Rites<br/>Moore · Song Means<br/>Zak · The Poetics of Rock"]
+    g0 --> s0_1["Wilson · Let’s Talk About Love"]
+    classDef group0 fill:#ede9fe,stroke:#7c3aed,color:#4c1d95
+    class g0,s0_0,s0_1 group0
+    core --> g1["Taste and mediation"]
+    g1 --> s1_0["Hennion · The Passion for Music<br/>DeNora · Music in Everyday Life<br/>Eriksson et al. · Spotify Teardown"]
+    classDef group1 fill:#dcfce7,stroke:#15803d,color:#14532d
+    class g1,s1_0 group1
+    core --> g2["Genre and history"]
+    g2 --> s2_0["Lena · Banding Together<br/>Brackett · Categorizing Sound<br/>Wald · How the Beatles Destroyed Rock ’n’ Roll"]
+    g2 --> s2_1["Katz · Capturing Sound<br/>Taruskin · Oxford History of Western Music<br/>Ross · The Rest Is Noise"]
+    classDef group2 fill:#fef3c7,stroke:#b45309,color:#78350f
+    class g2,s2_0,s2_1 group2
+    core --> g3["Structure and interpretation"]
+    g3 --> s3_0["Laitz · The Complete Musician<br/>Caplin · Classical Form<br/>Straus · Introduction to Post-Tonal Theory"]
+    g3 --> s3_1["Cook · A Guide to Musical Analysis<br/>Rosen · The Classical Style<br/>Rosen · The Romantic Generation"]
+    g3 --> s3_2["Meyer · Emotion and Meaning in Music<br/>Huron · Sweet Anticipation"]
+    classDef group3 fill:#e0f2fe,stroke:#0369a1,color:#0c4a6e
+    class g3,s3_0,s3_1,s3_2 group3
+    core --> g4["Performance and idiom"]
+    g4 --> s4_0["Berliner · Thinking in Jazz<br/>Monson · Saying Something<br/>Danielsen · Presence and Pleasure"]
+    g4 --> s4_1["Del Mar · Anatomy of the Orchestra<br/>Ohriner · Flow<br/>Schloss · Making Beats"]
+    g4 --> s4_2["Ripani · The New Blue Music"]
+    classDef group4 fill:#ede9fe,stroke:#7c3aed,color:#4c1d95
+    class g4,s4_0,s4_1,s4_2 group4
+    classDef focus fill:#e0f2fe,stroke:#0369a1,color:#0c4a6e
+    class core focus
+```
+
+Connections show primary contributions, not a required reading order or agreement among authors. Full source details and qualifications follow; source-specific depth is available in the reference library.
 
 | Author(s) | Full title | Supplied edition | Runtime file |
 |---|---|---|---|
@@ -121,7 +217,17 @@ Berliner and Monson connect prepared vocabulary and individual choices to ensemb
 
 Ohriner + Danielsen separate vocal flow from backing groove; Ohriner + Moore/Frith connect rhythmic organization to vocal sound, persona and performance. Schloss + Katz separate technological possibility from situated compositional practice; Schloss + Zak/Moore distinguish source, beat, arrangement and finished track. Ripani + Brackett/Lena separate musical lineage from genre category; Ripani + Danielsen + Moore/Zak examine rhythm, harmony, voice and production together. These pairings are project syntheses, not claims that the authors proposed one unified theory.
 
-## Coverage and limits
+## Coverage and validation
+
+### Build and verification
+
+Built and expanded on 2026-09-22. Round one used eleven Markdown conversions and one PDF; round two adds eight Markdown works and the supplied *Classical Style* PDF. Its listed Markdown file was absent, so the scanned PDF was recovered with OCR. Local sibling PDFs supplied front-matter, prose and selected notation checks; they are verification copies of the same works, not additional sources. Bounded source excerpts informed the distillation; original files and intermediate extraction text are not included. Round three uses the four requested PDFs; Del Mar required local OCR of all 529 pages before bounded reading. Selected printed pages were visually checked, including the groove example, interactional recovery and orchestral qualifications. Round four used the supplied Ohriner Markdown and two searchable PDFs, with three selected PDF page inspections. Its three references use bounded source reading; none implies fresh listening. The [manifest](fidelity-ledger/source-manifest.json) records editions, source hashes, structure counts and estimated sizes without private absolute paths.
+
+Structural validation, separate core/reference instruction scans and link/symlink checks are recorded with actual outputs in [validation records](fidelity-ledger/validation.json). [Editorial evaluation](fidelity-ledger/evaluation.md) explains the decisions reviewed and their limits. Independent fresh-context baseline/core/core-plus-references behavioral comparison has **not been run**; no claim of measured improvement over a general model is made. The frozen development/final [scenario suite](fidelity-ledger/acceptance-suite.json) retains all twenty-eight scenarios from rounds one through three and adds twelve for round four (forty total). It is available for a future controlled run. Original evidence is archived under `fidelity-ledger/round-1/`; round-two records and its prior root-ledger snapshot remain under `fidelity-ledger/round-2/`. Third-round records remain under `fidelity-ledger/round-3/`; fourth-round coverage, reading and preservation records are under `fidelity-ledger/round-4/`, including the prior root-ledger snapshot. All 25 pre-existing references and 28 scenario objects are preserved exactly. The established root-skill/one-reference-per-book architecture was followed. Artifact continuity is checked; behavioral regression remains unknown.
+
+## Limits
+
+### Coverage and limits
 
 The references preserve selected frameworks, conditions, examples and judgment rules useful for this project. They are not chapter-complete substitutes for the books. In particular, Wilson's expanded edition contains other authors' essays: two dissenting responses are represented explicitly, while the other response essays and afterword are outside detailed coverage. Hennion's art-historical disputes and the historical repertory surveys are compressed. See the [coverage ledger](fidelity-ledger/source-and-coverage-ledger.md).
 
@@ -130,12 +236,6 @@ Recorded popular music remains the foundation, extended into Western art-music s
 The third-round material is selective too. Jazz is not reduced to chord-scale substitution; groove is not scored by the amount of timing deviation; instrumental facts are retained for their consequences for register, function, blend, contrast, doubling, density and balance. Del Mar is not a complete scoring course, and his source-era conventions need historical qualification. No exact instrumentation, voicing, timing or causal interaction is inferred from an unsupported secondary description.
 
 Round four does not infer exact flow from printed lyrics, identify samples from resemblance alone, or equate hip-hop with sampling. Schloss’s producer norms are situated and contested; his 2014 afterword revises important source-medium conventions. Ripani’s 125-hit sample and measurement definitions bound his results, and his historical authority stops at **1999**. Contemporary R&B needs additional evidence. Technical intricacy, aesthetic success, historical importance and predicted listener liking remain separate.
-
-## Build and verification
-
-Built and expanded on 2026-09-22. Round one used eleven Markdown conversions and one PDF; round two adds eight Markdown works and the supplied *Classical Style* PDF. Its listed Markdown file was absent, so the scanned PDF was recovered with OCR. Local sibling PDFs supplied front-matter, prose and selected notation checks; they are verification copies of the same works, not additional sources. Bounded source excerpts informed the distillation; original files and intermediate extraction text are not included. Round three uses the four requested PDFs; Del Mar required local OCR of all 529 pages before bounded reading. Selected printed pages were visually checked, including the groove example, interactional recovery and orchestral qualifications. Round four used the supplied Ohriner Markdown and two searchable PDFs, with three selected PDF page inspections. Its three references use bounded source reading; none implies fresh listening. The [manifest](fidelity-ledger/source-manifest.json) records editions, source hashes, structure counts and estimated sizes without private absolute paths.
-
-Structural validation, separate core/reference instruction scans and link/symlink checks are recorded with actual outputs in [validation records](fidelity-ledger/validation.json). [Editorial evaluation](fidelity-ledger/evaluation.md) explains the decisions reviewed and their limits. Independent fresh-context baseline/core/core-plus-references behavioral comparison has **not been run**; no claim of measured improvement over a general model is made. The frozen development/final [scenario suite](fidelity-ledger/acceptance-suite.json) retains all twenty-eight scenarios from rounds one through three and adds twelve for round four (forty total). It is available for a future controlled run. Original evidence is archived under `fidelity-ledger/round-1/`; round-two records and its prior root-ledger snapshot remain under `fidelity-ledger/round-2/`. Third-round records remain under `fidelity-ledger/round-3/`; fourth-round coverage, reading and preservation records are under `fidelity-ledger/round-4/`, including the prior root-ledger snapshot. All 25 pre-existing references and 28 scenario objects are preserved exactly. The established root-skill/one-reference-per-book architecture was followed. Artifact continuity is checked; behavioral regression remains unknown.
 
 ## License
 
