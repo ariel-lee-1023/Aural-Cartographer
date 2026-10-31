@@ -57,7 +57,7 @@ Recordings preserve performances that later musicians use as resources, especial
 
 ### Chapter 5: Interaction, feeling and musical analysis
 
-Monson questions analyses that elevate the coherent, autonomous solo above ensemble process or judge jazz solely by a borrowed ideal of thematic unity. Formal relationships remain useful, but the surrounding musicians help create the events whose formal properties are then analyzed. Preserving a musical shape and explaining its collective production are compatible tasks.
+Elevating the coherent, autonomous solo above ensemble process, or judging jazz solely by a borrowed ideal of thematic unity, obscures collective production. Formal relationships remain useful, but the surrounding musicians help create the events whose formal properties are then analyzed. Preserving a musical shape and explaining its collective production are compatible tasks.
 
 Her **“Bass-ment Blues”** study follows George Tucker, Jaki Byard and Alan Dawson through changing textures, intensification and a conflict between chorus cycles. It shows that persuasive musical coordination can coexist temporarily with disagreement about formal position. The relevant analysis follows how the musicians find their way back together, rather than simply labeling a wrong bar count.
 
@@ -65,7 +65,7 @@ Her **“Bass-ment Blues”** study follows George Tucker, Jaki Byard and Alan D
 
 **Interactional text:** large-scale coherence can emerge through participation in time. The term identifies a jointly produced result, not a pre-existing script that participants simply execute. Local exchanges can accumulate into a trajectory that no individual line adequately explains.
 
-Emotional and interpersonal relationships participate in performance, but music does not automatically reconcile conflict. Monson includes a Byard/Mingus account in which an invitation to play fails to repair the interpersonal situation. Avoid inferring friendship, equality or social health from convincing ensemble sound. *Locators: ch. 5, pp. 133–136, 157–158, 169–171, 179–182, 187–190.*
+Emotional and interpersonal relationships participate in performance, but music does not automatically reconcile conflict. In the Byard/Mingus account, an invitation to play fails to repair the interpersonal situation. Avoid inferring friendship, equality or social health from convincing ensemble sound. *Locators: ch. 5, pp. 133–136, 157–158, 169–171, 179–182, 187–190.*
 
 ### Chapter 6 and coda: Interaction beyond an autonomous text
 
@@ -75,7 +75,7 @@ The closing theoretical discussion situates interaction within ethnomusicology a
 
 **Recovering a common chorus in “Bass-ment Blues”** (chapter 5, especially printed pp. 157–158 and 169–171; PDF p. 182 visually checked for p. 170).
 
-In Monson's account, Tucker's bass and his accompanists' sense of the chorus fall out of phase. Byard's simpler accompaniment offers clearer rhythmic/harmonic orientation. A two-measure turnaround in Tucker's line then provides a recognizable opportunity: Byard and Dawson adjust their cycle, and the trio reaches the seventh chorus together. With the shared cycle restored, the accompaniment becomes freer again.
+Tucker's bass and his accompanists' sense of the chorus fall out of phase in the documented analysis. Byard's simpler accompaniment offers clearer rhythmic/harmonic orientation. A two-measure turnaround in Tucker's line then provides a recognizable opportunity: Byard and Dawson adjust their cycle, and the trio reaches the seventh chorus together. With the shared cycle restored, the accompaniment becomes freer again.
 
 This reconstruction separates the resource (a familiar chorus framework and turnaround), the contributions (Tucker's signal, Byard's accompaniment and Dawson's adjustment), and the emerging possibility (renewed freedom over a common formal position). Monson's detailed interpretation supports the account; it is not fresh listening by this expert. Her suggestions about what an accompaniment was designed to accomplish remain interpretations. Do not generalize the specific adjustment to every apparent displacement or claim access to all three musicians' thoughts.
 

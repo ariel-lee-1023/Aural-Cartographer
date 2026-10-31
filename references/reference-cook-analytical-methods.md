@@ -5,13 +5,13 @@ Copyright 1987; supplied Norton paperback first published 1992. This is Cook's a
 
 ## Mental Model (read first)
 
-An analytical method asks a particular question and makes certain relationships available to thought and hearing. Its output should illuminate music, not merely demonstrate the method's own assumptions. Different analyses can be useful without being interchangeable; some claims are arithmetically decidable, some historically testable and others interpretations of experience. Cook's pragmatic pluralism provides a router, not permission to treat every reading as equally well supported.
+An analytical method asks a particular question and makes certain relationships available to thought and hearing. Its output should illuminate music, not merely demonstrate the method's own assumptions. Different analyses can be useful without being interchangeable; some claims are arithmetically decidable, some historically testable and others interpretations of experience. Pragmatic pluralism connects questions with methods without making every reading equally well supported.
 
 ## Frameworks & Structure
 
 ### Introduction: Choose a question before a technique
 
-Cook criticizes routine applications that make every work resemble the same analytical product. Methods carry beliefs about musical unity, coherence, hierarchy, perception and what counts as an explanation. State those commitments before turning the technique into a general-purpose machine. His own book acknowledges the score-, harmony- and unity-centered limitations of much contemporary analytical practice; do not attribute the present project's broader production analysis to Cook alone.
+Routine application can make every work resemble the same analytical product. Methods carry beliefs about musical unity, coherence, hierarchy, perception and what counts as an explanation. State those commitments before turning the technique into a general-purpose machine. The practices surveyed have score-, harmony- and unity-centered limitations. [Source scope: Cook's 1987 survey]
 
 A useful routing question is: **What would this representation explain that a simpler description misses, and what would it leave out?** Select a second lens when it tests a live ambiguity, not to accumulate impressive diagrams.
 
@@ -27,7 +27,7 @@ Use a preliminary map to expose questions: ambiguous key, unexpected boundary, r
 - **Prolongation:** a harmony or structural event can remain governing across intervening motion. Trace the connections in the middleground rather than jumping from a detailed surface to a generic tonic–dominant–tonic background.
 - **Ursatz:** the fundamental structure combines an upper-voice descent with bass arpeggiation in this theory. Its highly restricted forms are theoretical commitments about a delimited tonal repertoire, not facts that all music must instantiate.
 - **Register transfer and implied notes:** analytical representations can connect registers or posit a structurally implied event. Such moves need explicit evidence; they must not quietly repair the score to fit a preconceived graph. Distinguish the graph's note from a sounded note.
-- **Boundary case:** Cook's discussion of a Schenkerian *Tristan* Prelude reading asks whether remote tonal pillars really explain the piece's local goals, orchestral colors and changing tension. A graph can orient memory while failing to explain the decisive experience. Keep those two uses apart.
+- **Boundary case:** A Schenkerian reading of the *Tristan* Prelude raises a question: do remote tonal pillars explain its local goals, orchestral colors and changing tension? [Cook, Schenkerian analysis discussion] A graph can orient memory while failing to explain the decisive experience. Keep those two uses apart.
 
 ### Chapter 3: Psychological approaches
 
@@ -44,16 +44,16 @@ Use a preliminary map to expose questions: ambiguous key, unexpected boundary, r
 
 ### Chapter 5: Comparative analysis
 
-Comparison requires a common question and comparable representational choices. Counts of intervals or surface traits across cultures can obscure the roles those events play in each system. Cook's discussion of Blacking's Venda-song work contrasts distributions of isolated features with underlying relationships and transformation rules. Do not infer cultural kinship from a matching scale inventory.
+Comparison requires a common question and comparable representational choices. Counts of intervals or surface traits across cultures can obscure the roles those events play in each system. Distributions of isolated features differ from underlying relationships and transformation rules. [Discussion of Blacking's Venda-song work] Do not infer cultural kinship from a matching scale inventory.
 
 For a version comparison, hold the composition or passage constant where possible, then distinguish changes in performance, arrangement and recorded realization. That application extends Cook's discipline using Moore and Zak; it is not a method of recording analysis claimed by Cook's book.
 
 ### Chapter 6: What does analysis tell us?
 
 - **Truth conditions differ:** a wrong row transformation can be disproved by calculation; a claim about a composer's plan may be checked against a sketch; a hearing of a chord may be judged by how persuasively it reorganizes experience. Do not demand one test for all three or exempt an exact claim from verification.
-- **Notation is already selective:** pitch and duration symbols omit much of intonation, inflection, vibrato, timing and sound. Cook's comparison of conventional notation with a melographic representation shows why score categories cannot stand in for the full acoustical event.
+- **Notation is already selective:** pitch and duration symbols omit much of intonation, inflection, vibrato, timing and sound. Comparison with a melographic representation reveals why score categories cannot stand in for the full acoustical event.
 - **The listener cannot be deleted:** a material structure does not mechanically entail one aesthetic response. Analytical fluency can change how someone hears; it does not establish how every listener already hears.
-- **Scientific status:** Cook challenges the scientific claims made for the methods under review. Preserve this as his methodological argument, not a blanket verdict against all empirical music cognition or later research.
+- **Scientific status:** The methods under review do not establish the scientific status claimed for them. This is the source's methodological argument, not a blanket verdict against all empirical music cognition or later research.
 
 ### Chapters 7–10: Starting, choosing and revising an analysis
 
@@ -65,7 +65,7 @@ For a version comparison, hold the composition or passage constant where possibl
 
 ## Worked Example
 
-**The opening “Tristan chord”** (chapter 6, discussion around figures 105–107). Cook contrasts motivic, altered-diminished-seventh and functional-harmonic interpretations. They do not make the same claim. A sketch might support a claim about Wagner's compositional starting point without deciding which reading best explains the finished passage's effect. Conversely, a persuasive hearing does not prove a historical intention.
+**The opening “Tristan chord”** (chapter 6, discussion around figures 105–107). Motivic, altered-diminished-seventh and functional-harmonic interpretations offer contrasting accounts. They do not make the same claim. A sketch might support a claim about Wagner's compositional starting point without deciding which reading best explains the finished passage's effect. Conversely, a persuasive hearing does not prove a historical intention.
 
 Reconstruct the method: identify the actual sonority and continuations; specify what each account preserves; compare what each explains about local motion and the larger passage; check historical assertions separately. A hybrid answer can retain more than one question without splicing incompatible assumptions into one supposed proof. The source's damaged notation is not reproduced here as verified pitch data.
 

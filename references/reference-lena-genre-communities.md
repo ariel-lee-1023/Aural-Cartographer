@@ -2,11 +2,11 @@
 **Format**: md | **Pages**: not reliably measurable in supplied conversion | **Sections**: 5 | **Depth**: study | **Type**: text
 
 ## Mental Model (read first)
-A genre is an organized collective project involving musicians, audiences, critics, organizations and conventions. Lena distinguishes a musical style from the genre form through which people organize it at a particular time. Similar organizational forms can recur across very different sounds; a style can also pass through different forms without following a compulsory lifecycle.
+A genre is an organized collective project involving musicians, audiences, critics, organizations and conventions. A musical style differs from the genre form through which people organize it at a particular time. Similar organizational forms can recur across very different sounds; a style can also pass through different forms without following a compulsory lifecycle.
 
 ## Frameworks & Structure
 ### 1. Music Genres: the unit of analysis
-Lena defines genres through shared orientations, expectations and conventions linking the participants who recognize a distinctive music. A sonic idiom alone is not enough. Identify the community, its organizations, money, goals, conventions, boundaries, technologies and names.
+Shared orientations, expectations and conventions link the participants who recognize a distinctive music as a genre. A sonic idiom alone is not enough. Identify the community, its organizations, money, goals, conventions, boundaries, technologies and names.
 
 The **genre ideal** is the set of changes participants seek to make, often arising from dissatisfaction with an existing musical situation. It is not merely the analyst's description of the sound. Ask what members oppose, what they want to establish, and whether different participants share that purpose.
 
@@ -29,7 +29,7 @@ Rap, bluegrass and bebop supply comparative trajectories. Their similarities are
 ### 3. Music Trajectories: patterns and blocked transitions
 The book's abbreviation **AgSIT** describes an Avant-garde → Scene-based → Industry-based → Traditionalist trajectory. **IST** describes Industry-based → Scene-based → Traditionalist movement. The second pattern matters because a scene does not always precede commercial manufacture.
 
-Do not convert these patterns into a required four-stage sequence. Lena reports many incomplete trajectories. Three important mechanisms interrupt or redirect them:
+Do not convert these patterns into a required four-stage sequence. Many trajectories remain incomplete. Three important mechanisms interrupt or redirect them:
 1. **Absorption into other musics or streams:** a project merges or contributes to something else rather than persisting under its own name.
 2. **Niche and boundary conditions:** aesthetic and social commitments, including resistance to expansion, limit or redirect audience growth.
 3. **Racist exclusion:** access to industrial resources can be blocked rather than declined.
@@ -47,7 +47,7 @@ Classification organizes cultural production and memory, not merely catalogues a
 Comparisons with other classification fields suggest broader questions but do not erase differences between musical markets, scientific communities and other institutions. Use the model to identify mechanisms and evidence, not as a ready-made explanation for any innovation process. *Locator: ch. 5.*
 
 ## Worked Example
-Lena's comparison of rap, bluegrass and bebop shows how different musical styles can exhibit small experimental circles, sustained scenes, industrial codification and later heritage work. For each, a classifier must locate the period and organization before assigning a form. The book's rap opening also warns against making later political self-understandings the original motive of all early participants. Applied to a present scene, the proper result may be “insufficient organizational evidence” even when the tracks and a genre name are familiar. This contemporary application is a project synthesis. *Locator: chs. 1–3.*
+Rap, bluegrass and bebop exhibit small experimental circles, sustained scenes, industrial codification and later heritage work in different musical styles. [Comparative cases, chapters 1–3] For each, a classifier must locate the period and organization before assigning a form. The book's rap opening also warns against making later political self-understandings the original motive of all early participants. Applied to a present scene, the proper result may be “insufficient organizational evidence” even when the tracks and a genre name are familiar. This contemporary application is a project synthesis. *Locator: chs. 1–3.*
 
 ## Decision Rules & Judgment
 - When asked for a genre form, require organizational and historical evidence rather than timbre alone.

@@ -7,7 +7,7 @@ University of Chicago Press, 1994. Sixteen numbered chapters, with introduction,
 
 Improvisation grows from years of listening, imitation, memory, bodily technique, repertoire and social learning. What makes a performance improvised is not the absence of prepared material but what musicians do with resources under unfolding conditions. A useful analysis connects the available materials, the performer's emerging choices and the ensemble's interventions without pretending that a finished solo discloses every mental step that produced it.
 
-Berliner gives the individual improviser's preparation and inner dialogue unusual depth, but his account also includes rehearsal, rhythm-section conventions, collective invention, conflict and audiences. Treat individual and collective processes as distinguishable and interdependent.
+Individual preparation and inner dialogue interact with rehearsal, rhythm-section conventions, collective invention, conflict and audiences. Individual and collective processes are distinguishable and interdependent.
 
 ## Frameworks & Structure
 
@@ -56,7 +56,7 @@ Berliner gives the individual improviser's preparation and inner dialogue unusua
 - **The eternal cycle:** practice yields resources; performance transforms them; successful discoveries return to the storehouse for later use. This occurs at the scale of a fragment, phrase, chorus or composition.
 - **Product versus process:** describing a solo as a novel musical object and describing the act of improvising concern different questions. The extent of departure from a model does not, by itself, measure how many live decisions occurred.
 - **Alternate takes:** recurring openings, bridges or endings can disclose stable materials alongside changed phrasing or development. Repetition does not disqualify improvisation. Conversely, a novel-looking passage does not establish that it was invented without preparation.
-- **Different ideals:** performers assign different weight to spontaneity, coherence, originality and an effective established solo. Berliner reports these differences rather than supplying a single novelty ranking. Evaluate an approach in its musical and stylistic setting.
+- **Different ideals:** performers assign different weight to spontaneity, coherence, originality and an effective established solo. These differences do not yield a single novelty ranking. Evaluate an approach in its musical and stylistic setting.
 - **Outcome limitation:** a transcription documents selected features of what sounded. It leaves out unrealized alternatives and usually much articulation, timbre, interaction and bodily decision-making. Use testimony or comparative takes to support process claims beyond the audible result.
 
 ### Chapters 11–13: Arrangement, rhythm-section conventions and collective conversation
@@ -72,11 +72,11 @@ Berliner gives the individual improviser's preparation and inner dialogue unusua
 
 Group evaluation follows the whole texture and relationships, not merely the most prominent solo. Shared rhythmic confidence, imaginative accompaniment and useful room for others can be achievements even where the notes are familiar. The finest collective experience is an ideal, not a state guaranteed at every performance.
 
-Personnel and leadership shape the possibilities of a band. Berliner records democratic ideals alongside unequal authority, competing preferences and negotiation; chemistry is not proof of social equality. His account of venues and audiences establishes contextual limits, but this reference does not reconstruct the full venue typology or every career history.
+Personnel and leadership shape the possibilities of a band. Democratic ideals coexist with unequal authority, competing preferences and negotiation; chemistry is not proof of social equality. The venue and audience accounts establish contextual limits, but this reference does not reconstruct the full venue typology or every career history.
 
 ## Worked Example
 
-**An equipment failure becomes a constraint** (chapter 8, “The Teller's Trials” and “Musical Saves”). Berliner recounts a Village Gate performance in which a valve on Miles Davis's trumpet stuck during an improvisation. Davis continued while avoiding the pitches made unavailable by the failure.
+**An equipment failure becomes a constraint** (chapter 8, “The Teller's Trials” and “Musical Saves”). During the reported Village Gate performance, a valve on Miles Davis's trumpet stuck during an improvisation. Davis continued while avoiding the pitches made unavailable by the failure.
 
 The useful sequence is: an established performing resource changes → the player recognizes a reduced field → subsequent choices preserve the solo's continuity within it. This is evidence for adaptation, not a claim that the accident improved the music. Berliner supplies the event; this reference supplies the compact analytical reconstruction. The account does not identify every omitted pitch, the intended solo or the other musicians' responses. Those details cannot be recovered from this report alone. For ensemble consequences, bring in Monson and suitable performance evidence.
 

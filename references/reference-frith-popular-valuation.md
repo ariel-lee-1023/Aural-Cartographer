@@ -2,7 +2,7 @@
 **Format**: pdf | **Pages**: 364 PDF pages | **Sections**: 13 | **Depth**: study | **Type**: text
 
 ## Mental Model (read first)
-Popular-music listeners constantly make and contest value judgments. A sociology that explains their tastes but refuses to engage their reasons misses an essential part of musical life. Frith asks how music becomes valuable through discourse, sound, performance, time and social identification. Socially formed judgments can still be argued: their social origin does not abolish their aesthetic content.
+Popular-music listeners constantly make and contest value judgments. A sociology that explains their tastes but refuses to engage their reasons misses an essential part of musical life. Music becomes valuable through discourse, sound, performance, time and social identification. Socially formed judgments can still be argued: their social origin does not abolish their aesthetic content.
 
 ## Frameworks & Structure
 ### 1. The Value Problem in Cultural Studies
@@ -11,7 +11,7 @@ Good/bad distinctions are activities through which fans form relationships, disp
 Neither popularity nor a critic's status settles the argument. Nor is “all taste is subjective” an adequate account of people exchanging reasons. Identify the criterion and the musical event that makes it persuasive. *Locator: ch. 1, especially printed pp. 3–7.*
 
 ### 2. The Sociological Response: competing value discourses
-Frith's **art discourse**, **folk discourse** and **pop discourse** are overlapping, sometimes contradictory ways of hearing value. Art discourse privileges forms of artistic achievement and authority; folk discourse values relations to a community and the continuity of art and life; pop discourse works through commercial entertainment and listeners' pleasures. These are not three sealed genres or three kinds of person.
+**Art discourse**, **folk discourse** and **pop discourse** are overlapping, sometimes contradictory ways of hearing value. Art discourse privileges forms of artistic achievement and authority; folk discourse values relations to a community and the continuity of art and life; pop discourse works through commercial entertainment and listeners' pleasures. These are not three sealed genres or three kinds of person.
 
 An argument can fail because participants disagree about what it means to value music, not just whether a particular recording succeeds. Identify the discourse at work before adjudicating. Commercial construction need not defeat a pop criterion; sophistication need not satisfy a community criterion. Even folk immediacy can require carefully maintained conventions of informality. *Locator: ch. 2, particularly pp. 25 onward and 38–39.*
 
@@ -21,7 +21,7 @@ Ordinary listeners judge effort, skill, credibility, intensity, identification a
 Translate evaluative terms into inspectable claims. “Moving” needs an account of where and how; “pretentious” may refer to an unsuccessful musical claim, an unwanted social posture, or both. The critic's task is to make the relation clear, not to replace ordinary terms with impressive terminology. *Locator: ch. 3.*
 
 ### 4. Genre Rules: norms organize musical judgment
-Frith discusses **Franco Fabbri's five families of genre rules**: formal and technical; semiotic; behavioral; social and ideological; economic and juridical. They connect sounds with communication, conduct, membership and production/circulation. These families are Fabbri's contribution as used by Frith, not an invention of this skill.
+**Franco Fabbri's five families of genre rules** are: formal and technical; semiotic; behavioral; social and ideological; economic and juridical. They connect sounds with communication, conduct, membership and production/circulation. These families are Fabbri's contribution as used by Frith, not an invention of this skill.
 
 A genre label coordinates expectations about the music and its audience. Use it to ask what counts as convincing, skillful or appropriate within a practice, not to dismiss exceptions by definition. A label can be useful while contested. A musical rule is only part of a genre's existence; clothes, performance settings, audience behavior and commercial organization also matter. *Locator: ch. 4, printed pp. 75 onward; Fabbri discussion around pp. 91–94.*
 
@@ -31,7 +31,7 @@ Musical significance cannot be explained by assigning stable human emotions dire
 When a claim moves from “this makes me feel X” to “this sound means X,” identify the missing argument. Consider learned vocabulary, historical setting and the sound's position in the work. This is not a denial that sound matters; it is a demand for an adequate account of its force. *Locator: ch. 5.*
 
 ### 6–7. Rhythm: body, race, sex, mind and time
-Frith disputes the naturalization of rhythm as inherently racial or sexual. A beat's social meaning depends on dance practices, conventions and the organization of bodily expression. Describe what bodies do in a practice without treating racialized descriptions as physiological facts.
+Rhythm is not inherently racial or sexual. A beat's social meaning depends on dance practices, conventions and the organization of bodily expression. Describe what bodies do in a practice without treating racialized descriptions as physiological facts.
 
 Musical time is not merely clock time. Listening relates what has sounded, what is sounding and what is anticipated; it can produce a shared experience of being present. Rhythm can involve contemplation and cognition as well as movement. Avoid the opposition between a thinking listener and an unthinking dancing body. *Locator: chs. 6–7, especially the opening of ch. 7, p. 145.*
 
@@ -61,7 +61,7 @@ A recording carries associations with situations without being confined to its o
 Personal appropriation is not proof that music lacks public significance. Explain how an available musical experience becomes meaningful for this listener. Neither musicological description nor sociological classification alone exhausts that account. *Locator: ch. 12.*
 
 ### 13. Toward a Popular Aesthetic
-Music helps **produce** identities and values through performance; it does not only reflect identities formed elsewhere. Bodies, time and sociability make alternative ways of being available. Frith connects aesthetic response with ethical and social identification, rather than imagining aesthetic value as untouched by them.
+Music helps **produce** identities and values through performance; it does not only reflect identities formed elsewhere. Bodies, time and sociability make alternative ways of being available. Aesthetic response is connected with ethical and social identification; aesthetic value is not untouched by them.
 
 This remains an argument about musical experience, not permission to derive moral character from a playlist. For this project, use Frith to justify criticism with descriptions and reasons while refusing both status-based dismissal and the retreat from judgment. That operational rule is a synthesis for the user's purpose. *Locator: ch. 13, printed pp. 269–275.*
 

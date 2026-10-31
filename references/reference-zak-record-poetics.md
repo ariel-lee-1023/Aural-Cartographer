@@ -6,7 +6,7 @@ The rock record is a made musical work whose identity includes its particular so
 
 ## Frameworks & Structure
 ### 1. Writing Records: the recorded work
-Zak brings the **autographic musical work** argument, associated here with Theodore Gracyk and Nelson Goodman's distinctions, into the practical world of record making. What matters for this inquiry is the specificity of the recorded sonic inscription. A lead sheet or a new performance does not preserve everything that makes a particular record that work.
+The **autographic musical work** argument concerns the particular recorded artifact. [Theodore Gracyk and Nelson Goodman's distinctions as developed in Zak's account of record making] What matters for this inquiry is the specificity of the recorded sonic inscription. A lead sheet or a new performance does not preserve everything that makes a particular record that work.
 
 The method follows **poetics**: how works are made, with attention to practitioners' decisions and materials. Studio tools belong inside musical explanation when they shape the result. This does not require treating technical novelty as aesthetic success or denying the independent life of a song. *Locator: ch. 1.*
 
@@ -16,7 +16,7 @@ The method follows **poetics**: how works are made, with attention to practition
 The layers can develop in different orders. A song may be finished before recording, or writing and arranging may continue in the studio. Do not infer chronology from the conceptual distinction. For criticism, ask where the consequential choice resides: a melodic idea, a distribution of parts, a performance gesture, a spatial image, or their interaction. For versions, distinguish a reinterpretation of a song from a change to the mix or presentation of a recording. *Locator: ch. 2, opening discussion, printed pp. 24–25.*
 
 ### 3. Sound as Form: five domains of recorded sound
-Zak groups recorded phenomena into **musical performance, timbre, echo, ambience (reverberation), and texture**. These domains interact; the same device can affect several. Follow the configuration through time rather than making five independent checklists.
+Recorded phenomena can be grouped into **musical performance, timbre, echo, ambience (reverberation), and texture**. These domains interact; the same device can affect several. Follow the configuration through time rather than making five independent checklists.
 
 **Musical performance:** timing, articulation, energy, phrasing and interaction become compositional material. A compelling performance need not be technically immaculate. Conversely, looseness does not prove vitality. Explain which gesture matters, in relation to what, and where.
 
@@ -38,7 +38,7 @@ Tracking generates material and develops the work; mixing brings its final relat
 
 A finished track should therefore not be assumed to document a continuous event. Nor should construction be used as evidence that nothing was performed. Distinguish what musicians did, how performances were selected or combined, and how the recording stages them.
 
-Zak describes a practical balance between control and openness to unforeseen events. Production can keep a project coherent while preserving accidents and provisional discoveries. The critic should not reconstruct an elegant master plan from every effective result. *Locator: ch. 5.*
+Control and openness to unforeseen events must be balanced in practice. Production can keep a project coherent while preserving accidents and provisional discoveries. The critic should not reconstruct an elegant master plan from every effective result. *Locator: ch. 5.*
 
 ### 6. Engineers and Producers: the composition team
 The credited artist is not necessarily the sole maker of a record's aesthetic identity. Engineers and producers contribute perception, technical choices, social coordination and judgment. These roles vary across projects; a title in the credits alone does not prove authorship of a particular sound.
@@ -51,7 +51,7 @@ For attribution, pair a verified credit with a documented contribution. Distingu
 For genealogy, distinguish a listener's useful association from an attested production influence. For discovery, a shared recording strategy can be a route across genres: compare how two tracks build distance or instrumental weight. This is an analytical analogy unless evidence establishes historical transmission. A critic's association is not the listener's inevitable association. *Locator: ch. 7.*
 
 ## Worked Example
-Zak compares Bob Dylan's and Jimi Hendrix's recordings of “All Along the Watchtower.” The song remains a common basis, but performance urgency, timbral range, echo, ambience and texture transform its dramatic world. Zak reads Dylan's relative austerity differently from the force and spatial activity of Hendrix's construction. The comparison demonstrates why a song-level account cannot explain both tracks adequately. Use the example as Zak's interpretation, not proof that those sonic features must always mean resignation or defiance. *Locator: ch. 3, opening, printed pp. 48 onward.*
+Bob Dylan's and Jimi Hendrix's recordings of “All Along the Watchtower” offer contrasting recorded realizations. The song remains a common basis, but performance urgency, timbral range, echo, ambience and texture transform its dramatic world. Dylan's relative austerity differs expressively from the force and spatial activity of Hendrix's construction in this interpretation. The comparison demonstrates why a song-level account cannot explain both tracks adequately. Use the example as Zak's interpretation, not proof that those sonic features must always mean resignation or defiance. *Locator: ch. 3, opening, printed pp. 48 onward.*
 
 ## Decision Rules & Judgment
 - When a review discusses only writing and lyrics, ask what the track contributes that another realization could change.

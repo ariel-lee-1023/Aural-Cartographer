@@ -17,7 +17,7 @@ Music can mean through the tendencies one event establishes toward possible subs
 - **Specific / nonspecific expectation:** a passage may strongly suggest one continuation or make change/completion likely without specifying exactly which event will provide it. Uncertainty is not identical to the surprise of one realized event.
 - **Embodied meaning:** a musical stimulus acquires meaning through the possible and actual musical events it indicates in a style and context. This differs from **designative meaning**, in which a sign refers beyond the musical succession. “Embodied” here is Meyer's term for intramusical meaning, not a synonym for contemporary embodied-cognition theory.
 - **Hypothetical meaning:** possibilities envisaged before a consequent arrives. **Evident meaning:** the relation understood once that consequent occurs. **Determinate meaning:** retrospective relations grasped when the whole is available in memory. These can occur at multiple architectonic levels; a later event can revise the meaning of an earlier one. Source: chapter I, especially pp. 35–39.
-- **A strong theoretical limit:** Meyer treats wholly unfamiliar style as lacking embodied musical meaning in his defined sense because stylistic expectation is absent. Preserve the scope and contestability of that claim: it does not establish an absence of sensation, association, curiosity or value in an unfamiliar encounter.
+- **A strong theoretical limit:** A wholly unfamiliar style lacks embodied musical meaning in this theory's defined sense because stylistic expectation is absent. Preserve the scope and contestability of that claim: it does not establish an absence of sensation, association, curiosity or value in an unfamiliar encounter.
 - **Meaningful experience versus objectified meaning:** someone can respond intelligently to musical relations without naming them. An analyst's articulate explanation is not proof that the listener consciously performed that analysis.
 
 ### II. Expectation and learning
@@ -34,7 +34,7 @@ Different degrees of stylistic competence can change what counts as orderly, sur
 
 Grouping draws on similarity, proximity, relative emphasis and the relation of figure to ground. Rhythm and meter interact without being the same: a metric reference can persist while the grouping of durations and accents changes. Meter printed in a score is not sufficient evidence that a listener organizes the passage that way.
 
-A purported polymetric structure must make its component organizations perceptible. Meyer's Debussy discussion notes that a relatively uniform part may function as ground instead of registering as an independently articulated meter. Thus the analyst's ability to count conflicting patterns does not guarantee their simultaneous perceptual salience. Source: chapter III, especially pp. 121–123.
+A purported polymetric structure must make its component organizations perceptible. In the Debussy discussion, a relatively uniform part may function as ground instead of registering as an independently articulated meter. Thus the analyst's ability to count conflicting patterns does not guarantee their simultaneous perceptual salience. Source: chapter III, especially pp. 121–123.
 
 ### IV. Pattern completion and closure
 
@@ -52,7 +52,7 @@ Weakening a shape can create uncertainty and a tendency toward clarification. Tr
 
 ### VI. Performance and tonal organization
 
-The score or oral model does not mechanically fix its realization. Timing, accent, pitch inflection, ornament and phrasing can create or alter deviations and their effects. Meyer describes the performer as an active creator, with historically varying freedom. Source: chapter VI, pp. 199–205.
+The score or oral model does not mechanically fix its realization. Timing, accent, pitch inflection, ornament and phrasing can create or alter deviations and their effects. The performer is an active creator, with historically varying freedom. Source: chapter VI, pp. 199–205.
 
 The boundary between a compositional event, an ornament and an expressive deviation can move across styles and periods. A suspension written into a score and a performer's agogic delay can both affect expectation, but they are different evidence and different actions. Do not infer actual rubato from a harmonic analysis or infer intention from a timing difference alone.
 
@@ -84,7 +84,7 @@ The rows establish points of comparison, not a translation key. Meyer's three me
 
 ## Worked Example
 
-**Beethoven, Symphony No. 6, first movement, measures 16–26** (chapter IV, Example 44). Meyer uses a motive repeated ten times, with limited dynamic and orchestral alteration, to explain saturation. A listener who expects development can begin to expect change more strongly as the motive persists. The mechanism depends on the context and the understood purpose of repetition; Meyer explicitly contrasts repetition at the end of a work, where lack of forward motion can be appropriate.
+**Beethoven, Symphony No. 6, first movement, measures 16–26** (chapter IV, Example 44). A motive repeated ten times, with limited dynamic and orchestral alteration, illustrates saturation. A listener who expects development can begin to expect change more strongly as the motive persists. The mechanism depends on the context and the understood purpose of repetition; repetition at the end of a work offers a contrast, since lack of forward motion can be appropriate there.
 
 Separate the steps: repeated motive is the description; intensified expectation of change is the theoretical interpretation; a particular listener's response remains to be checked; whether the repetition serves the movement is a critical question. In a pop loop, test the role of groove, vocal changes and production before assuming the same expectation of developmental continuation.
 

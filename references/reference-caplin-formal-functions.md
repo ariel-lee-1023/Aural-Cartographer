@@ -15,7 +15,7 @@ Form concerns what a passage does at a particular moment and hierarchical level:
 - **Harmonic functions:** tonic, pre-dominant and dominant describe tonal roles. **Prolongational progressions** sustain a harmony; **cadential progressions** confirm a key at a goal; **sequential progressions** connect a patterned succession and can destabilize a key. Identify which progression governs a span before deciding its formal function.
 - **Cadential progression versus cadence:** harmony supplies necessary conditions, but a cadence also acts as the ending of a formal process. A tonic return inside a presentation is not thereby an authentic cadence. A dominant arrival is not automatically a half cadence.
 - **Authentic closure:** root-position cadential dominant to root-position tonic; a tonic upper-voice arrival gives a perfect authentic cadence (PAC), while a non-tonic upper-voice arrival can give an imperfect authentic cadence (IAC). Check actual bass, melody and ending function rather than inferring PAC from V–I symbols alone.
-- **Half cadence (HC):** Caplin's goal is a root-position dominant triad, stable enough to end the progression. An unresolved seventh on V does not meet this specific requirement. Do not silently substitute a looser textbook use of “half cadence.” Source: chapter 2, pp. 27–29.
+- **Half cadence (HC):** The goal is a root-position dominant triad, stable enough to end the progression in this formal-function theory. An unresolved seventh on V does not meet this specific requirement. Do not silently substitute a looser textbook use of “half cadence.” Source: chapter 2, pp. 27–29.
 - **Expanded cadential progression (ECP):** enlargement of a cadential harmonic progression can support an entire phrase. Starting tonic and pre-dominant can vary or be omitted. An ECP is not simply a cadence made longer by a held final chord.
 
 ### Part II, chapters 3–5: Sentence, period and their alternatives
@@ -54,11 +54,11 @@ Form concerns what a passage does at a particular moment and hierarchical level:
 - **Slow movements:** sonata, large ternary, sonata without development and theme-and-variations designs require different return/contrast questions. A slower tempo does not itself define a form.
 - **Minuet/trio:** distinguish the organization within each dance from the da capo relationship between dances. Local small-form functions and whole-movement functions occupy different levels.
 - **Rondo / sonata-rondo:** map refrain returns, episodes, tonal confirmation and any developmental or recapitulatory functions. Refrain recurrence alone does not explain the whole process.
-- **Concerto:** opening ritornello and solo exposition are functionally different, not duplicate sonata expositions. Later ritornellos frame solo activity and tonal goals. A cadenza can greatly prolong a cadential dominant. Caplin explicitly distinguishes a closing ritornello from a genuine coda: returning orchestral framing need not have the coda's fresh formal context or loosening devices. Source: chapter 17, especially pp. 250–252.
+- **Concerto:** opening ritornello and solo exposition are functionally different, not duplicate sonata expositions. Later ritornellos frame solo activity and tonal goals. A cadenza can greatly prolong a cadential dominant. A closing ritornello differs from a genuine coda: returning orchestral framing need not have the coda's fresh formal context or loosening devices. Source: chapter 17, especially pp. 250–252.
 
 ## Worked Example
 
-**Beethoven, Piano Sonata in F minor, Op. 2 No. 1, first movement, opening theme** (chapter 1, Example 1.1, pp. 9–11). Caplin hears a two-measure basic idea and its statement–response repetition as a presentation. The subsequent one-measure units fragment that size while harmonic rhythm accelerates; liquidation removes distinctive material as the phrase moves to its half cadence. Fragmentation and liquidation cooperate here but name different processes. The cadence closes this theme; it does not supply a PAC in the tonic.
+**Beethoven, Piano Sonata in F minor, Op. 2 No. 1, first movement, opening theme** (chapter 1, Example 1.1, pp. 9–11). A two-measure basic idea and its statement–response repetition form a presentation in this analysis. The subsequent one-measure units fragment that size while harmonic rhythm accelerates; liquidation removes distinctive material as the phrase moves to its half cadence. Fragmentation and liquidation cooperate here but name different processes. The cadence closes this theme; it does not supply a PAC in the tonic.
 
 The explanatory gain is temporal: establishment → increased activity → goal. Counting eight measures gives none of that. For a new passage, the same proposed reading must still be checked against tonic prolongation, unit sizes and the actual cadence. If only a verbal description is supplied, report the likely function and the missing evidence instead of asserting exact notes or a definitive boundary.
 
@@ -73,4 +73,4 @@ The explanatory gain is temporal: establishment → increased activity → goal.
 
 ## Key Takeaways
 
-The useful question is not just “Which form is this?” but “What does this passage do now, what does it lead us to expect, and what changes our understanding of it?” Caplin answers within a delimited tonal style; keep that delimitation visible when crossing repertoires.
+The useful question is not just “Which form is this?” but “What does this passage do now, what does it lead us to expect, and what changes our understanding of it?” The account applies within a delimited tonal style; keep that delimitation visible when crossing repertoires.

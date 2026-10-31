@@ -6,7 +6,7 @@ Recording changes musical behavior rather than simply capturing something alread
 
 ## Frameworks & Structure
 ### 1. Causes: the seven properties
-Katz organizes the discussion around **tangibility, portability, (in)visibility, repeatability, temporality, receptivity, and manipulability**. These are prompts for tracing effects, not seven inevitable stages.
+Recording affords **tangibility, portability, (in)visibility, repeatability, temporality, receptivity, and manipulability**. These are prompts for tracing effects, not seven inevitable stages.
 
 | Property | What it makes available or constrains | Evidence needed for an effect |
 |---|---|---|
@@ -31,7 +31,7 @@ Early jazz records participate in the music's development but do not transparent
 When using a recording as historical evidence, identify the format's constraints and the selection that brought it into the studio. A solo captured for repeated listening can become a model in ways a fleeting performance could not. Distinguish a recording's later pedagogical significance from the status it had at the session. *Locator: ch. 3.*
 
 ### 4. Aesthetics out of Exigency: violin vibrato
-Katz proposes recording as an important contributor to the spread of conspicuous, relatively continuous violin vibrato. The practical demands of recorded sound may help shape an aesthetic subsequently heard as normal.
+Recording may have contributed importantly to the spread of conspicuous, relatively continuous violin vibrato. [Katz's historical hypothesis] The practical demands of recorded sound may help shape an aesthetic subsequently heard as normal.
 
 This is an argued historical explanation, not proof of a single cause. Look for the proposed relationship between capture or playback conditions, performer adaptation and changing standards. Do not infer that a technique arising partly from practical constraints is artistically inferior, or that every later use repeats the original cause. *Locator: ch. 4.*
 
@@ -59,7 +59,7 @@ Ease of obtaining a file is not equivalent to understanding its music or preserv
 Katz explicitly rejects a technologically deterministic reading. The same property supports divergent activities; users also reshape technologies. For Aural-Cartographer, a useful explanatory chain is medium property → situated adaptation → musical consequence → evidence and alternatives. This is a project formulation of the book's approach, not a new causal law. *Locator: Conclusion, “Users Determine the Impact and Value of Recording.”*
 
 ## Worked Example
-Katz follows a short passage from Clyde Stubblefield's performance on James Brown's “Funky Drummer” into other recordings. The sampled sound retains a material connection with the earlier performance while tempo, processing, repetition and new surroundings change its expressive role. The example shows why identifying a sample is only the beginning of criticism: explain what the new context makes it do. The particular descriptions are Katz's published analysis, not fresh listening claims. *Locator: ch. 7, opening comparison.*
+A short passage from Clyde Stubblefield's performance on James Brown's “Funky Drummer” is reused in other recordings. The sampled sound retains a material connection with the earlier performance while tempo, processing, repetition and new surroundings change its expressive role. The example shows why identifying a sample is only the beginning of criticism: explain what the new context makes it do. The particular descriptions are Katz's published analysis, not fresh listening claims. *Locator: ch. 7, opening comparison.*
 
 ## Decision Rules & Judgment
 - When saying technology changed music, identify the property, the adaptation and evidence linking them.

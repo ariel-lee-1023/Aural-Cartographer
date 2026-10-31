@@ -25,7 +25,7 @@ The success of a recording such as Mamie Smith's “Crazy Blues” participates 
 Distinguish an early commercial breakthrough from the origin of a musical practice. Ask what had to exist before the breakthrough and which histories become invisible when one record is made the beginning. Historical racial terms should be identified as the categories being analyzed. *Locator: ch. 3.*
 
 ### 4. The Newness of Old-Time Music
-A claim to tradition can be newly organized by recording, naming and marketing. “Old-time,” “hillbilly” and related names did not merely record a timeless rural essence. Brackett traces a field of competing designations and relationships to other market categories.
+A claim to tradition can be newly organized by recording, naming and marketing. “Old-time,” “hillbilly” and related names did not merely record a timeless rural essence. Competing designations acquired meaning through relationships to other market categories.
 
 For a genealogy, separate age of a practice, date of a recorded example, emergence of a category and later authentication of a tradition. A newly commercialized tradition is neither automatically fraudulent nor historically unchanged. *Locator: ch. 4.*
 
@@ -35,7 +35,7 @@ The relationship among jazz, mainstream popularity and racial identification cha
 Comparisons of versions, including “Tuxedo Junction,” connect arrangement and recording particulars to the movement of music across categories. Sharing a song does not erase differences between recordings; a cover's circulation does not by itself establish a homogeneous audience. Track both the sonic object and the classification system. *Locator: ch. 5.*
 
 ### 6. The Corny-ness of the Folk
-Country-related music and race music faced some similar institutional barriers but occupied different positions in relation to the mainstream. Brackett's treatment of “Smoke! Smoke! Smoke! (That Cigarette)” examines a crossover in that changing field.
+Country-related music and race music faced some similar institutional barriers but occupied different positions in relation to the mainstream. “Smoke! Smoke! Smoke! (That Cigarette)” is a crossover case in that changing field. [Chapter 6, Brackett's interpretation]
 
 “Corny” is an evaluative classification with social implications, not a sufficient musical explanation. Ask whether it identifies a performance convention, a relation to a presumed audience, or a devalued social identity. Preserve differences between histories instead of forcing every crossover into one template. *Locator: ch. 6.*
 
@@ -53,7 +53,7 @@ The *Urban Cowboy* discussion makes class, gender and country substyles visible 
 Media formats, visual representations and new ways of tracking popularity change the evidence through which categories are known. The methodological lesson survives particular technologies: study classification as an ongoing practice. Contemporary streaming categories need present evidence; this history does not specify their current operation. *Locator: ch. 9.*
 
 ## Worked Example
-If an archive shows no Billboard R&B chart during the 1963–65 gap, a naive database might infer no R&B hits or a fully integrated market. Brackett places the chart beside other publications, radio and public discourse. The corrected conclusion is about a classification decision requiring historical explanation, not the extinction of an audience. For the record librarian, preserve the gap and its institutional cause; do not fill it with invented ranks or reinterpret it as musical absence. *Locator: ch. 7, “The Disappearance” and “The Reappearance.”*
+If an archive shows no Billboard R&B chart during the 1963–65 gap, a naive database might infer no R&B hits or a fully integrated market. Comparison with other publications, radio and public discourse places the chart in its institutional setting. The corrected conclusion is about a classification decision requiring historical explanation, not the extinction of an audience. For the record librarian, preserve the gap and its institutional cause; do not fill it with invented ranks or reinterpret it as musical absence. *Locator: ch. 7, “The Disappearance” and “The Reappearance.”*
 
 ## Decision Rules & Judgment
 - When classifying a recording, record label, date, classifier and level of category.

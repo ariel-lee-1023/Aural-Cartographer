@@ -7,13 +7,13 @@ Wesleyan University Press, 2006. Eleven numbered chapters arranged in four parts
 
 Rhythm happens in the relation between sounding events and active, sometimes unsounded frames of reference. A groove's repeated pattern is only one part of the explanation: timing, articulation, timbre, interlocking layers and the listener's participation make the pattern into a particular event. Repetition can remain dynamically active without needing constant new harmonic information.
 
-Danielsen joins close rhythmic analysis to a phenomenological account of being in funk. This supplies depth beyond meter or a general prediction mechanism, but her interpretations and stylistic evaluations are not universal laws of pleasure or calibrated microtiming thresholds.
+Close rhythmic analysis and the phenomenological experience of being in funk address different aspects of groove. **Attribution and scope:** Danielsen's interpretations and stylistic evaluations are not universal laws of pleasure or calibrated microtiming thresholds.
 
 ## Frameworks & Structure
 
 ### Part I, chapters 1–2: Whose funk? Discourses on blackness
 
-Funk's production, circulation and reception are historically situated. Danielsen distinguishes her listening position from the traditions she studies and examines how accounts of black music can naturalize rhythm, sexuality and bodily immediacy. A positive celebration can still reproduce the opposition between a supposedly thinking mind and a supposedly instinctive body.
+Funk's production, circulation and reception are historically situated. A listening position differs from the traditions under study; accounts of black music can naturalize rhythm, sexuality and bodily immediacy. [Chapter 1: Danielsen's situated analysis] A positive celebration can still reproduce the opposition between a supposedly thinking mind and a supposedly instinctive body.
 
 Keep musical technique, racialized representation, political identification and a person's felt response distinct. Bodily participation is learned and culturally situated; it is not evidence of an inherited racial disposition. Neither a listener's unfamiliarity nor their dislike authorizes a claim that they cannot understand a tradition. The historical framing supports the rhythmic inquiry; it does not replace the analysis of particular musical means. *Locators: chs. 1–2; conclusion in ch. 11, especially pp. 204–205.*
 
@@ -25,14 +25,14 @@ Keep musical technique, racialized representation, political identification and 
 - **Figure–gesture:** a figure is a schema through which a gesture can be organized or understood. A gesture is a perceived musical utterance encompassing timing, timbre, contour and its virtual relations. It may be a riff, phrase, beat or other heard entity. Identical figures can receive different gestural realizations.
 - **No one-to-one mapping to players:** one drummer may create several heard gestures, and bass plus kick drum may jointly shape a single perceived beat. A dialogue among gestures in listening is not automatically a documented dialogue among musicians in production.
 - **Apart-playing:** each performer can concentrate on a part and its immediate relations within a complex weave. This offers a way into a texture without requiring simultaneous conscious calculation of every layer. It does not mean indifference to other musicians.
-- **The heterogeneous sound ideal:** Danielsen draws on Olly Wilson's account of contrasting timbres and contrasts within a line. Differentiated sounds help the layers remain perceptible; timbre has rhythmic work to do. This is a situated aesthetic concept, not a law about all African American performances.
+- **The heterogeneous sound ideal:** Contrasting timbres and contrasts within a line form this aesthetic ideal. [Olly Wilson, discussed by Danielsen] Differentiated sounds help the layers remain perceptible; timbre has rhythmic work to do. This is a situated aesthetic concept, not a law about all African American performances.
 - **Internal beat:** an operative reference can be maintained by playing, dancing, clapping or listening. A missing sounded downbeat therefore does not imply absence of an organizing pulse. Identify the basis for inferring that reference in the particular case.
 
 *Locators: ch. 3, pp. 43–56, especially pp. 46–50 for figure/gesture and the performer–listener distinction.*
 
 ### Chapter 4: Rhythm and counter-rhythm
 
-**Rhythm and counter-rhythm** name a relation in which a dominant pulse coexists with suggestions of another organization. Danielsen treats the border between syncopation and cross-rhythm as important in the funk she analyzes. A pattern can imply another pulse without becoming a wholly independent competing meter.
+**Rhythm and counter-rhythm** name a relation in which a dominant pulse coexists with suggestions of another organization. The border between syncopation and cross-rhythm matters in these funk analyses. A pattern can imply another pulse without becoming a wholly independent competing meter.
 
 **The perfectly imperfect balance** is her account of that productive ambiguity. Counter-rhythmic tendencies must remain perceptible, while the main pulse gives them orientation. Fragmentation, concealment and phrasing can prevent either side from becoming completely self-sufficient. Enumerating an abstract ratio alone does not explain this balance.
 
@@ -58,9 +58,9 @@ The crossover discussion connects changing musical organization to markets and l
 
 **Grounded ambiguity / the stable unstable:** a strong anchor can support unusually loose or extended phrasing. Stability and elasticity work together; “laid back” does not specify a number of milliseconds or a uniformly delayed band.
 
-In **“Up for the Downstroke,”** Danielsen contrasts a heavier, looser groove with a tighter passage that renews the effect of the former when it returns. Such relational changes show why maximum looseness everywhere is not the aim. A groove can depend on contrast over time as well as the relation of simultaneous parts.
+In **“Up for the Downstroke,”** a heavier, looser groove contrasts with a tighter passage that renews the effect of the former when it returns. Such relational changes show why maximum looseness everywhere is not the aim. A groove can depend on contrast over time as well as the relation of simultaneous parts.
 
-The analysis is not a sufficient recipe for production. Danielsen explicitly states that the analyzed ingredients cannot by themselves generate a compelling groove. The characteristic material has to be found and cultivated in time. *Locators: chs. 6–7, pp. 95–140; especially pp. 115–120, 132–140.*
+The analysis is not a sufficient recipe for production. The analyzed ingredients cannot by themselves generate a compelling groove. The characteristic material has to be found and cultivated in time. *Locators: chs. 6–7, pp. 95–140; especially pp. 115–120, 132–140.*
 
 ### Chapter 8: Time and again — repetition as production
 
@@ -84,7 +84,7 @@ The retained critical consequence is to connect the listener's temporal experien
 
 **“Sex Machine” as a relation of gestures** (chapter 5, pp. 76–79; figure 8 and its adjacent prose visually checked at PDF p. 93).
 
-Danielsen describes Starks's drumming as providing forward movement, Bootsy Collins's bass as distributing soft, short notes around the beats, and Catfish Collins's guitar as supplying sharply articulated strokes. The guitar's anticipatory fourth-beat gesture is important because it can be related both to the dominant pulse and to an emerging counter-rhythmic figure; Brown's vocal phrase can participate in that figure.
+In this analysis, Starks's drumming provides forward movement, Bootsy Collins's bass distributes soft, short notes around the beats, and Catfish Collins's guitar supplies sharply articulated strokes. The guitar's anticipatory fourth-beat gesture is important because it can be related both to the dominant pulse and to an emerging counter-rhythmic figure; Brown's vocal phrase can participate in that figure.
 
 The explanation therefore follows the interaction of pulse, density, articulation and alternative grouping. “The guitar is early” is insufficient without specifying relative to what and how it joins the other parts. Nor does the notated figure preserve every detail of the sounding gesture. This is Danielsen's interpretation of the version she analyzes, not a fresh auditory observation or an onset-measurement result. No exact offset, studio edit or musician's intention is inferred from it.
 

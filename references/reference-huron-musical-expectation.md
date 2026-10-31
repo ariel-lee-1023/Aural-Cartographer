@@ -2,7 +2,7 @@
 **Format**: md | **Pages**: not reliably measurable in supplied conversion | **Sections**: 17 | **Depth**: study | **Type**: text
 
 ## Mental Model (read first)
-Expectation prepares an organism for possible futures; musical experiences recruit those processes in learned and culturally situated ways. Huron separates several responses that everyday descriptions collapse into “tension” or “surprise.” His proposals explain possible mechanisms of feeling, not a universal standard of musical value or an infallible model of one listener.
+Expectation prepares an organism for possible futures; musical experiences recruit those processes in learned and culturally situated ways. Several responses are distinct despite being collapsed into “tension” or “surprise” in everyday descriptions. The proposed mechanisms explain possible sources of feeling, not a universal standard of musical value or an infallible model of one listener.
 
 ## Frameworks & Structure
 ### 1–2. ITPRA and the paradox of pleasurable surprise
@@ -18,7 +18,7 @@ Expectation prepares an organism for possible futures; musical experiences recru
 
 An expected bad event can combine successful prediction with an unpleasant outcome. An unexpected good event can combine predictive failure with positive appraisal. **Contrastive valence** proposes that the contrast between an initially negative surprise response and a benign or positive appraisal can intensify pleasure. It is a conditional account, not a claim that every surprise is enjoyable.
 
-Huron discusses laughter, awe and frisson as distinguishable outcomes. Do not infer one from the mere presence of a loud entrance or unexpected harmony. *Locator: chs. 1–2.*
+Laughter, awe and frisson are distinguishable outcomes. Do not infer one from the mere presence of a loud entrance or unexpected harmony. *Locator: chs. 1–2.*
 
 ### 3. Measuring expectation
 Methods include tone detection, production, probe-tone judgments, betting, head-turning, bradycardic response, reaction time and event-related potentials. They measure different responses under different tasks; none is simply a direct readout of aesthetic taste.
@@ -28,7 +28,7 @@ Distinguish **subjective probability**, the listener's expectation of an event, 
 ### 4–6. Learning and melodic regularities
 **Statistical learning** concerns acquiring patterns and conditional relations through exposure. An event's probability depends on context; counting notes without their preceding sequence can miss the expectation that matters. Learning may occur without explicit verbal knowledge.
 
-Huron examines **pitch proximity** (nearby continuations), **step declination** (the prominence of small descending motion), **step inertia** (continuing a stepwise direction), **melodic regression** (movement back toward a central pitch region), and **melodic arch** (a tendency to rise and then fall across a span). These describe different tendencies and hypotheses; their prevalence in a corpus, their representation by listeners and their causal origins require separate evidence. In particular, a tendency for leaps to be followed by a reversal must be distinguished from a listener's rule and from regression associated with a bounded pitch range.
+The melodic tendencies include **pitch proximity** (nearby continuations), **step declination** (the prominence of small descending motion), **step inertia** (continuing a stepwise direction), **melodic regression** (movement back toward a central pitch region), and **melodic arch** (a tendency to rise and then fall across a span). These describe different tendencies and hypotheses; their prevalence in a corpus, their representation by listeners and their causal origins require separate evidence. In particular, a tendency for leaps to be followed by a reversal must be distinguished from a listener's rule and from regression associated with a bounded pitch range.
 
 **Heuristic listening** explains why a useful learned shortcut may diverge from the actual statistics. The book discusses Narmour and Schenker critically rather than simply equating their theories with mental processing. Avoid deriving an individual listener's expectations directly from a notated structure. *Locator: chs. 4–6.*
 
@@ -40,7 +40,7 @@ This chapter's broader account of acquiring useful auditory representations is r
 ### 8–9. Prediction effect, familiarity and tonality
 The **prediction effect** concerns feelings from accurate prediction being attributed to the predicted stimulus. It offers an account of some pleasures of familiarity and repetition. The **exposure effect** does not imply that unlimited repetition always improves enjoyment.
 
-Tonal **qualia**—such as stability, closure or tendency—are examined in relation to learned distributions and contexts. Huron distinguishes mechanisms from aesthetic goals and explicitly notes differences among listeners and listening aims. A familiar cadence may be satisfying, banal, reassuring or inappropriate to a particular project; expectation theory alone cannot choose among those judgments. *Locator: chs. 8–9, especially “Aesthetic Caveats” and “Tonality and Culture.”*
+Tonal **qualia**—such as stability, closure or tendency—are examined in relation to learned distributions and contexts. Mechanisms differ from aesthetic goals, and listeners and listening aims differ. A familiar cadence may be satisfying, banal, reassuring or inappropriate to a particular project; expectation theory alone cannot choose among those judgments. *Locator: chs. 8–9, especially “Aesthetic Caveats” and “Tonality and Culture.”*
 
 ### 10. Expectation in time
 Separate expectations about **what** occurs from expectations about **when** it occurs. Periodicity, tactus, metrical hierarchy and longer contextual relations help organize temporal preparation. A predicted downbeat can accrue positive feeling through predictive success; syncopated events can resist a maintained metric expectation.
@@ -60,7 +60,7 @@ Predictability can arise from knowledge of a particular work, stylistic schemata
 ### 14. Creating surprise
 Distinguish schematic, veridical and dynamic violations. A **garden path surprise** requires revising an earlier interpretation in light of a later event. That differs from an isolated odd event within a stable interpretation.
 
-Repeated listening can change kinds of response differently. Huron contrasts the decline of musical humor with the possible persistence of frisson. Use this as a reason to separate reported responses, not as a guarantee that chills will persist for every listener. *Locator: ch. 14, especially “Garden Path Surprises” and “Effects of Repeated Listening.”*
+Repeated listening can change kinds of response differently. Musical humor may decline while frisson persists. Use this as a reason to separate reported responses, not as a guarantee that chills will persist for every listener. *Locator: ch. 14, especially “Garden Path Surprises” and “Effects of Repeated Listening.”*
 
 ### 15. Creating tension
 A delayed expected outcome can prolong preparation and intensify tension. Suspensions, anticipations, uncertain continuations, premonitions and climaxes offer different temporal configurations. Before invoking this account, identify an expected outcome and the evidence that it was expected.

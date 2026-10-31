@@ -5,13 +5,13 @@ Copyright 2007; supplied conversion identifies the first eBook edition as Januar
 
 ## Mental Model (read first)
 
-Twentieth-century music arose through intersecting composers, audiences, institutions, political pressures, technologies and migrations. A narrative in which every important work advances toward atonality excludes too much of the century's actual musical life. Ross makes unfamiliar work approachable through concrete stories and listening descriptions, while acknowledging how difficult it is to translate social history into exact musical meaning.
+Twentieth-century music arose through intersecting composers, audiences, institutions, political pressures, technologies and migrations. A narrative in which every important work advances toward atonality excludes too much of the century's actual musical life. Concrete stories and listening descriptions can make unfamiliar work approachable, but social history does not translate straightforwardly into exact musical meaning.
 
 ## Frameworks & Structure
 
 ### Preface: A plural musical century
 
-The Gershwin–Berg encounter frames crossings between musical worlds without pretending their conventions disappear. Ross brings formally innovative and widely loved works into one account and refuses to equate a language's modernity with a single technical feature.
+The Gershwin–Berg encounter frames crossings between musical worlds without pretending their conventions disappear. Formally innovative and widely loved works belong in the same historical account; a language's modernity is not reducible to a single technical feature.
 
 For the librarian, distinguish a contemporaneous encounter, documented borrowing, shared institution and an analogy useful for listening. For the critic, do not derive a passage's meaning from its date or regime. For the scout, an accessible route need not begin with the most prestigious or supposedly most advanced work.
 
@@ -28,7 +28,7 @@ For the librarian, distinguish a contemporaneous encounter, documented borrowing
 
 The table is a navigation aid, not a claim that every listed composer's technique has been distilled in depth. Load the relevant historical source and score analysis for detailed assertions.
 
-**Sibelius and “antimodern modernism”:** Ross recounts Sibelius's rejection by some postwar progress narratives and subsequent interest from composers associated with newer music. The case separates contemporaneity, innovation, reception and technical system. Ross's approval of audiences who kept performing Sibelius is itself a critical judgment; popularity is not being offered as an automatic criterion of merit. Source: chapter 5, closing discussion.
+**Sibelius and “antimodern modernism”:** Some postwar progress narratives rejected Sibelius, while composers associated with newer music subsequently took interest. The case separates contemporaneity, innovation, reception and technical system. Ross's approval of audiences who kept performing Sibelius is itself a critical judgment; popularity is not being offered as an automatic criterion of merit. Source: chapter 5, closing discussion.
 
 ### Part II, 1933–1945: Political setting without a decoding machine
 
@@ -46,7 +46,7 @@ The table is a navigation aid, not a claim that every listed composer's techniqu
 
 **11. Brave New World:** Cold War institutions, Boulez, Cage, Darmstadt and changing serial practice supply competing answers to artistic freedom and reconstruction. Distinguish technique, public manifesto, patronage and actual reception. A composer's commitment to a procedure does not imply universal adoption or a uniform audience response.
 
-**12. “Grimes! Grimes!”:** Britten's musical world connects place, relationships, theatre, public use and the Aldeburgh Festival. The local institution is part of the musical story, not background decoration. Ross contrasts the festival's intimate scale with grander cultural monuments; this makes a useful corrective to discovery routes based only on metropolitan avant-garde prestige.
+**12. “Grimes! Grimes!”:** Britten's musical world connects place, relationships, theatre, public use and the Aldeburgh Festival. The local institution is part of the musical story, not background decoration. The festival's intimate scale contrasts with grander cultural monuments; this makes a useful corrective to discovery routes based only on metropolitan avant-garde prestige.
 
 **13. Zion Park:** Messiaen, religious imagination, later avant-garde practices and Ligeti open routes organized by color, time and sonority as well as pitch systems. Use Straus or an appropriate score-based source when an exact collection, rhythm or transformation is the question; Ross's evocative description is an entry point.
 
@@ -62,7 +62,7 @@ Record four independent dimensions: historical importance, analytical interest, 
 
 ## Worked Example
 
-**Reich, Drumming and Music for 18 Musicians** (chapter 14, New York minimalism discussion). Ross connects Reich's study with Ghanaian drummer Gideon Alorwoyie to a widening conception of ensemble activity; he then describes *Drumming* through phasing, the replacement of rests with beats and the transfer of material among instrumental groups. In *Music for 18 Musicians*, he directs attention to an eleven-chord cycle and changes of bass/harmonic area within the apparent continuity.
+**Reich, Drumming and Music for 18 Musicians** (chapter 14, New York minimalism discussion). Study with Ghanaian drummer Gideon Alorwoyie contributes to a widening conception of ensemble activity in this account. *Drumming* involves phasing, replacement of rests with beats and transfer of material among instrumental groups. In *Music for 18 Musicians*, an eleven-chord cycle and changes of bass/harmonic area organize the apparent continuity. [Ross's historical and musical interpretation]
 
 The discovery lesson is to replace “the music repeats” with questions about what remains invariant and what changes: phase relation, active attacks, instrumental group, harmony and pacing. The historical claim about study, the compositional description, Ross's expressive metaphors and a new listener's response remain separate. These are attributed examples from the book, not an assertion that the host has heard a particular recording.
 

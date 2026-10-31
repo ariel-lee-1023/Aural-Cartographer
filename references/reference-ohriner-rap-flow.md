@@ -5,7 +5,7 @@ Oxford University Press, 2019. Eight chapters in two parts, Representing Flow an
 
 ## Mental Model (read first)
 
-Rap flow is musical organization made by the voice in relation to meter. Ohriner models words, rhythm and phrasing as **primary constituents**, from which the **derived constituents** of rhyme, accent and vocal groove can be interpreted. Flow concerns the interaction of these derived constituents with meter. “Primary” describes dependency, not importance.
+Rap flow is musical organization made by the voice in relation to meter. Words, rhythm and phrasing are **primary constituents** in this model; rhyme, accent and vocal groove are **derived constituents** interpreted from them. Flow concerns the interaction of these derived constituents with meter. “Primary” describes dependency, not importance.
 
 A lyric sheet is insufficient: pronunciation, rhythmic placement, breathing and delivered emphasis can change the musical result. Conversely, a rhythmic abstraction cannot exhaust vocal sound, performed persona or lyrical meaning. The model explains choices and relations; its complexity measures do not establish artistic superiority or individual pleasure.
 
@@ -27,7 +27,7 @@ A lyric sheet is insufficient: pronunciation, rhythmic placement, breathing and 
 
 ### Chapter 2: Corpus comparison without a universal norm
 
-Ohriner distinguishes **style analysis**, finding recurrent constraints and choices in a repertoire, from **critical analysis**, interpreting a particular choice against that background. His genre-wide sample draws 75 artists from 225 names collected through six media lists; separate artist corpora support the case studies. These are historically and editorially selected samples. Unrecorded practices, artists outside media recognition, demographic biases and the list dates limit generalization.
+**Style analysis** finds recurrent constraints and choices in a repertoire; **critical analysis** interprets a particular choice against that background. The genre-wide sample draws 75 artists from 225 names collected through six media lists; separate artist corpora support the case studies. These are historically and editorially selected samples. Unrecorded practices, artists outside media recognition, demographic biases and the list dates limit generalization.
 
 A feature's rarity can help identify a consequential choice, but statistical atypicality is neither greatness nor proof of intent. Corpus averages do not certify what all rap is, how a new scene works, or what a listener prefers. Distinguish a source-reported result from a calculation actually reproduced for the current task.
 
@@ -37,7 +37,7 @@ A feature's rarity can help identify a consequential choice, but statistical aty
 
 **Word accent** belongs to a word's ordinary speech form. **Phenomenal accent** comes from sounding features such as vowel length, pitch height and intensity. **Metric accent** comes from a position's weight within the metrical framework. Rapped emphasis can combine or oppose these. A dictionary's stress mark cannot replace the performance, and a loud syllable is not the only possible accent.
 
-Ohriner's accent-discovery method uses metric position, duration and lexical stress, then pruning and correction. It is a representation with assumptions, not an infallible detector. In a practical analysis, annotate the evidence for an accent and retain conflicts among linguistic stress, acoustic prominence and metric weight. Do not fabricate a computed classification from a lyric sheet.
+The accent-discovery method uses metric position, duration and lexical stress, then pruning and correction. It is a representation with assumptions, not an infallible detector. In a practical analysis, annotate the evidence for an accent and retain conflicts among linguistic stress, acoustic prominence and metric weight. Do not fabricate a computed classification from a lyric sheet.
 
 **Inter-accent intervals (IAIs)** measure durations between successive accents. They reveal a level of patterning that syllable counts can conceal: equal syllable densities can yield different accentual motions. Track how an accent group begins, continues and terminates relative to the backing, including the effect of rests and unaccented syllables.
 
@@ -49,13 +49,13 @@ A **rhyme class** contains words or word groups heard as rhyming; a **rhyme inst
 
 Identify the participating syllables, their performed pronunciation, stress and metric placement. Similar spellings are not enough. Near rhyme, multisyllabic rhyme and noncontiguous constituents complicate a neat internal/end-rhyme division. Text can suggest candidate classes, but the exact performed instances and their placement require audio or reliable rhythmic evidence.
 
-Temporal distance and attention matter: matching sounds very close together or far apart may not function as an operative rhyme for a listener. Ohriner therefore treats rhyme identification as less readily automated than his accent representation. A count of dictionary matches misses how rhymes segment, accelerate, delay or cross a musical phrase. Distinguish textual closure from rhythmic arrival and breath closure.
+Temporal distance and attention matter: matching sounds very close together or far apart may not function as an operative rhyme for a listener. Rhyme identification is therefore less readily automated than the accent representation. A count of dictionary matches misses how rhymes segment, accelerate, delay or cross a musical phrase. Distinguish textual closure from rhythmic arrival and breath closure.
 
 *Locator: §§3.2.1–3.2.4, pp. 63–70.*
 
 ### Chapter 4: Vocal groove, rotation and persistent listening
 
-**Vocal groove** is Ohriner's model of repeating IAIs made from two- and three-unit durations in a sixteen-unit cycle. Under those restrictions and rotational equivalence, his seven **groove classes** are `<2222_2222>`, `<332_332>`, `<332_2222>`, `<323_2222>`, `<3223222>`, `<333322>` and `<333232>`. An underscore marks internal bisection; it is not a rest. These are model classes, not an exhaustive taxonomy of every rap rhythm. Ohriner explicitly acknowledges other cycle lengths.
+**Vocal groove** models repeating IAIs made from two- and three-unit durations in a sixteen-unit cycle. Under those restrictions and rotational equivalence, the seven **groove classes** are `<2222_2222>`, `<332_332>`, `<332_2222>`, `<323_2222>`, `<3223222>`, `<333322>` and `<333232>`. An underscore marks internal bisection; it is not a rest. These are model classes, not an exhaustive taxonomy of every rap rhythm. Other cycle lengths remain possible outside these restrictions.
 
 A class's **rotation** determines its relation to meter. The same interval sequence can reinforce different beats, anticipate an arrival, or undermine expected accent locations. Specify the starting position; naming a class alone loses much of the effect. **Rhythmic contour** tracks whether successive intervals shorten, lengthen or stay equal; **inner periodicity** tracks the longest stretch sustaining one interval duration. These help distinguish an extended pull away from the meter from more rapidly alternating groupings.
 
@@ -81,7 +81,7 @@ Compare the dimensions that answer the question, then explain their interaction 
 
 ### Chapters 6–7: Rhythm, text and the backing track
 
-The Eminem analyses propose a **complexity–competency nexus**: changing metric complexity participates in narratives of competence or insecurity. This is an interpretation of selected works, not a universal code for what displacement means. Ohriner's discussion of the **complexities of complexity** explicitly considers the dangers of scholarly preference, audience differences and racialized assumptions about rhythm. Technical intricacy requires a further aesthetic argument.
+The Eminem analyses propose a **complexity–competency nexus**: changing metric complexity participates in narratives of competence or insecurity. This is an interpretation of selected works, not a universal code for what displacement means. The **complexities of complexity** include scholarly preference, audience differences and racialized assumptions about rhythm. Technical intricacy requires a further aesthetic argument.
 
 The Black Thought analyses distinguish **flow–beat divergence**, **convergence on a formal process**, and **convergence with a temporal difference**. Voice and backing can become more active through different means, or present related processes at different times. They need not duplicate accents to be related. Conversely, independence is not necessarily failed coordination.
 
@@ -91,7 +91,7 @@ Recorded convergence does not identify production order: an instrumental layer m
 
 ### Chapter 8: Diagnose “off-beat” before judging it
 
-Use **combined transcription** to distinguish quantized positions from continuous placement. Ohriner separates four processes:
+Use **combined transcription** to distinguish quantized positions from continuous placement. Four processes are distinct:
 
 | Process | What must be established |
 |---|---|
@@ -108,9 +108,9 @@ For actual measurement, resolve the version, reference pulse and syllable-onset 
 
 ## Worked Example
 
-Ohriner's reading of The Roots' **“I Remember”** describes a new synthesizer stream and a vocal change in the first verse. Black Thought does not simply rap faster or insert more syllables. The reported IRIs contract from four beats to three across measures 5–7, then to two in measure 8. The voice thus presents acceleration in rhyme recurrence alongside an instrumental process of increasing activity.
+A new synthesizer stream and a vocal change appear in the first verse of The Roots' **“I Remember”** in this analysis. Black Thought does not simply rap faster or insert more syllables. The reported IRIs contract from four beats to three across measures 5–7, then to two in measure 8. The voice thus presents acceleration in rhyme recurrence alongside an instrumental process of increasing activity.
 
-This supports an explanation of convergence across different musical dimensions. It does not prove identical accent placement, a faster vocal syllable rate, or that the rapper responded to a pre-existing synthesizer part. Ohriner explicitly allows the reverse production order. This is a reconstruction of his analysis, not a fresh audition or independently verified transcription. *Locator: §7.3, pp. 167–170, especially Example 7.6 and its note.*
+This supports an explanation of convergence across different musical dimensions. It does not prove identical accent placement, a faster vocal syllable rate, or that the rapper responded to a pre-existing synthesizer part. The reverse production order remains possible. This is a reconstruction of his analysis, not a fresh audition or independently verified transcription. *Locator: §7.3, pp. 167–170, especially Example 7.6 and its note.*
 
 ## Decision Rules & Judgment
 

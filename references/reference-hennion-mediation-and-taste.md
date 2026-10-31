@@ -2,7 +2,7 @@
 **Format**: md | **Pages**: not reliably measurable in supplied conversion | **Sections**: 9 | **Depth**: study | **Type**: text
 
 ## Mental Model (read first)
-Music becomes present through mediators: bodies, instruments, notation, recordings, teachers, institutions, other listeners and practical arrangements. Taste is something people do, test and cultivate with responsive objects. Hennion refuses both the idea that an autonomous work simply causes pleasure and the idea that the work is only a screen for an already determined social identity.
+Music becomes present through mediators: bodies, instruments, notation, recordings, teachers, institutions, other listeners and practical arrangements. Taste is something people do, test and cultivate with responsive objects. Neither an autonomous work simply causing pleasure nor a work merely reflecting an already determined social identity adequately explains taste.
 
 ## Frameworks & Structure
 ### Introduction: mediation without disappearance of the object
@@ -11,12 +11,12 @@ Music becomes present through mediators: bodies, instruments, notation, recordin
 The contrast between **linear** explanations, in which a given object causes a response, and **circular** explanations, in which a group encounters itself in its objects, is a problem to investigate. Simply adding “context” to an intrinsic musical effect leaves the problem intact. Trace the concrete operations that make the music available and effective. *Locator: Introduction, “The Object, Mediation, the Social” and “Why the Term ‘Mediation’?”*
 
 ### 1. Lasting Things: Durkheim and the status of objects
-Hennion examines the tension in accounts of collective representation: material intermediaries may be acknowledged as necessary but then treated as passive signs of the group. Objects both help produce collective relations and are produced through them.
+Accounts of collective representation contain a tension: material intermediaries may be acknowledged as necessary but then treated as passive signs of the group. Objects both help produce collective relations and are produced through them.
 
 For analysis, do not decide in advance that an object is either an independent cause or a disguise for society. Ask what it enables participants to do and what difference its particular form makes. A recording's sound, a score's notation or an instrument's resistance cannot be removed from the account without testing what is lost. *Locator: ch. 1 and transition, “Restoring the Mediators.”*
 
 ### 2–5. Social readings, belief, art worlds and histories of art
-These chapters examine efforts to connect works and social life: ideological readings, theories of belief, cooperative production, social history and the social within the artwork. Hennion's recurring question concerns what status each approach grants the object and the intermediaries it introduces.
+These chapters examine efforts to connect works and social life: ideological readings, theories of belief, cooperative production, social history and the social within the artwork. Each approach grants a different status to the object and the intermediaries it introduces.
 
 **Critical reduction** becomes a problem when the analyst claims to explain attachment by exposing an underlying social cause while treating the listener's attention as illusion. Conversely, cataloguing institutions around an artwork does not yet explain the work's presence or effect. Follow how participants themselves attribute causes and evaluate differences.
 
@@ -50,7 +50,7 @@ The concert, too, is a trial in **making something happen**. Attention, reluctan
 The opposition between a pure musical object and external mediation prevents an account of how music comes to matter. Examine the made arrangements through which an experience becomes possible. Artifice can be productive without being beyond criticism. The relevant question is what a mediation accomplishes, for whom, under which conditions. *Locator: Conclusion, “The Representation of Music.”*
 
 ## Worked Example
-In the solfège lesson, an initially indifferent group becomes a class able to distinguish and reproduce musical relations. The teacher's movements, piano, stave, memory tasks and students' responses progressively reorganize attention. Hennion's account does not merely credit a charismatic teacher or a compelling tune; it shows their effects becoming possible through a series of mediations. For listener research, the analogous question is which concrete change in the listening arrangement enabled something previously unnoticed to matter. This analogy is a project application, not a tested training protocol. *Locator: ch. 7.*
+In the solfège lesson, an initially indifferent group becomes a class able to distinguish and reproduce musical relations. The teacher's movements, piano, stave, memory tasks and students' responses progressively reorganize attention. The effects of the teacher and tune become possible through this series of mediations; charisma or musical appeal alone does not explain them. For listener research, the analogous question is which concrete change in the listening arrangement enabled something previously unnoticed to matter. This analogy is a project application, not a tested training protocol. *Locator: ch. 7.*
 
 ## Decision Rules & Judgment
 - When someone says “I just like it,” investigate how that liking becomes available without treating the report as ignorance.

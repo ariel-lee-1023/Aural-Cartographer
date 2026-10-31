@@ -15,7 +15,7 @@ An **affordance** concerns what material offers in relation to a user and situat
 
 To investigate an episode, describe the musical feature, the participant's orientation, the surrounding activity and the sequence of change. Compare plausible alternatives: a feature of the music, a remembered association, a change of task, a deliberate preparation, or several together. A label such as “calming” reports an outcome that still needs explanation.
 
-DeNora explicitly rejects treating music as a **stimulus** whose semiotic force resides in its forms alone. Similar recordings may support different actions; a listener may also recruit different music to accomplish similar work. Avoid assigning fixed effects to a key, tempo or genre. *Locator: ch. 2, “Artefacts and users” and “Music is not a ‘stimulus’.”*
+Music is not a **stimulus** whose semiotic force resides in its forms alone. Similar recordings may support different actions; a listener may also recruit different music to accomplish similar work. Avoid assigning fixed effects to a key, tempo or genre. *Locator: ch. 2, “Artefacts and users” and “Music is not a ‘stimulus’.”*
 
 ### 3. Music as a technology of self
 **Technology of self** names music's use in shaping energy, mood, concentration, self-understanding and continuity over time. Listeners can show considerable practical knowledge about what they need and how to prepare an occasion, even if they cannot express that knowledge as musical analysis.
@@ -43,12 +43,12 @@ The question of control is essential: who supplies the sonic environment and who
 Investigate selection, volume, spatial reach, opportunities to leave or change the music, and the activities made more or less available. A listener's silence or continued presence does not establish enjoyment. *Locator: ch. 5, especially “Music for strangers” and “The sound of consumption.”*
 
 ### 6. Music's social powers: specify the catalyst
-A claim about music's power needs an account of how music and action become connected. DeNora's closing discussion of **latching** provides an entry point into this local process. The body, the material and the social setting cannot be treated as independent variables simply added after a universal sonic effect.
+A claim about music's power needs an account of how music and action become connected. **Latching** names an entry point into this local process. [Chapter 6] The body, the material and the social setting cannot be treated as independent variables simply added after a universal sonic effect.
 
 Aural-Cartographer's adaptation is a modest episode record: situation → musical material → engagement → experienced consequence → rival explanations. This is an operational research aid, not DeNora's named experimental design or proof of causality. *Locator: ch. 6, “Musical power and its mechanisms.”*
 
 ## Worked Example
-Lucy describes Schubert's Impromptus helping her become less stressed. DeNora considers quietness, songlike phrasing, musical ambiguity and a gentle manner of performance, while retaining Lucy's perception and circumstances. These features are contributors to a particular realignment, not an independently sufficient calming stimulus. To apply the case, record whether a similar effect survives a different context or version; do not prescribe Schubert as universally relaxing. The musical description here belongs to DeNora's account, not a new listening analysis. *Locator: ch. 2, printed pp. 41–44.*
+Lucy describes Schubert's Impromptus helping her become less stressed. Quietness, songlike phrasing, musical ambiguity and a gentle manner of performance contribute within Lucy's perception and circumstances. These features are contributors to a particular realignment, not an independently sufficient calming stimulus. To apply the case, record whether a similar effect survives a different context or version; do not prescribe Schubert as universally relaxing. The musical description here belongs to DeNora's account, not a new listening analysis. *Locator: ch. 2, printed pp. 41–44.*
 
 ## Decision Rules & Judgment
 - When a reaction changes, first ask what changed in the activity, setting or listening aim.

@@ -2,7 +2,7 @@
 **Format**: md | **Pages**: not reliably measurable in supplied conversion | **Sections**: 27 | **Depth**: study | **Type**: text
 
 ## Mental Model (read first)
-A critic's aversion can disclose the critic's social commitments as well as properties of the music. Wilson deliberately investigates a disliked object and its admirers, asking what sustains both their pleasure and his resistance. Understanding another pleasure need not produce conversion, erase discrimination or make all works equally successful.
+A critic's aversion can disclose the critic's social commitments as well as properties of the music. Investigating a disliked object and its admirers can reveal what sustains their pleasure and the critic's resistance. Understanding another pleasure need not produce conversion, erase discrimination or make all works equally successful.
 
 The supplied expanded edition contains the original twelve-chapter essay, an introduction and thirteen responses in Part Two, and Wilson's afterword. This reference concentrates on the original argument and two dissenting responses. Other contributors are not silently attributed to Wilson; the edition's broader response collection is not fully distilled here.
 
@@ -23,7 +23,7 @@ Investigate how a performer becomes intelligible within different publics. Do no
 Ask what kind of emotional address a work attempts and how its formal or performative means sustain it. Distinguish an objection to a poorly realized gesture from rejection of the gesture's whole tradition. At the same time, recovering a tradition does not prove a particular performance successful. *Locator: Part One, chs. 5–6.*
 
 ### 7–8. Taste, distinction and omnivorousness
-Wilson uses the problem of **disinterested judgment** and Bourdieu's **distinction** to examine how preferences participate in hierarchy. Naming a work “bad taste” can help position the speaker. The inference is a hypothesis to investigate in context, not a universal diagnosis of hidden motive.
+The problem of **disinterested judgment** and Bourdieu's **distinction** concern how preferences participate in hierarchy. Naming a work “bad taste” can help position the speaker. The inference is a hypothesis to investigate in context, not a universal diagnosis of hidden motive.
 
 The **omnivore** ideal, discussed through sociological work, complicates an older highbrow/lowbrow division. Breadth itself can become a status display. Listing classical music, hip-hop and international pop together does not show that all hierarchies have vanished; more subtle exclusions may remain.
 
@@ -37,7 +37,7 @@ Treat these accounts as situated testimony, not a new consensus that overrides m
 ### 10–11. Covers, feelings and the return to reviewing
 An ironic, punk or otherwise recoded version can reveal that approval depends partly on framing. Compare which words, melodic relations and emotional gestures remain, what the new performance changes, and what social permission the new presentation supplies.
 
-Wilson eventually returns to evaluating the record. The process is not complete if research merely announces that others have reasons to like it. Give a musical judgment with better understood criteria, and show what changed and what did not. The mock-review format in ch. 11 should not be mistaken for a verified discographical claim about a real “Aluminum Anniversary Edition.” *Locator: Part One, chs. 10–11.*
+Evaluation of the record remains necessary; research is not complete when it merely announces that others have reasons to like it. Give a musical judgment with better understood criteria, and show what changed and what did not. The mock-review format in ch. 11 should not be mistaken for a verified discographical claim about a real “Aluminum Anniversary Edition.” *Locator: Part One, chs. 10–11.*
 
 ### 12. Love without compulsory conversion
 At the end of the immersion, Wilson does not claim to have become an ordinary Dion fan or to like her as he likes his own familiar music. What changes includes his understanding of the work involved in not being a fan. That is a substantive outcome.
@@ -45,7 +45,7 @@ At the end of the immersion, Wilson does not claim to have become an ordinary Di
 Do not turn openness into an obligation to enjoy. A revised judgment may become more precise, less contemptuous and still negative. Aural-Cartographer should support that outcome rather than optimizing every inquiry toward approval. *Locator: Part One, ch. 12.*
 
 ### Part Two: preserve the dissenting voices
-**Marco Roth and the editors of n+1, “Too Much Sociology”:** challenges the ease with which talk about art becomes talk about class, status and careers. Wilson introduces it as a useful counterbalance while noting disagreement. Retain the objection: social explanation can become another way of not examining a work's aesthetic claims.
+**Marco Roth and the editors of n+1, “Too Much Sociology”:** challenges the ease with which talk about art becomes talk about class, status and careers. This response offers a counterbalance to the main essay while remaining in disagreement with it. Retain the objection: social explanation can become another way of not examining a work's aesthetic claims.
 
 **Jonathan Sterne, “Giving Up on Giving Up on Good Taste”:** questions the self-congratulation that can accompany compulsory pluralism. An invitation to include other tastes can itself perform privilege or authority. Openness needs attention to its social position, not a certificate of innocence.
 

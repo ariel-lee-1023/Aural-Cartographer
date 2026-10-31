@@ -13,9 +13,9 @@ A sample contains a performed and recorded history, yet its new function need no
 
 ### Chapters 1–2: Beats, rhymes and the history of a practice
 
-Schloss begins with the relatively differentiated work of **beats** and **rhymes**. In his subject area a beat is an organized collage of recorded fragments; the MC contributes rhythmic verbal performance. This division of labor makes the producer's decisions visible, but does not imply that voice and accompaniment develop independently or that every hip-hop beat is sampled.
+**Beats** and **rhymes** involve relatively differentiated work. In this sample-based production community a beat is an organized collage of recorded fragments; the MC contributes rhythmic verbal performance. This division of labor makes the producer's decisions visible, but does not imply that voice and accompaniment develop independently or that every hip-hop beat is sampled.
 
-His history relates sampling practice to DJs' repeated breaks and their compositional values. The sampler did not dictate this use: a capacity designed to repeat recorded material could be appropriated to sustain the break's cyclic organization. Technical possibility and culturally selected use are different explanations. Katz supplies the broader media account; Schloss supplies the practices and judgments that make the possibility musically consequential.
+Sampling practice develops in relation to DJs' repeated breaks and their compositional values. The sampler did not dictate this use: a capacity designed to repeat recorded material could be appropriated to sustain the break's cyclic organization. Technical possibility and culturally selected use are different explanations. Katz supplies the broader media account; Schloss supplies the practices and judgments that make the possibility musically consequential.
 
 Ethnographic scope matters. The consultants include geographically dispersed producers, many respected working professionals rather than celebrities, and are overwhelmingly male. Their judgments are neither a survey of every listener nor universal laws of genre membership. Their language supplies an account of situated expertise, not operational instructions for an agent to obey.
 
@@ -43,7 +43,7 @@ The 2014 afterword changes the force of the original account: online information
 
 ### Chapter 5: Sampling ethics are community judgments
 
-Schloss distinguishes **ethics**, where a choice bears on standing and legitimacy, from **aesthetics**, where it is a preference about musical beauty. The distinction can blur in practice, and an aesthetic preference becomes ethical when it is moralized. The chapter's prescriptive headings are Schloss's distillation of contested positions, not his endorsement or a unanimous code.
+**Ethics** concerns choices bearing on standing and legitimacy; **aesthetics** concerns preferences about musical beauty. The distinction can blur in practice, and an aesthetic preference becomes ethical when it is moralized. The chapter's prescriptive headings are Schloss's distillation of contested positions, not his endorsement or a unanimous code.
 
 - **Biting** is a pejorative judgment about appropriating another hip-hop artist's intellectual material. It is not identical to sampling an older recording outside that immediate community.
 - **Flipping** means substantially and creatively changing material. It can concern more than one technical operation.
@@ -58,7 +58,7 @@ Other source-era rules include preferences for original vinyl, restrictions on s
 
 ### Chapter 6: Four levels of compositional judgment
 
-Schloss organizes sample-based aesthetics at four interacting levels:
+Sample-based aesthetics operates at four interacting levels:
 
 | Level | Analytical question |
 |---|---|
@@ -83,13 +83,13 @@ The source preserves a real disagreement over RZA: some consultants judge the lo
 
 A short sample can contain several instruments, their mutual timing and the ambience of the original recording. **Selection** includes noticing this whole fragment. **Filtering** may isolate a useful attack but also change its body; unwanted residue can either interfere with the construction or become part of its identity. Exact filtering settings cannot be reverse-engineered from a vague sonic description.
 
-Timbral fit is not necessarily identical timbre. Schloss relates collage to Olly Wilson's **heterogeneous sound ideal**, while also documenting producers who seek coherent texture. Describe how contrast or continuity is organized. Neither heterogeneous origins nor a common vintage automatically makes the resulting combination successful.
+Timbral fit is not necessarily identical timbre. Collage can realize Olly Wilson's **heterogeneous sound ideal**, while some producers seek coherent texture. [Schloss's ethnographic account] Describe how contrast or continuity is organized. Neither heterogeneous origins nor a common vintage automatically makes the resulting combination successful.
 
-Chopping and resequencing redistribute contour, rhythm and emphasis. A changed order, repeat or omission can create a new phrase without replacing every sound. Distinguish this from replaying a part that imitates a chopped effect. Schloss discusses Alicia Keys' “Girlfriend” as a performed imitation of the chopped piano figure associated with “Brooklyn Zoo”; that is his attributed account, not a license to label any discontinuous keyboard sound a sample.
+Chopping and resequencing redistribute contour, rhythm and emphasis. A changed order, repeat or omission can create a new phrase without replacing every sound. Distinguish this from replaying a part that imitates a chopped effect. Alicia Keys' “Girlfriend” is interpreted as a performed imitation of the chopped piano figure associated with “Brooklyn Zoo”; this is Schloss's attributed account, not a license to label any discontinuous keyboard sound a sample.
 
 Producer intention is not always an advance blueprint. Trying combinations can discover the musical problem and its solution together. Labor time, obscurity and technical difficulty do not determine value. Likewise, a source's prestige or apparent corniness does not decide whether one of its fragments will work.
 
-Schloss disputes scholarship that treats sampling primarily as symbolic citation, irony or resistance. His consultants frequently emphasize sound and relational function. This does not prove samples never carry social or historical meaning; parody and tribute are explicit possibilities. Separate audible function, a listener's association and documented producer intent. Do not infer the source's whole meaning or an ironic attitude from its reuse.
+Treating sampling primarily as symbolic citation, irony or resistance misses the sound and relational function frequently emphasized by the interviewed producers. This does not prove samples never carry social or historical meaning; parody and tribute are explicit possibilities. Separate audible function, a listener's association and documented producer intent. Do not infer the source's whole meaning or an ironic attitude from its reuse.
 
 *Locator: chapter 6, pp. 144–153; later aesthetic detail is selectively compressed.*
 
@@ -113,7 +113,7 @@ Hardware can persist for tactile interaction, workflow, perceived sonic qualitie
 
 ## Worked Example
 
-Schloss uses **“Player's Anthem” / “Ya Playin' Yaself”** to explain creative response within a no-biting convention. His account and numbered diagram show DJ Premier retaining recognizable bass material while chopping and changing its order, contour and rhythmic emphasis. The new title and lyrical stance support the reading of a response to the earlier track's materialism.
+**“Player's Anthem” / “Ya Playin' Yaself”** illustrates creative response within a no-biting convention. DJ Premier retains recognizable bass material while chopping and changing its order, contour and rhythmic emphasis in the documented account and numbered diagram. The new title and lyrical stance support the reading of a response to the earlier track's materialism.
 
 The analytical result has several parts: recognizable material makes the relation legible; rearrangement creates a distinct musical gesture; the new vocal context changes its rhetorical use; community judgments concern the displayed transformation. This is not a deduction from resemblance alone: it is Schloss's attributed account, including a consultant's interpretation and his diagram. It does not independently establish clearance, the identity of every source layer or the precise production session. *Locators: pp. 107–108; figure on printed p. 108 / PDF p. 128 visually checked.*
 

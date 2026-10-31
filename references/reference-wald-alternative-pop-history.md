@@ -2,7 +2,7 @@
 **Format**: md | **Pages**: not reliably measurable in supplied conversion | **Sections**: 18 | **Depth**: study | **Type**: text
 
 ## Mental Model (read first)
-Reconstruct the musical world people actually inhabited, including dance work, ordinary repertory, best-sellers and performers later critics discounted. A history of enduring masterpieces is not the same as a history of popular music. Wald's provocative title challenges a canon-centered account of progress; it should not become a literal claim that one band single-handedly ruined music.
+Reconstruct the musical world people actually inhabited, including dance work, ordinary repertory, best-sellers and performers later critics discounted. A history of enduring masterpieces is not the same as a history of popular music. A canon-centered account of progress is inadequate; the provocative title is not a literal claim that one band single-handedly ruined music.
 
 ## Frameworks & Structure
 ### Introduction: change the historical question
@@ -56,12 +56,12 @@ The Beatles' success coexisted with older popular stars and practices. A rhetori
 State Wald's argument as an interpretation of that transformation. It is not a measured counterfactual proving what music would have become without the Beatles, and it does not settle their aesthetic merit. *Locator: ch. 17.*
 
 ### Epilogue: The Rock Blot and the Disco Diagram
-Rock-centered accounts can overshadow continuing dance-oriented popular music. Increasing specialization altered the expectation that working musicians should play across styles to satisfy mixed audiences. Wald values the possibilities produced by that earlier pressure and criticizes a purity-centered picture of musical progress.
+Rock-centered accounts can overshadow continuing dance-oriented popular music. Increasing specialization altered the expectation that working musicians should play across styles to satisfy mixed audiences. That earlier pressure enabled valuable possibilities obscured by a purity-centered picture of musical progress. [Wald's evaluative argument]
 
 Preserve the author's evaluative commitment as an argument, not a neutral inevitability. Greater specialization can also yield valued work. For discovery, deliberately seek the historically important dance or commercial practice omitted by the canonical route. *Locator: Epilogue.*
 
 ## Worked Example
-Wald places Sinatra's *In the Wee Small Hours* beside the adult mood-album market. Its distinctive achievement does not require pretending that its late-night atmosphere came from nowhere or that surrounding mood records were culturally irrelevant. A librarian should maintain both relations: the shared listening setting and the critic's reasons for differentiating the work. This yields a discovery route through a musical function and its history rather than through a retrospective list of masterpieces. *Locator: ch. 14, discussion of Sinatra and mood music.*
+Sinatra's *In the Wee Small Hours* belongs alongside the adult mood-album market in this historical comparison. Its distinctive achievement does not require pretending that its late-night atmosphere came from nowhere or that surrounding mood records were culturally irrelevant. A librarian should maintain both relations: the shared listening setting and the critic's reasons for differentiating the work. This yields a discovery route through a musical function and its history rather than through a retrospective list of masterpieces. *Locator: ch. 14, discussion of Sinatra and mood music.*
 
 ## Decision Rules & Judgment
 - When describing “the music of an era,” check ordinary consumption and performance alongside the later canon.
